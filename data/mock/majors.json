@@ -1,0 +1,75 @@
+[
+  {
+    "id": "cs",
+    "name": "Computer Science",
+    "category": "Engineering & Technology",
+    "cipCode": "11.0701"
+  },
+  {
+    "id": "ee",
+    "name": "Electrical Engineering",
+    "category": "Engineering & Technology",
+    "cipCode": "14.1001"
+  },
+  {
+    "id": "me",
+    "name": "Mechanical Engineering",
+    "category": "Engineering & Technology",
+    "cipCode": "14.1901"
+  },
+  {
+    "id": "econ",
+    "name": "Economics",
+    "category": "Social Sciences",
+    "cipCode": "45.0601"
+  },
+  {
+    "id": "finance",
+    "name": "Finance",
+    "category": "Business",
+    "cipCode": "52.0801"
+  },
+  {
+    "id": "bio",
+    "name": "Biology",
+    "category": "Life Sciences",
+    "cipCode": "26.0101"
+  },
+  {
+    "id": "chem",
+    "name": "Chemistry",
+    "category": "Physical Sciences",
+    "cipCode": "40.0501"
+  },
+  {
+    "id": "psych",
+    "name": "Psychology",
+    "category": "Social Sciences",
+    "cipCode": "42.0101"
+  },
+  {
+    "id": "polisci",
+    "name": "Political Science",
+    "category": "Social Sciences",
+    "cipCode": "45.1001"
+  },
+  {
+    "id": "english",
+    "name": "English",
+    "category": "Humanities",
+    "cipCode": "23.0101"
+  },
+  {
+    "id": "nursing",
+    "name": "Nursing",
+    "category": "Health Sciences",
+    "cipCode": "51.3801"
+  },
+  {
+    "id": "data-science",
+    "name": "Data Science",
+    "category": "Engineering & Technology",
+    "cipCode": "30.7001"
+  }
+]
+

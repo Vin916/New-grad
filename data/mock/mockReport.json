@@ -1,0 +1,129 @@
+{
+  "scenario": {
+    "stage": "COLLEGE",
+    "schoolId": "stanford",
+    "majorId": "cs",
+    "collegeYear": "SENIOR",
+    "intendedLocation": "San Francisco Bay Area",
+    "riskTolerance": "MEDIUM",
+    "gradSchoolInterest": false
+  },
+  "cohortMeta": {
+    "gradYearRange": "2020-2024",
+    "sampleSize": 1250
+  },
+  "snapshot": {
+    "topPath": "Full-time Employment",
+    "medianSalary": 175000,
+    "topMetro": "San Francisco Bay Area"
+  },
+  "paths": [
+    { "category": "Full-time Employment", "pct": 72 },
+    { "category": "Graduate School", "pct": 18 },
+    { "category": "Startup/Entrepreneurship", "pct": 6 },
+    { "category": "Other", "pct": 4 }
+  ],
+  "salary": {
+    "p25": 145000,
+    "p50": 175000,
+    "p75": 210000,
+    "p90": 280000,
+    "currency": "USD",
+    "year": 2024
+  },
+  "relocation": {
+    "metros": [
+      { "name": "San Francisco Bay Area", "pct": 48 },
+      { "name": "Seattle", "pct": 18 },
+      { "name": "New York City", "pct": 12 },
+      { "name": "Los Angeles", "pct": 8 },
+      { "name": "Austin", "pct": 5 }
+    ],
+    "states": [
+      { "name": "California", "pct": 58 },
+      { "name": "Washington", "pct": 18 },
+      { "name": "New York", "pct": 12 },
+      { "name": "Texas", "pct": 5 }
+    ]
+  },
+  "employers": [
+    { "name": "Google", "pct": 15 },
+    { "name": "Meta", "pct": 12 },
+    { "name": "Apple", "pct": 10 },
+    { "name": "Microsoft", "pct": 8 },
+    { "name": "Amazon", "pct": 7 },
+    { "name": "Startups (Series A-C)", "pct": 18 }
+  ],
+  "titles": [
+    { "name": "Software Engineer", "pct": 55 },
+    { "name": "Machine Learning Engineer", "pct": 12 },
+    { "name": "Product Manager", "pct": 8 },
+    { "name": "Data Scientist", "pct": 6 },
+    { "name": "Research Scientist", "pct": 5 }
+  ],
+  "timeline": [
+    {
+      "milestoneType": "JOB_SEARCH_START",
+      "startMonth": -6,
+      "endMonth": -3,
+      "pct": 85,
+      "label": "Begin Job Search",
+      "details": "Most students start applying 6-3 months before graduation"
+    },
+    {
+      "milestoneType": "FIRST_OFFER",
+      "startMonth": -4,
+      "endMonth": 0,
+      "pct": 72,
+      "label": "Receive First Offer",
+      "details": "72% of CS graduates receive at least one offer before graduation"
+    },
+    {
+      "milestoneType": "START_EMPLOYMENT",
+      "startMonth": 0,
+      "endMonth": 3,
+      "pct": 68,
+      "label": "Start Full-time Role",
+      "details": "Most graduates start within 3 months of graduation"
+    },
+    {
+      "milestoneType": "FIRST_PROMOTION",
+      "startMonth": 12,
+      "endMonth": 24,
+      "pct": 45,
+      "label": "First Promotion",
+      "details": "About 45% receive a title change or level bump within 2 years"
+    },
+    {
+      "milestoneType": "FIRST_JOB_CHANGE",
+      "startMonth": 18,
+      "endMonth": 36,
+      "pct": 55,
+      "label": "First Job Change",
+      "details": "Over half of tech workers change jobs within 3 years for better opportunities"
+    },
+    {
+      "milestoneType": "SENIOR_ROLE",
+      "startMonth": 36,
+      "endMonth": 60,
+      "pct": 35,
+      "label": "Reach Senior Level",
+      "details": "About 35% reach senior/staff level within 5 years post-graduation"
+    }
+  ],
+  "riskFlags": [
+    {
+      "level": "INFO",
+      "message": "Bay Area has high cost of living - consider real wage vs nominal salary"
+    },
+    {
+      "level": "INFO",
+      "message": "Tech industry has cyclical hiring patterns - timing matters for job search"
+    },
+    {
+      "level": "WARN",
+      "message": "Starting salary varies significantly by company tier and negotiation"
+    }
+  ]
+}
+

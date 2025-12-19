@@ -1,0 +1,146 @@
+[
+  {
+    "id": "stanford-cs",
+    "schoolId": "stanford",
+    "majorId": "cs",
+    "gradYearRange": "2020-2024",
+    "sampleSize": 1250,
+    "paths": [
+      { "category": "Full-time Employment", "pct": 72 },
+      { "category": "Graduate School", "pct": 18 },
+      { "category": "Startup/Entrepreneurship", "pct": 6 },
+      { "category": "Other", "pct": 4 }
+    ],
+    "salary": {
+      "p25": 145000,
+      "p50": 175000,
+      "p75": 210000,
+      "p90": 280000,
+      "currency": "USD",
+      "year": 2024
+    },
+    "relocation": {
+      "metros": [
+        { "name": "San Francisco Bay Area", "pct": 48 },
+        { "name": "Seattle", "pct": 18 },
+        { "name": "New York City", "pct": 12 },
+        { "name": "Los Angeles", "pct": 8 },
+        { "name": "Austin", "pct": 5 }
+      ],
+      "states": [
+        { "name": "California", "pct": 58 },
+        { "name": "Washington", "pct": 18 },
+        { "name": "New York", "pct": 12 },
+        { "name": "Texas", "pct": 5 }
+      ]
+    },
+    "employers": [
+      { "name": "Google", "pct": 15 },
+      { "name": "Meta", "pct": 12 },
+      { "name": "Apple", "pct": 10 },
+      { "name": "Microsoft", "pct": 8 },
+      { "name": "Amazon", "pct": 7 },
+      { "name": "Startups (Series A-C)", "pct": 18 }
+    ],
+    "titles": [
+      { "name": "Software Engineer", "pct": 55 },
+      { "name": "Machine Learning Engineer", "pct": 12 },
+      { "name": "Product Manager", "pct": 8 },
+      { "name": "Data Scientist", "pct": 6 },
+      { "name": "Research Scientist", "pct": 5 }
+    ]
+  },
+  {
+    "id": "umich-econ",
+    "schoolId": "umich",
+    "majorId": "econ",
+    "gradYearRange": "2020-2024",
+    "sampleSize": 890,
+    "paths": [
+      { "category": "Full-time Employment", "pct": 68 },
+      { "category": "Graduate School", "pct": 22 },
+      { "category": "Gap Year/Travel", "pct": 5 },
+      { "category": "Other", "pct": 5 }
+    ],
+    "salary": {
+      "p25": 62000,
+      "p50": 78000,
+      "p75": 95000,
+      "p90": 125000,
+      "currency": "USD",
+      "year": 2024
+    },
+    "relocation": {
+      "metros": [
+        { "name": "New York City", "pct": 28 },
+        { "name": "Chicago", "pct": 22 },
+        { "name": "Detroit", "pct": 12 },
+        { "name": "San Francisco Bay Area", "pct": 8 },
+        { "name": "Washington DC", "pct": 7 }
+      ],
+      "states": [
+        { "name": "New York", "pct": 28 },
+        { "name": "Illinois", "pct": 22 },
+        { "name": "Michigan", "pct": 18 },
+        { "name": "California", "pct": 10 }
+      ]
+    },
+    "employers": [
+      { "name": "Goldman Sachs", "pct": 8 },
+      { "name": "JP Morgan", "pct": 7 },
+      { "name": "McKinsey", "pct": 5 },
+      { "name": "Deloitte", "pct": 6 },
+      { "name": "Various Consulting", "pct": 15 }
+    ],
+    "titles": [
+      { "name": "Financial Analyst", "pct": 25 },
+      { "name": "Consultant", "pct": 18 },
+      { "name": "Investment Banking Analyst", "pct": 12 },
+      { "name": "Business Analyst", "pct": 10 },
+      { "name": "Research Analyst", "pct": 8 }
+    ]
+  },
+  {
+    "id": "default",
+    "schoolId": "default",
+    "majorId": "default",
+    "gradYearRange": "2020-2024",
+    "sampleSize": 500,
+    "paths": [
+      { "category": "Full-time Employment", "pct": 65 },
+      { "category": "Graduate School", "pct": 20 },
+      { "category": "Part-time/Gig Work", "pct": 8 },
+      { "category": "Other", "pct": 7 }
+    ],
+    "salary": {
+      "p25": 45000,
+      "p50": 55000,
+      "p75": 70000,
+      "p90": 90000,
+      "currency": "USD",
+      "year": 2024
+    },
+    "relocation": {
+      "metros": [
+        { "name": "New York City", "pct": 15 },
+        { "name": "Los Angeles", "pct": 12 },
+        { "name": "Chicago", "pct": 10 },
+        { "name": "Dallas", "pct": 8 },
+        { "name": "Atlanta", "pct": 7 }
+      ],
+      "states": [
+        { "name": "California", "pct": 18 },
+        { "name": "New York", "pct": 15 },
+        { "name": "Texas", "pct": 12 },
+        { "name": "Florida", "pct": 8 }
+      ]
+    },
+    "employers": [
+      { "name": "Various Industries", "pct": 100 }
+    ],
+    "titles": [
+      { "name": "Various Entry-Level Positions", "pct": 100 }
+    ]
+  }
+]
+
