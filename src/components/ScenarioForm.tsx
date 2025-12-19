@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { useRouter } from "next/navigation";
 import {
   ScenarioInput,
@@ -10,6 +10,7 @@ import {
   School,
   Major,
 } from "@/contracts";
+import { SearchableSelect } from "./SearchableSelect";
 
 interface ScenarioFormProps {
   onSubmit?: (scenario: ScenarioInput) => void;
@@ -48,6 +49,27 @@ export function ScenarioForm({
   const [schools, setSchools] = useState<School[]>([]);
   const [majors, setMajors] = useState<Major[]>([]);
   const [loading, setLoading] = useState(true);
+
+  // Memoized options for searchable selects
+  const schoolOptions = useMemo(
+    () =>
+      schools.map((school) => ({
+        id: school.id,
+        label: school.name,
+        sublabel: school.city && school.state ? `${school.city}, ${school.state}` : school.state,
+      })),
+    [schools]
+  );
+
+  const majorOptions = useMemo(
+    () =>
+      majors.map((major) => ({
+        id: major.id,
+        label: major.name.replace(/\.$/, ""), // Remove trailing period
+        sublabel: major.category,
+      })),
+    [majors]
+  );
 
   // Fetch schools and majors on mount
   useEffect(() => {
@@ -137,53 +159,27 @@ export function ScenarioForm({
         </div>
       </div>
 
-      {/* School Selection */}
-      <div>
-        <label
-          htmlFor="school"
-          className="block text-sm font-medium text-slate-700 mb-2"
-        >
-          School
-        </label>
-        <select
-          id="school"
-          value={schoolId}
-          onChange={(e) => setSchoolId(e.target.value)}
-          required
-          className="w-full px-4 py-3 rounded-lg border border-slate-300 bg-white text-slate-900 focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
-        >
-          <option value="">Select a school...</option>
-          {schools.map((school) => (
-            <option key={school.id} value={school.id}>
-              {school.name}
-            </option>
-          ))}
-        </select>
-      </div>
+      {/* School Selection - Searchable */}
+      <SearchableSelect
+        label="School"
+        id="school"
+        value={schoolId}
+        onChange={setSchoolId}
+        placeholder="Search for your school..."
+        required
+        options={schoolOptions}
+      />
 
-      {/* Major Selection */}
-      <div>
-        <label
-          htmlFor="major"
-          className="block text-sm font-medium text-slate-700 mb-2"
-        >
-          Major
-        </label>
-        <select
-          id="major"
-          value={majorId}
-          onChange={(e) => setMajorId(e.target.value)}
-          required
-          className="w-full px-4 py-3 rounded-lg border border-slate-300 bg-white text-slate-900 focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
-        >
-          <option value="">Select a major...</option>
-          {majors.map((major) => (
-            <option key={major.id} value={major.id}>
-              {major.name}
-            </option>
-          ))}
-        </select>
-      </div>
+      {/* Major Selection - Searchable */}
+      <SearchableSelect
+        label="Major"
+        id="major"
+        value={majorId}
+        onChange={setMajorId}
+        placeholder="Search for your major..."
+        required
+        options={majorOptions}
+      />
 
       {/* Conditional: College Year */}
       {stage === "COLLEGE" && (

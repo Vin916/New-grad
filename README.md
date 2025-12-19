@@ -21,27 +21,36 @@ AfterGrad will eventually:
 
 ## Current Skeleton MVP
 
-This is a **skeleton implementation** with working navigation and stubbed endpoints. All data is mock/placeholder.
+This is a **working skeleton** with real College Scorecard data integrated.
 
 ### ✅ What's Implemented Now
 
 | Layer | Component | Status |
 |-------|-----------|--------|
 | **Contracts** | Zod schemas + TypeScript types for `ScenarioInput`, `ReportOutput`, and all sub-types | ✅ Complete |
-| **Mock Data** | `schools.json`, `majors.json`, `cohorts.json`, `mockReport.json` | ✅ Complete |
+| **Real Data** | **2,067 schools**, **390 majors**, **2,000 cohorts**, **832 occupations** with salary data | ✅ Integrated |
 | **Repositories** | `schoolsRepo`, `majorsRepo`, `cohortsRepo` (read from JSON) | ✅ Complete |
 | **Services** | `reportService`, `timelineService` | ✅ Complete |
 | **Rules** | `timelineFallback`, `riskFlags` | ✅ Complete |
 | **API Routes** | `GET /api/schools`, `GET /api/majors`, `POST /api/report` | ✅ Complete |
-| **Components** | `ScenarioForm`, `ReportSections`, `Timeline`, `CompareView` | ✅ Complete |
+| **Components** | `ScenarioForm`, `ReportSections`, `Timeline`, `CompareView`, `SearchableSelect` | ✅ Complete |
 | **Pages** | Landing (`/`), Report (`/report`), Compare (`/compare`) | ✅ Complete |
-| **UI** | Basic but functional Tailwind styling with responsive design | ✅ Complete |
+| **UI** | Tailwind styling with **searchable dropdowns** for schools/majors | ✅ Complete |
+
+### 📊 Data Sources
+
+The following data files are included and parsed:
+
+| File | Source | Records | Data |
+|------|--------|---------|------|
+| `Most-Recent-Cohorts-Institution.csv` | College Scorecard | 2,067 schools | School name, location, type |
+| `Most-Recent-Cohorts-Field-of-Study.csv` | College Scorecard | 390 majors | Major name, CIP code, earnings |
+| `Employment Projections.csv` | BLS | 832 occupations | Job outlook, growth, wages |
+| `national_M2024_dl.xlsx` | BLS | 831 records | Detailed salary percentiles |
 
 ### ❌ Not Implemented Yet
 
 - Stripe/payments
-- Real data ingestion pipelines
-- Web scraping
 - Complex statistical modeling
 - Full UI polish (charts, maps, animations)
 - Authentication / saved profiles
@@ -65,16 +74,23 @@ aftergrad/
 │   └── api/
 │       ├── schools/route.ts     # GET schools
 │       ├── majors/route.ts      # GET majors
+│       ├── occupations/route.ts # GET occupations (job outlook)
 │       └── report/route.ts      # POST report
+├── Most-Recent-Cohorts-Institution.csv    # College Scorecard schools data
+├── Most-Recent-Cohorts-Field-of-Study.csv # College Scorecard majors/earnings
+├── Employment Projections.csv             # BLS job outlook data
+├── national_M2024_dl.xlsx                 # BLS salary percentiles
 ├── src/
 │   ├── contracts/               # Zod schemas + TS types
 │   │   ├── scenario.ts
 │   │   ├── report.ts
+│   │   ├── occupation.ts
 │   │   └── index.ts
 │   ├── repositories/            # Data access layer
 │   │   ├── schoolsRepo.ts
 │   │   ├── majorsRepo.ts
 │   │   ├── cohortsRepo.ts
+│   │   ├── occupationsRepo.ts
 │   │   └── index.ts
 │   ├── services/                # Business logic
 │   │   ├── reportService.ts
@@ -86,14 +102,17 @@ aftergrad/
 │   │   └── index.ts
 │   └── components/              # React components
 │       ├── ScenarioForm.tsx
+│       ├── SearchableSelect.tsx  # Searchable dropdown component
 │       ├── ReportSections.tsx
 │       ├── Timeline.tsx
 │       ├── CompareView.tsx
 │       └── index.ts
-├── data/mock/                   # Mock JSON data
-│   ├── schools.json
-│   ├── majors.json
-│   ├── cohorts.json
+├── data/mock/                   # Parsed JSON data from CSVs
+│   ├── schools.json             # 2,067 schools
+│   ├── majors.json              # 390 majors
+│   ├── cohorts.json             # 2,000 cohorts
+│   ├── occupations.json         # 832 occupations
+│   ├── salaryByOccupation.json  # Detailed salary percentiles
 │   └── mockReport.json
 ├── package.json
 ├── tsconfig.json

@@ -97,7 +97,7 @@ export function generateRiskFlags(
   }
 
   // Industry-specific flags (based on top employers in cohort)
-  if (cohort && cohort.employers.length > 0) {
+  if (cohort && cohort.employers && cohort.employers.length > 0) {
     const hasVolatileIndustry = cohort.employers.some((e) =>
       VOLATILE_INDUSTRIES.some((v) =>
         e.name.toLowerCase().includes(v.toLowerCase())
@@ -126,7 +126,7 @@ export function generateRiskFlags(
   }
 
   // Location mismatch warning
-  if (scenario.intendedLocation && cohort && cohort.relocation.metros.length > 0) {
+  if (scenario.intendedLocation && cohort && cohort.relocation && cohort.relocation.metros.length > 0) {
     const topMetro = cohort.relocation.metros[0].name.toLowerCase();
     const intended = scenario.intendedLocation.toLowerCase();
     const matchesTop = topMetro.includes(intended) || intended.includes(topMetro);

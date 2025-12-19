@@ -2,4 +2,5 @@
 export { SchoolsRepository, schoolsRepo } from "./schoolsRepo";
 export { MajorsRepository, majorsRepo } from "./majorsRepo";
 export { CohortsRepository, cohortsRepo } from "./cohortsRepo";
+export { OccupationsRepository, occupationsRepo } from "./occupationsRepo";
 

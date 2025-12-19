@@ -1,0 +1,6658 @@
+[
+  {
+    "code": "13-2011",
+    "title": "Accountants and auditors",
+    "medianWage": 81680,
+    "education": "Bachelor's degree",
+    "growthPct": 4.6,
+    "annualOpenings": 124.2
+  },
+  {
+    "code": "27-2011",
+    "title": "Actors",
+    "medianWage": null,
+    "education": "Some college, no degree",
+    "growthPct": 0.3,
+    "annualOpenings": 6.3
+  },
+  {
+    "code": "15-2011",
+    "title": "Actuaries",
+    "medianWage": 125770,
+    "education": "Bachelor's degree",
+    "growthPct": 21.8,
+    "annualOpenings": 2.4
+  },
+  {
+    "code": "29-1291",
+    "title": "Acupuncturists",
+    "medianWage": 78140,
+    "education": "Master's degree",
+    "growthPct": 6.8,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "51-9191",
+    "title": "Adhesive bonding machine operators and tenders",
+    "medianWage": 45210,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.0,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "23-1021",
+    "title": "Administrative law judges, adjudicators, and hearing officers",
+    "medianWage": 115230,
+    "education": "Doctoral or professional degree",
+    "growthPct": -0.7,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "11-3012",
+    "title": "Administrative services managers",
+    "medianWage": 108390,
+    "education": "Bachelor's degree",
+    "growthPct": 4.6,
+    "annualOpenings": 23.2
+  },
+  {
+    "code": "25-3011",
+    "title": "Adult basic education, adult secondary education, and english as a second language instructors",
+    "medianWage": 59950,
+    "education": "Bachelor's degree",
+    "growthPct": -13.7,
+    "annualOpenings": 3.9
+  },
+  {
+    "code": "11-2011",
+    "title": "Advertising and promotions managers",
+    "medianWage": 126960,
+    "education": "Bachelor's degree",
+    "growthPct": -2.2,
+    "annualOpenings": 2.1
+  },
+  {
+    "code": "41-3011",
+    "title": "Advertising sales agents",
+    "medianWage": 61460,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.4,
+    "annualOpenings": 9.3
+  },
+  {
+    "code": "17-3021",
+    "title": "Aerospace engineering and operations technologists and technicians",
+    "medianWage": 79830,
+    "education": "Associate's degree",
+    "growthPct": 8.1,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "17-2011",
+    "title": "Aerospace engineers",
+    "medianWage": 134830,
+    "education": "Bachelor's degree",
+    "growthPct": 6.1,
+    "annualOpenings": 4.5
+  },
+  {
+    "code": "13-1011",
+    "title": "Agents and business managers of artists, performers, and athletes",
+    "medianWage": 96310,
+    "education": "Bachelor's degree",
+    "growthPct": 8.7,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "17-2021",
+    "title": "Agricultural engineers",
+    "medianWage": 84630,
+    "education": "Bachelor's degree",
+    "growthPct": 5.9,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "45-2091",
+    "title": "Agricultural equipment operators",
+    "medianWage": 42580,
+    "education": "No formal educational credential",
+    "growthPct": 7.7,
+    "annualOpenings": 10.5
+  },
+  {
+    "code": "45-2011",
+    "title": "Agricultural inspectors",
+    "medianWage": 50990,
+    "education": "Bachelor's degree",
+    "growthPct": 1.5,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "25-1041",
+    "title": "Agricultural sciences teachers, postsecondary",
+    "medianWage": 86350,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.1,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "19-4012",
+    "title": "Agricultural technicians",
+    "medianWage": 46790,
+    "education": "Associate's degree",
+    "growthPct": 4.3,
+    "annualOpenings": 2.9
+  },
+  {
+    "code": "45-2099",
+    "title": "Agricultural workers, all other",
+    "medianWage": 40390,
+    "education": "No formal educational credential",
+    "growthPct": 2.3,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "53-2021",
+    "title": "Air traffic controllers",
+    "medianWage": 144580,
+    "education": "Associate's degree",
+    "growthPct": 1.2,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "53-1041",
+    "title": "Aircraft cargo handling supervisors",
+    "medianWage": 63940,
+    "education": "High school diploma or equivalent",
+    "growthPct": 5.2,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "49-3011",
+    "title": "Aircraft mechanics and service technicians",
+    "medianWage": 78680,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 4.0,
+    "annualOpenings": 11.3
+  },
+  {
+    "code": "53-6032",
+    "title": "Aircraft service attendants",
+    "medianWage": 41540,
+    "education": "High school diploma or equivalent",
+    "growthPct": 5.1,
+    "annualOpenings": 4.3
+  },
+  {
+    "code": "51-2011",
+    "title": "Aircraft structure, surfaces, rigging, and systems assemblers",
+    "medianWage": 61680,
+    "education": "High school diploma or equivalent",
+    "growthPct": -14.5,
+    "annualOpenings": 2.8
+  },
+  {
+    "code": "53-2022",
+    "title": "Airfield operations specialists",
+    "medianWage": 56750,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.2,
+    "annualOpenings": 1.6
+  },
+  {
+    "code": "53-2011",
+    "title": "Airline pilots, copilots, and flight engineers",
+    "medianWage": 226600,
+    "education": "Bachelor's degree",
+    "growthPct": 3.9,
+    "annualOpenings": 11.7
+  },
+  {
+    "code": "53-3011",
+    "title": "Ambulance drivers and attendants, except emergency medical technicians",
+    "medianWage": 34330,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.3,
+    "annualOpenings": 1.4
+  },
+  {
+    "code": "39-3091",
+    "title": "Amusement and recreation attendants",
+    "medianWage": 30490,
+    "education": "No formal educational credential",
+    "growthPct": 3.4,
+    "annualOpenings": 102.4
+  },
+  {
+    "code": "29-1211",
+    "title": "Anesthesiologists",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 3.2,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "45-2021",
+    "title": "Animal breeders",
+    "medianWage": 52000,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.4,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "39-2021",
+    "title": "Animal caretakers",
+    "medianWage": 33470,
+    "education": "High school diploma or equivalent",
+    "growthPct": 12.1,
+    "annualOpenings": 74.6
+  },
+  {
+    "code": "33-9011",
+    "title": "Animal control workers",
+    "medianWage": 45830,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.9,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "19-1011",
+    "title": "Animal scientists",
+    "medianWage": 79120,
+    "education": "Bachelor's degree",
+    "growthPct": 5.8,
+    "annualOpenings": 0.2
+  },
+  {
+    "code": "39-2011",
+    "title": "Animal trainers",
+    "medianWage": 38750,
+    "education": "High school diploma or equivalent",
+    "growthPct": 5.1,
+    "annualOpenings": 7.1
+  },
+  {
+    "code": "19-3091",
+    "title": "Anthropologists and archeologists",
+    "medianWage": 64910,
+    "education": "Master's degree",
+    "growthPct": 3.7,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "25-1061",
+    "title": "Anthropology and archeology teachers, postsecondary",
+    "medianWage": 95770,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.7,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "23-1022",
+    "title": "Arbitrators, mediators, and conciliators",
+    "medianWage": 67710,
+    "education": "Bachelor's degree",
+    "growthPct": 4.3,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "17-1011",
+    "title": "Architects, except landscape and naval",
+    "medianWage": 96690,
+    "education": "Bachelor's degree",
+    "growthPct": 3.9,
+    "annualOpenings": 7.8
+  },
+  {
+    "code": "17-3011",
+    "title": "Architectural and civil drafters",
+    "medianWage": 64280,
+    "education": "Associate's degree",
+    "growthPct": 4.1,
+    "annualOpenings": 10.0
+  },
+  {
+    "code": "11-9041",
+    "title": "Architectural and engineering managers",
+    "medianWage": 167740,
+    "education": "Bachelor's degree",
+    "growthPct": 3.8,
+    "annualOpenings": 14.5
+  },
+  {
+    "code": "25-1031",
+    "title": "Architecture teachers, postsecondary",
+    "medianWage": 101480,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.0,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "25-4011",
+    "title": "Archivists",
+    "medianWage": 61570,
+    "education": "Master's degree",
+    "growthPct": 3.8,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "25-1062",
+    "title": "Area, ethnic, and cultural studies teachers, postsecondary",
+    "medianWage": 84290,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.4,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "27-1011",
+    "title": "Art directors",
+    "medianWage": 111040,
+    "education": "Bachelor's degree",
+    "growthPct": 4.2,
+    "annualOpenings": 12.3
+  },
+  {
+    "code": "25-1121",
+    "title": "Art, drama, and music teachers, postsecondary",
+    "medianWage": 80190,
+    "education": "Master's degree",
+    "growthPct": 1.7,
+    "annualOpenings": 9.0
+  },
+  {
+    "code": "27-1019",
+    "title": "Artists and related workers, all other",
+    "medianWage": 72760,
+    "education": "No formal educational credential",
+    "growthPct": 0.8,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "19-2011",
+    "title": "Astronomers",
+    "medianWage": 132170,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.2,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "27-2021",
+    "title": "Athletes and sports competitors",
+    "medianWage": 62360,
+    "education": "No formal educational credential",
+    "growthPct": 5.5,
+    "annualOpenings": 2.1
+  },
+  {
+    "code": "29-9091",
+    "title": "Athletic trainers",
+    "medianWage": 60250,
+    "education": "Master's degree",
+    "growthPct": 11.1,
+    "annualOpenings": 2.4
+  },
+  {
+    "code": "19-2021",
+    "title": "Atmospheric and space scientists",
+    "medianWage": 97450,
+    "education": "Bachelor's degree",
+    "growthPct": 0.7,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "25-1051",
+    "title": "Atmospheric, earth, marine, and space sciences teachers, postsecondary",
+    "medianWage": 101390,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.6,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "27-4011",
+    "title": "Audio and video technicians",
+    "medianWage": 54830,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 3.3,
+    "annualOpenings": 7.3
+  },
+  {
+    "code": "29-1181",
+    "title": "Audiologists",
+    "medianWage": 92120,
+    "education": "Doctoral or professional degree",
+    "growthPct": 9.5,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "49-2097",
+    "title": "Audiovisual equipment installers and repairers",
+    "medianWage": 50620,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 6.6,
+    "annualOpenings": 2.6
+  },
+  {
+    "code": "53-6031",
+    "title": "Automotive and watercraft service attendants",
+    "medianWage": 34850,
+    "education": "No formal educational credential",
+    "growthPct": -1.0,
+    "annualOpenings": 14.4
+  },
+  {
+    "code": "49-3021",
+    "title": "Automotive body and related repairers",
+    "medianWage": 51680,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.6,
+    "annualOpenings": 14.6
+  },
+  {
+    "code": "49-3022",
+    "title": "Automotive glass installers and repairers",
+    "medianWage": 47260,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.6,
+    "annualOpenings": 1.4
+  },
+  {
+    "code": "49-3023",
+    "title": "Automotive service technicians and mechanics",
+    "medianWage": 49670,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 4.2,
+    "annualOpenings": 70.0
+  },
+  {
+    "code": "49-2091",
+    "title": "Avionics technicians",
+    "medianWage": 81390,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 8.2,
+    "annualOpenings": 1.8
+  },
+  {
+    "code": "39-6011",
+    "title": "Baggage porters and bellhops",
+    "medianWage": 36020,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.6,
+    "annualOpenings": 4.6
+  },
+  {
+    "code": "33-3011",
+    "title": "Bailiffs",
+    "medianWage": 57050,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.2,
+    "annualOpenings": 1.8
+  },
+  {
+    "code": "51-3011",
+    "title": "Bakers",
+    "medianWage": 36650,
+    "education": "No formal educational credential",
+    "growthPct": 5.6,
+    "annualOpenings": 39.9
+  },
+  {
+    "code": "39-5011",
+    "title": "Barbers",
+    "medianWage": 38960,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 4.1,
+    "annualOpenings": 8.4
+  },
+  {
+    "code": "35-3011",
+    "title": "Bartenders",
+    "medianWage": 33530,
+    "education": "No formal educational credential",
+    "growthPct": 5.9,
+    "annualOpenings": 129.6
+  },
+  {
+    "code": "49-3091",
+    "title": "Bicycle repairers",
+    "medianWage": 40360,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.3,
+    "annualOpenings": 1.6
+  },
+  {
+    "code": "43-3011",
+    "title": "Bill and account collectors",
+    "medianWage": 46040,
+    "education": "High school diploma or equivalent",
+    "growthPct": -10.5,
+    "annualOpenings": 13.7
+  },
+  {
+    "code": "43-3021",
+    "title": "Billing and posting clerks",
+    "medianWage": 47170,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.4,
+    "annualOpenings": 42.2
+  },
+  {
+    "code": "19-1021",
+    "title": "Biochemists and biophysicists",
+    "medianWage": 103650,
+    "education": "Doctoral or professional degree",
+    "growthPct": 5.8,
+    "annualOpenings": 2.9
+  },
+  {
+    "code": "17-2031",
+    "title": "Bioengineers and biomedical engineers",
+    "medianWage": 106950,
+    "education": "Bachelor's degree",
+    "growthPct": 5.2,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "25-1042",
+    "title": "Biological science teachers, postsecondary",
+    "medianWage": 83460,
+    "education": "Doctoral or professional degree",
+    "growthPct": 7.3,
+    "annualOpenings": 5.4
+  },
+  {
+    "code": "19-1029",
+    "title": "Biological scientists, all other",
+    "medianWage": 93330,
+    "education": "Bachelor's degree",
+    "growthPct": 1.2,
+    "annualOpenings": 4.8
+  },
+  {
+    "code": "19-4021",
+    "title": "Biological technicians",
+    "medianWage": 52000,
+    "education": "Bachelor's degree",
+    "growthPct": 3.5,
+    "annualOpenings": 9.1
+  },
+  {
+    "code": "47-2011",
+    "title": "Boilermakers",
+    "medianWage": 73340,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.4,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "43-3031",
+    "title": "Bookkeeping, accounting, and auditing clerks",
+    "medianWage": 49210,
+    "education": "Some college, no degree",
+    "growthPct": -5.8,
+    "annualOpenings": 170.0
+  },
+  {
+    "code": "47-2021",
+    "title": "Brickmasons and blockmasons",
+    "medianWage": 60800,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.2,
+    "annualOpenings": 5.6
+  },
+  {
+    "code": "53-6011",
+    "title": "Bridge and lock tenders",
+    "medianWage": 58490,
+    "education": "High school diploma or equivalent",
+    "growthPct": -3.3,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "27-3011",
+    "title": "Broadcast announcers and radio disc jockeys",
+    "medianWage": 45680,
+    "education": "Bachelor's degree",
+    "growthPct": -5.5,
+    "annualOpenings": 2.3
+  },
+  {
+    "code": "27-4012",
+    "title": "Broadcast technicians",
+    "medianWage": 53920,
+    "education": "Associate's degree",
+    "growthPct": -2.8,
+    "annualOpenings": 1.8
+  },
+  {
+    "code": "43-4011",
+    "title": "Brokerage clerks",
+    "medianWage": 62940,
+    "education": "High school diploma or equivalent",
+    "growthPct": -9.5,
+    "annualOpenings": 4.1
+  },
+  {
+    "code": "13-2031",
+    "title": "Budget analysts",
+    "medianWage": 87930,
+    "education": "Bachelor's degree",
+    "growthPct": 1.0,
+    "annualOpenings": 3.1
+  },
+  {
+    "code": "37-2019",
+    "title": "Building cleaning workers, all other",
+    "medianWage": 42360,
+    "education": "No formal educational credential",
+    "growthPct": 2.5,
+    "annualOpenings": 2.6
+  },
+  {
+    "code": "49-3031",
+    "title": "Bus and truck mechanics and diesel engine specialists",
+    "medianWage": 60640,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.4,
+    "annualOpenings": 26.5
+  },
+  {
+    "code": "53-3051",
+    "title": "Bus drivers, school",
+    "medianWage": 47040,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.2,
+    "annualOpenings": 61.0
+  },
+  {
+    "code": "53-3052",
+    "title": "Bus drivers, transit and intercity",
+    "medianWage": 57440,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.3,
+    "annualOpenings": 20.9
+  },
+  {
+    "code": "13-1199",
+    "title": "Business operations specialists, all other",
+    "medianWage": 81270,
+    "education": "Bachelor's degree",
+    "growthPct": 3.0,
+    "annualOpenings": 108.2
+  },
+  {
+    "code": "25-1011",
+    "title": "Business teachers, postsecondary",
+    "medianWage": 97270,
+    "education": "Doctoral or professional degree",
+    "growthPct": 5.7,
+    "annualOpenings": 8.1
+  },
+  {
+    "code": "51-3021",
+    "title": "Butchers and meat cutters",
+    "medianWage": 38960,
+    "education": "No formal educational credential",
+    "growthPct": 1.0,
+    "annualOpenings": 16.9
+  },
+  {
+    "code": "13-1020",
+    "title": "Buyers and purchasing agents",
+    "medianWage": 75650,
+    "education": "Bachelor's degree",
+    "growthPct": 5.8,
+    "annualOpenings": 52.2
+  },
+  {
+    "code": "51-7011",
+    "title": "Cabinetmakers and bench carpenters",
+    "medianWage": 46020,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.6,
+    "annualOpenings": 8.1
+  },
+  {
+    "code": "17-3028",
+    "title": "Calibration technologists and technicians",
+    "medianWage": 65040,
+    "education": "Associate's degree",
+    "growthPct": 4.7,
+    "annualOpenings": 1.4
+  },
+  {
+    "code": "49-9061",
+    "title": "Camera and photographic equipment repairers",
+    "medianWage": 49300,
+    "education": "High school diploma or equivalent",
+    "growthPct": -15.1,
+    "annualOpenings": 0.2
+  },
+  {
+    "code": "27-4031",
+    "title": "Camera operators, television, video, and film",
+    "medianWage": 68810,
+    "education": "Bachelor's degree",
+    "growthPct": 1.2,
+    "annualOpenings": 2.9
+  },
+  {
+    "code": "53-5021",
+    "title": "Captains, mates, and pilots of water vessels",
+    "medianWage": 85540,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 0.5,
+    "annualOpenings": 4.3
+  },
+  {
+    "code": "29-1212",
+    "title": "Cardiologists",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.1,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "29-2031",
+    "title": "Cardiovascular technologists and technicians",
+    "medianWage": 67260,
+    "education": "Associate's degree",
+    "growthPct": 3.0,
+    "annualOpenings": 3.8
+  },
+  {
+    "code": "25-2023",
+    "title": "Career/technical education teachers, middle school",
+    "medianWage": 63620,
+    "education": "Bachelor's degree",
+    "growthPct": -2.0,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "25-1194",
+    "title": "Career/technical education teachers, postsecondary",
+    "medianWage": 61490,
+    "education": "Bachelor's degree",
+    "growthPct": 0.7,
+    "annualOpenings": 8.8
+  },
+  {
+    "code": "25-2032",
+    "title": "Career/technical education teachers, secondary school",
+    "medianWage": 63910,
+    "education": "Bachelor's degree",
+    "growthPct": -1.8,
+    "annualOpenings": 6.2
+  },
+  {
+    "code": "43-5011",
+    "title": "Cargo and freight agents",
+    "medianWage": 49900,
+    "education": "High school diploma or equivalent",
+    "growthPct": 8.5,
+    "annualOpenings": 8.8
+  },
+  {
+    "code": "47-2031",
+    "title": "Carpenters",
+    "medianWage": 59310,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.5,
+    "annualOpenings": 74.1
+  },
+  {
+    "code": "47-2041",
+    "title": "Carpet installers",
+    "medianWage": 49850,
+    "education": "No formal educational credential",
+    "growthPct": -9.6,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "17-1021",
+    "title": "Cartographers and photogrammetrists",
+    "medianWage": 78380,
+    "education": "Bachelor's degree",
+    "growthPct": 6.4,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "41-2011",
+    "title": "Cashiers",
+    "medianWage": 31190,
+    "education": "No formal educational credential",
+    "growthPct": -9.9,
+    "annualOpenings": 542.6
+  },
+  {
+    "code": "47-2051",
+    "title": "Cement masons and concrete finishers",
+    "medianWage": 54660,
+    "education": "No formal educational credential",
+    "growthPct": 1.8,
+    "annualOpenings": 14.3
+  },
+  {
+    "code": "35-1011",
+    "title": "Chefs and head cooks",
+    "medianWage": 60990,
+    "education": "High school diploma or equivalent",
+    "growthPct": 7.1,
+    "annualOpenings": 24.4
+  },
+  {
+    "code": "17-2041",
+    "title": "Chemical engineers",
+    "medianWage": 121860,
+    "education": "Bachelor's degree",
+    "growthPct": 2.6,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "51-9011",
+    "title": "Chemical equipment operators and tenders",
+    "medianWage": 57090,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.3,
+    "annualOpenings": 14.4
+  },
+  {
+    "code": "51-8091",
+    "title": "Chemical plant and system operators",
+    "medianWage": 73540,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.1,
+    "annualOpenings": 1.6
+  },
+  {
+    "code": "19-4031",
+    "title": "Chemical technicians",
+    "medianWage": 57790,
+    "education": "Associate's degree",
+    "growthPct": 3.7,
+    "annualOpenings": 6.7
+  },
+  {
+    "code": "25-1052",
+    "title": "Chemistry teachers, postsecondary",
+    "medianWage": 86220,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.2,
+    "annualOpenings": 1.9
+  },
+  {
+    "code": "19-2031",
+    "title": "Chemists",
+    "medianWage": 84150,
+    "education": "Bachelor's degree",
+    "growthPct": 4.9,
+    "annualOpenings": 6.3
+  },
+  {
+    "code": "11-1011",
+    "title": "Chief executives",
+    "medianWage": 206420,
+    "education": "Bachelor's degree",
+    "growthPct": 4.3,
+    "annualOpenings": 22.2
+  },
+  {
+    "code": "21-1021",
+    "title": "Child, family, and school social workers",
+    "medianWage": 58570,
+    "education": "Bachelor's degree",
+    "growthPct": 3.4,
+    "annualOpenings": 35.1
+  },
+  {
+    "code": "39-9011",
+    "title": "Childcare workers",
+    "medianWage": 32050,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.9,
+    "annualOpenings": 160.2
+  },
+  {
+    "code": "29-1011",
+    "title": "Chiropractors",
+    "medianWage": 79000,
+    "education": "Doctoral or professional degree",
+    "growthPct": 9.5,
+    "annualOpenings": 2.8
+  },
+  {
+    "code": "27-2032",
+    "title": "Choreographers",
+    "medianWage": 55600,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.1,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "17-3022",
+    "title": "Civil engineering technologists and technicians",
+    "medianWage": 64200,
+    "education": "Associate's degree",
+    "growthPct": 2.1,
+    "annualOpenings": 5.5
+  },
+  {
+    "code": "17-2051",
+    "title": "Civil engineers",
+    "medianWage": 99590,
+    "education": "Bachelor's degree",
+    "growthPct": 5.0,
+    "annualOpenings": 23.6
+  },
+  {
+    "code": "13-1031",
+    "title": "Claims adjusters, examiners, and investigators",
+    "medianWage": 76790,
+    "education": "High school diploma or equivalent",
+    "growthPct": -5.1,
+    "annualOpenings": 21.1
+  },
+  {
+    "code": "53-7061",
+    "title": "Cleaners of vehicles and equipment",
+    "medianWage": 35270,
+    "education": "No formal educational credential",
+    "growthPct": 3.9,
+    "annualOpenings": 56.2
+  },
+  {
+    "code": "51-9192",
+    "title": "Cleaning, washing, and metal pickling equipment operators and tenders",
+    "medianWage": 41460,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.6,
+    "annualOpenings": 1.6
+  },
+  {
+    "code": "21-2011",
+    "title": "Clergy",
+    "medianWage": 60820,
+    "education": "Bachelor's degree",
+    "growthPct": 1.0,
+    "annualOpenings": 23.0
+  },
+  {
+    "code": "19-3033",
+    "title": "Clinical and counseling psychologists",
+    "medianWage": 95830,
+    "education": "Doctoral or professional degree",
+    "growthPct": 11.2,
+    "annualOpenings": 4.8
+  },
+  {
+    "code": "29-2010",
+    "title": "Clinical laboratory technologists and technicians",
+    "medianWage": 61890,
+    "education": "Bachelor's degree",
+    "growthPct": 1.7,
+    "annualOpenings": 22.6
+  },
+  {
+    "code": "27-2022",
+    "title": "Coaches and scouts",
+    "medianWage": 45920,
+    "education": "Bachelor's degree",
+    "growthPct": 6.4,
+    "annualOpenings": 41.8
+  },
+  {
+    "code": "51-9124",
+    "title": "Coating, painting, and spraying machine setters, operators, and tenders",
+    "medianWage": 47590,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.7,
+    "annualOpenings": 15.8
+  },
+  {
+    "code": "51-2021",
+    "title": "Coil winders, tapers, and finishers",
+    "medianWage": 47260,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.3,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "49-9091",
+    "title": "Coin, vending, and amusement machine servicers and repairers",
+    "medianWage": 47350,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.9,
+    "annualOpenings": 3.5
+  },
+  {
+    "code": "27-1021",
+    "title": "Commercial and industrial designers",
+    "medianWage": 79450,
+    "education": "Bachelor's degree",
+    "growthPct": 3.2,
+    "annualOpenings": 2.5
+  },
+  {
+    "code": "49-9092",
+    "title": "Commercial divers",
+    "medianWage": 61130,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 8.5,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "53-2012",
+    "title": "Commercial pilots",
+    "medianWage": 122670,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 5.1,
+    "annualOpenings": 6.6
+  },
+  {
+    "code": "43-2099",
+    "title": "Communications equipment operators, all other",
+    "medianWage": 49910,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.5,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "25-1122",
+    "title": "Communications teachers, postsecondary",
+    "medianWage": 77800,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.1,
+    "annualOpenings": 2.7
+  },
+  {
+    "code": "21-1099",
+    "title": "Community and social service specialists, all other",
+    "medianWage": 54940,
+    "education": "Bachelor's degree",
+    "growthPct": 4.6,
+    "annualOpenings": 13.1
+  },
+  {
+    "code": "21-1094",
+    "title": "Community health workers",
+    "medianWage": 51030,
+    "education": "High school diploma or equivalent",
+    "growthPct": 11.3,
+    "annualOpenings": 7.8
+  },
+  {
+    "code": "11-3111",
+    "title": "Compensation and benefits managers",
+    "medianWage": 140360,
+    "education": "Bachelor's degree",
+    "growthPct": 0.2,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "13-1141",
+    "title": "Compensation, benefits, and job analysis specialists",
+    "medianWage": 77020,
+    "education": "Bachelor's degree",
+    "growthPct": 5.3,
+    "annualOpenings": 8.5
+  },
+  {
+    "code": "13-1041",
+    "title": "Compliance officers",
+    "medianWage": 78420,
+    "education": "Bachelor's degree",
+    "growthPct": 3.0,
+    "annualOpenings": 33.3
+  },
+  {
+    "code": "15-1221",
+    "title": "Computer and information research scientists",
+    "medianWage": 140910,
+    "education": "Master's degree",
+    "growthPct": 19.7,
+    "annualOpenings": 3.2
+  },
+  {
+    "code": "11-3021",
+    "title": "Computer and information systems managers",
+    "medianWage": 171200,
+    "education": "Bachelor's degree",
+    "growthPct": 15.2,
+    "annualOpenings": 55.6
+  },
+  {
+    "code": "17-2061",
+    "title": "Computer hardware engineers",
+    "medianWage": 155020,
+    "education": "Bachelor's degree",
+    "growthPct": 7.3,
+    "annualOpenings": 4.7
+  },
+  {
+    "code": "15-1241",
+    "title": "Computer network architects",
+    "medianWage": 130390,
+    "education": "Bachelor's degree",
+    "growthPct": 11.9,
+    "annualOpenings": 11.2
+  },
+  {
+    "code": "15-1231",
+    "title": "Computer network support specialists",
+    "medianWage": 73340,
+    "education": "Associate's degree",
+    "growthPct": 1.8,
+    "annualOpenings": 9.6
+  },
+  {
+    "code": "51-9161",
+    "title": "Computer numerically controlled tool operators",
+    "medianWage": 49970,
+    "education": "High school diploma or equivalent",
+    "growthPct": -10.7,
+    "annualOpenings": 13.5
+  },
+  {
+    "code": "51-9162",
+    "title": "Computer numerically controlled tool programmers",
+    "medianWage": 65670,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 12.8,
+    "annualOpenings": 3.1
+  },
+  {
+    "code": "15-1299",
+    "title": "Computer occupations, all other",
+    "medianWage": 108970,
+    "education": "Bachelor's degree",
+    "growthPct": 8.2,
+    "annualOpenings": 31.3
+  },
+  {
+    "code": "15-1251",
+    "title": "Computer programmers",
+    "medianWage": 98670,
+    "education": "Bachelor's degree",
+    "growthPct": -6.0,
+    "annualOpenings": 5.5
+  },
+  {
+    "code": "25-1021",
+    "title": "Computer science teachers, postsecondary",
+    "medianWage": 96690,
+    "education": "Doctoral or professional degree",
+    "growthPct": 5.3,
+    "annualOpenings": 3.5
+  },
+  {
+    "code": "15-1211",
+    "title": "Computer systems analysts",
+    "medianWage": 103790,
+    "education": "Bachelor's degree",
+    "growthPct": 8.7,
+    "annualOpenings": 34.2
+  },
+  {
+    "code": "15-1232",
+    "title": "Computer user support specialists",
+    "medianWage": 60340,
+    "education": "Some college, no degree",
+    "growthPct": -3.7,
+    "annualOpenings": 40.8
+  },
+  {
+    "code": "49-2011",
+    "title": "Computer, automated teller, and office machine repairers",
+    "medianWage": 46860,
+    "education": "Some college, no degree",
+    "growthPct": -0.9,
+    "annualOpenings": 7.6
+  },
+  {
+    "code": "39-6012",
+    "title": "Concierges",
+    "medianWage": 37320,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.3,
+    "annualOpenings": 6.8
+  },
+  {
+    "code": "19-1031",
+    "title": "Conservation scientists",
+    "medianWage": 67950,
+    "education": "Bachelor's degree",
+    "growthPct": 3.4,
+    "annualOpenings": 2.5
+  },
+  {
+    "code": "47-4011",
+    "title": "Construction and building inspectors",
+    "medianWage": 72120,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.8,
+    "annualOpenings": 14.8
+  },
+  {
+    "code": "47-2061",
+    "title": "Construction laborers",
+    "medianWage": 46730,
+    "education": "No formal educational credential",
+    "growthPct": 7.3,
+    "annualOpenings": 129.4
+  },
+  {
+    "code": "11-9021",
+    "title": "Construction managers",
+    "medianWage": 106980,
+    "education": "Bachelor's degree",
+    "growthPct": 8.7,
+    "annualOpenings": 46.8
+  },
+  {
+    "code": "47-5041",
+    "title": "Continuous mining machine operators",
+    "medianWage": 63380,
+    "education": "No formal educational credential",
+    "growthPct": 0.6,
+    "annualOpenings": 1.6
+  },
+  {
+    "code": "49-9012",
+    "title": "Control and valve installers and repairers, except mechanical door",
+    "medianWage": 74690,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.3,
+    "annualOpenings": 3.9
+  },
+  {
+    "code": "53-7011",
+    "title": "Conveyor operators and tenders",
+    "medianWage": 41230,
+    "education": "No formal educational credential",
+    "growthPct": -3.4,
+    "annualOpenings": 2.6
+  },
+  {
+    "code": "35-2019",
+    "title": "Cooks, all other",
+    "medianWage": 36210,
+    "education": "No formal educational credential",
+    "growthPct": 5.5,
+    "annualOpenings": 3.7
+  },
+  {
+    "code": "35-2011",
+    "title": "Cooks, fast food",
+    "medianWage": 30160,
+    "education": "No formal educational credential",
+    "growthPct": -13.5,
+    "annualOpenings": 82.1
+  },
+  {
+    "code": "35-2012",
+    "title": "Cooks, institution and cafeteria",
+    "medianWage": 36450,
+    "education": "No formal educational credential",
+    "growthPct": 2.0,
+    "annualOpenings": 69.7
+  },
+  {
+    "code": "35-2013",
+    "title": "Cooks, private household",
+    "medianWage": 44530,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 5.1,
+    "annualOpenings": 5.3
+  },
+  {
+    "code": "35-2014",
+    "title": "Cooks, restaurant",
+    "medianWage": 36830,
+    "education": "No formal educational credential",
+    "growthPct": 14.9,
+    "annualOpenings": 250.7
+  },
+  {
+    "code": "35-2015",
+    "title": "Cooks, short order",
+    "medianWage": 35620,
+    "education": "No formal educational credential",
+    "growthPct": -5.6,
+    "annualOpenings": 20.6
+  },
+  {
+    "code": "51-9193",
+    "title": "Cooling and freezing equipment operators and tenders",
+    "medianWage": 40160,
+    "education": "High school diploma or equivalent",
+    "growthPct": 7.2,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "33-3012",
+    "title": "Correctional officers and jailers",
+    "medianWage": 57970,
+    "education": "High school diploma or equivalent",
+    "growthPct": -7.8,
+    "annualOpenings": 30.1
+  },
+  {
+    "code": "43-4021",
+    "title": "Correspondence clerks",
+    "medianWage": 46740,
+    "education": "High school diploma or equivalent",
+    "growthPct": -5.6,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "13-1051",
+    "title": "Cost estimators",
+    "medianWage": 77070,
+    "education": "Bachelor's degree",
+    "growthPct": -4.2,
+    "annualOpenings": 16.9
+  },
+  {
+    "code": "39-3092",
+    "title": "Costume attendants",
+    "medianWage": 54810,
+    "education": "High school diploma or equivalent",
+    "growthPct": 5.9,
+    "annualOpenings": 1.8
+  },
+  {
+    "code": "21-1019",
+    "title": "Counselors, all other",
+    "medianWage": 49830,
+    "education": "Master's degree",
+    "growthPct": 12.6,
+    "annualOpenings": 7.4
+  },
+  {
+    "code": "41-2021",
+    "title": "Counter and rental clerks",
+    "medianWage": 38540,
+    "education": "No formal educational credential",
+    "growthPct": 3.2,
+    "annualOpenings": 45.9
+  },
+  {
+    "code": "43-5021",
+    "title": "Couriers and messengers",
+    "medianWage": 38340,
+    "education": "High school diploma or equivalent",
+    "growthPct": 8.2,
+    "annualOpenings": 27.9
+  },
+  {
+    "code": "27-3092",
+    "title": "Court reporters and simultaneous captioners",
+    "medianWage": 67310,
+    "education": "Postsecondary nondegree award",
+    "growthPct": -0.3,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "43-4031",
+    "title": "Court, municipal, and license clerks",
+    "medianWage": 47700,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.0,
+    "annualOpenings": 18.5
+  },
+  {
+    "code": "27-1012",
+    "title": "Craft artists",
+    "medianWage": 38480,
+    "education": "No formal educational credential",
+    "growthPct": 2.1,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "53-7021",
+    "title": "Crane and tower operators",
+    "medianWage": 66370,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.0,
+    "annualOpenings": 3.8
+  },
+  {
+    "code": "13-2041",
+    "title": "Credit analysts",
+    "medianWage": 80970,
+    "education": "Bachelor's degree",
+    "growthPct": -4.4,
+    "annualOpenings": 3.7
+  },
+  {
+    "code": "43-4041",
+    "title": "Credit authorizers, checkers, and clerks",
+    "medianWage": 49130,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.2,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "13-2071",
+    "title": "Credit counselors",
+    "medianWage": 50480,
+    "education": "Bachelor's degree",
+    "growthPct": 3.3,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "39-4012",
+    "title": "Crematory operators",
+    "medianWage": 42880,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.3,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "25-1111",
+    "title": "Criminal justice and law enforcement teachers, postsecondary",
+    "medianWage": 71470,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.0,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "33-9091",
+    "title": "Crossing guards and flaggers",
+    "medianWage": 37700,
+    "education": "No formal educational credential",
+    "growthPct": 3.6,
+    "annualOpenings": 18.0
+  },
+  {
+    "code": "51-9021",
+    "title": "Crushing, grinding, and polishing machine setters, operators, and tenders",
+    "medianWage": 46890,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.5,
+    "annualOpenings": 2.7
+  },
+  {
+    "code": "25-4012",
+    "title": "Curators",
+    "medianWage": 61770,
+    "education": "Master's degree",
+    "growthPct": 7.0,
+    "annualOpenings": 1.8
+  },
+  {
+    "code": "43-4051",
+    "title": "Customer service representatives",
+    "medianWage": 42830,
+    "education": "High school diploma or equivalent",
+    "growthPct": -5.5,
+    "annualOpenings": 341.7
+  },
+  {
+    "code": "51-9031",
+    "title": "Cutters and trimmers, hand",
+    "medianWage": 38800,
+    "education": "No formal educational credential",
+    "growthPct": -18.1,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "51-9032",
+    "title": "Cutting and slicing machine setters, operators, and tenders",
+    "medianWage": 45700,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.3,
+    "annualOpenings": 5.3
+  },
+  {
+    "code": "51-4031",
+    "title": "Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",
+    "medianWage": 45590,
+    "education": "High school diploma or equivalent",
+    "growthPct": -12.1,
+    "annualOpenings": 14.4
+  },
+  {
+    "code": "27-2031",
+    "title": "Dancers",
+    "medianWage": null,
+    "education": "No formal educational credential",
+    "growthPct": 4.5,
+    "annualOpenings": 1.8
+  },
+  {
+    "code": "43-9021",
+    "title": "Data entry keyers",
+    "medianWage": 39850,
+    "education": "High school diploma or equivalent",
+    "growthPct": -25.9,
+    "annualOpenings": 9.5
+  },
+  {
+    "code": "15-2051",
+    "title": "Data scientists",
+    "medianWage": 112590,
+    "education": "Bachelor's degree",
+    "growthPct": 33.5,
+    "annualOpenings": 23.4
+  },
+  {
+    "code": "15-1242",
+    "title": "Database administrators",
+    "medianWage": 104620,
+    "education": "Bachelor's degree",
+    "growthPct": -0.7,
+    "annualOpenings": 3.8
+  },
+  {
+    "code": "15-1243",
+    "title": "Database architects",
+    "medianWage": 135980,
+    "education": "Bachelor's degree",
+    "growthPct": 8.7,
+    "annualOpenings": 4.0
+  },
+  {
+    "code": "41-9011",
+    "title": "Demonstrators and product promoters",
+    "medianWage": 37960,
+    "education": "No formal educational credential",
+    "growthPct": -0.1,
+    "annualOpenings": 14.0
+  },
+  {
+    "code": "31-9091",
+    "title": "Dental assistants",
+    "medianWage": 47300,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 6.4,
+    "annualOpenings": 52.9
+  },
+  {
+    "code": "29-1292",
+    "title": "Dental hygienists",
+    "medianWage": 94260,
+    "education": "Associate's degree",
+    "growthPct": 7.0,
+    "annualOpenings": 15.3
+  },
+  {
+    "code": "51-9081",
+    "title": "Dental laboratory technicians",
+    "medianWage": 48310,
+    "education": "High school diploma or equivalent",
+    "growthPct": -4.7,
+    "annualOpenings": 3.9
+  },
+  {
+    "code": "29-1029",
+    "title": "Dentists, all other specialists",
+    "medianWage": 225770,
+    "education": "Doctoral or professional degree",
+    "growthPct": 0.3,
+    "annualOpenings": 0.2
+  },
+  {
+    "code": "29-1021",
+    "title": "Dentists, general",
+    "medianWage": 172790,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.1,
+    "annualOpenings": 3.9
+  },
+  {
+    "code": "29-1213",
+    "title": "Dermatologists",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 6.4,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "47-5011",
+    "title": "Derrick operators, oil and gas",
+    "medianWage": 62740,
+    "education": "No formal educational credential",
+    "growthPct": 0.5,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "27-1029",
+    "title": "Designers, all other",
+    "medianWage": 66220,
+    "education": "Bachelor's degree",
+    "growthPct": 2.0,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "43-9031",
+    "title": "Desktop publishers",
+    "medianWage": 53620,
+    "education": "Associate's degree",
+    "growthPct": -12.4,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "33-3021",
+    "title": "Detectives and criminal investigators",
+    "medianWage": 93580,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.7,
+    "annualOpenings": 7.8
+  },
+  {
+    "code": "29-2032",
+    "title": "Diagnostic medical sonographers",
+    "medianWage": 89340,
+    "education": "Associate's degree",
+    "growthPct": 13.0,
+    "annualOpenings": 5.8
+  },
+  {
+    "code": "29-2051",
+    "title": "Dietetic technicians",
+    "medianWage": 37040,
+    "education": "Associate's degree",
+    "growthPct": 2.5,
+    "annualOpenings": 4.0
+  },
+  {
+    "code": "29-1031",
+    "title": "Dietitians and nutritionists",
+    "medianWage": 73850,
+    "education": "Bachelor's degree",
+    "growthPct": 5.5,
+    "annualOpenings": 6.2
+  },
+  {
+    "code": "35-9011",
+    "title": "Dining room and cafeteria attendants and bartender helpers",
+    "medianWage": 32670,
+    "education": "No formal educational credential",
+    "growthPct": 6.3,
+    "annualOpenings": 99.6
+  },
+  {
+    "code": "21-2021",
+    "title": "Directors, religious activities and education",
+    "medianWage": 54840,
+    "education": "Bachelor's degree",
+    "growthPct": 2.1,
+    "annualOpenings": 13.8
+  },
+  {
+    "code": "27-2091",
+    "title": "Disc jockeys, except radio",
+    "medianWage": null,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.8,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "35-9021",
+    "title": "Dishwashers",
+    "medianWage": 33670,
+    "education": "No formal educational credential",
+    "growthPct": 0.2,
+    "annualOpenings": 76.8
+  },
+  {
+    "code": "43-5032",
+    "title": "Dispatchers, except police, fire, and ambulance",
+    "medianWage": 48880,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.9,
+    "annualOpenings": 18.5
+  },
+  {
+    "code": "41-9091",
+    "title": "Door-to-door sales workers, news and street vendors, and related workers",
+    "medianWage": 34530,
+    "education": "No formal educational credential",
+    "growthPct": -10.0,
+    "annualOpenings": 2.7
+  },
+  {
+    "code": "17-3019",
+    "title": "Drafters, all other",
+    "medianWage": 62010,
+    "education": "Associate's degree",
+    "growthPct": -6.9,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "53-7031",
+    "title": "Dredge operators",
+    "medianWage": 48430,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.2,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "51-4032",
+    "title": "Drilling and boring machine tool setters, operators, and tenders, metal and plastic",
+    "medianWage": 46630,
+    "education": "High school diploma or equivalent",
+    "growthPct": -19.6,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "53-3031",
+    "title": "Driver/sales workers",
+    "medianWage": 37130,
+    "education": "High school diploma or equivalent",
+    "growthPct": 8.8,
+    "annualOpenings": 51.3
+  },
+  {
+    "code": "47-2081",
+    "title": "Drywall and ceiling tile installers",
+    "medianWage": 58140,
+    "education": "No formal educational credential",
+    "growthPct": 4.2,
+    "annualOpenings": 7.7
+  },
+  {
+    "code": "47-5023",
+    "title": "Earth drillers, except oil and gas",
+    "medianWage": 59600,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.9,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "25-1063",
+    "title": "Economics teachers, postsecondary",
+    "medianWage": 119980,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.1,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "19-3011",
+    "title": "Economists",
+    "medianWage": 115440,
+    "education": "Master's degree",
+    "growthPct": 1.2,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "27-3041",
+    "title": "Editors",
+    "medianWage": 75260,
+    "education": "Bachelor's degree",
+    "growthPct": 0.6,
+    "annualOpenings": 9.8
+  },
+  {
+    "code": "11-9039",
+    "title": "Education administrators, all other",
+    "medianWage": 89040,
+    "education": "Bachelor's degree",
+    "growthPct": 2.5,
+    "annualOpenings": 4.1
+  },
+  {
+    "code": "11-9032",
+    "title": "Education administrators, kindergarten through secondary",
+    "medianWage": 104070,
+    "education": "Master's degree",
+    "growthPct": -1.5,
+    "annualOpenings": 20.8
+  },
+  {
+    "code": "11-9033",
+    "title": "Education administrators, postsecondary",
+    "medianWage": 103960,
+    "education": "Master's degree",
+    "growthPct": 1.7,
+    "annualOpenings": 15.1
+  },
+  {
+    "code": "11-9031",
+    "title": "Education and childcare administrators, preschool and daycare",
+    "medianWage": 56270,
+    "education": "Bachelor's degree",
+    "growthPct": -2.5,
+    "annualOpenings": 5.5
+  },
+  {
+    "code": "25-1081",
+    "title": "Education teachers, postsecondary",
+    "medianWage": 72090,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.1,
+    "annualOpenings": 5.6
+  },
+  {
+    "code": "25-9099",
+    "title": "Educational instruction and library workers, all other",
+    "medianWage": 48400,
+    "education": "Bachelor's degree",
+    "growthPct": 1.5,
+    "annualOpenings": 12.5
+  },
+  {
+    "code": "21-1012",
+    "title": "Educational, guidance, and career counselors and advisors",
+    "medianWage": 65140,
+    "education": "Master's degree",
+    "growthPct": 3.5,
+    "annualOpenings": 31.0
+  },
+  {
+    "code": "49-2092",
+    "title": "Electric motor, power tool, and related repairers",
+    "medianWage": 53990,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.4,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "17-3023",
+    "title": "Electrical and electronic engineering technologists and technicians",
+    "medianWage": 77180,
+    "education": "Associate's degree",
+    "growthPct": 0.6,
+    "annualOpenings": 8.4
+  },
+  {
+    "code": "17-3012",
+    "title": "Electrical and electronics drafters",
+    "medianWage": 73720,
+    "education": "Associate's degree",
+    "growthPct": -5.6,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "49-2093",
+    "title": "Electrical and electronics installers and repairers, transportation equipment",
+    "medianWage": 82730,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 6.1,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "49-2094",
+    "title": "Electrical and electronics repairers, commercial and industrial equipment",
+    "medianWage": 71300,
+    "education": "Postsecondary nondegree award",
+    "growthPct": -0.8,
+    "annualOpenings": 4.7
+  },
+  {
+    "code": "49-2095",
+    "title": "Electrical and electronics repairers, powerhouse, substation, and relay",
+    "medianWage": 100940,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 5.5,
+    "annualOpenings": 2.0
+  },
+  {
+    "code": "17-2071",
+    "title": "Electrical engineers",
+    "medianWage": 111910,
+    "education": "Bachelor's degree",
+    "growthPct": 7.2,
+    "annualOpenings": 11.7
+  },
+  {
+    "code": "49-9051",
+    "title": "Electrical power-line installers and repairers",
+    "medianWage": 92560,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.6,
+    "annualOpenings": 10.7
+  },
+  {
+    "code": "51-2028",
+    "title": "Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",
+    "medianWage": 44040,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.6,
+    "annualOpenings": 29.6
+  },
+  {
+    "code": "47-2111",
+    "title": "Electricians",
+    "medianWage": 62350,
+    "education": "High school diploma or equivalent",
+    "growthPct": 9.5,
+    "annualOpenings": 81.0
+  },
+  {
+    "code": "17-3024",
+    "title": "Electro-mechanical and mechatronics technologists and technicians",
+    "medianWage": 70760,
+    "education": "Associate's degree",
+    "growthPct": 1.1,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "49-2096",
+    "title": "Electronic equipment installers and repairers, motor vehicles",
+    "medianWage": 47940,
+    "education": "High school diploma or equivalent",
+    "growthPct": -13.6,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "17-2072",
+    "title": "Electronics engineers, except computer",
+    "medianWage": 127590,
+    "education": "Bachelor's degree",
+    "growthPct": 6.2,
+    "annualOpenings": 5.7
+  },
+  {
+    "code": "25-2021",
+    "title": "Elementary school teachers, except special education",
+    "medianWage": 62340,
+    "education": "Bachelor's degree",
+    "growthPct": -2.0,
+    "annualOpenings": 91.0
+  },
+  {
+    "code": "47-4021",
+    "title": "Elevator and escalator installers and repairers",
+    "medianWage": 106580,
+    "education": "High school diploma or equivalent",
+    "growthPct": 5.0,
+    "annualOpenings": 2.0
+  },
+  {
+    "code": "43-4061",
+    "title": "Eligibility interviewers, government programs",
+    "medianWage": 51500,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.0,
+    "annualOpenings": 14.0
+  },
+  {
+    "code": "39-4011",
+    "title": "Embalmers",
+    "medianWage": 56280,
+    "education": "Associate's degree",
+    "growthPct": 1.3,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "11-9161",
+    "title": "Emergency management directors",
+    "medianWage": 86130,
+    "education": "Bachelor's degree",
+    "growthPct": 3.0,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "29-2042",
+    "title": "Emergency medical technicians",
+    "medianWage": 41340,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 5.1,
+    "annualOpenings": 14.1
+  },
+  {
+    "code": "29-1214",
+    "title": "Emergency medicine physicians",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.7,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "51-2031",
+    "title": "Engine and other machine assemblers",
+    "medianWage": 52540,
+    "education": "High school diploma or equivalent",
+    "growthPct": -21.1,
+    "annualOpenings": 2.8
+  },
+  {
+    "code": "25-1032",
+    "title": "Engineering teachers, postsecondary",
+    "medianWage": 106120,
+    "education": "Doctoral or professional degree",
+    "growthPct": 8.1,
+    "annualOpenings": 4.1
+  },
+  {
+    "code": "17-3029",
+    "title": "Engineering technologists and technicians, except drafters, all other",
+    "medianWage": 77390,
+    "education": "Associate's degree",
+    "growthPct": 1.5,
+    "annualOpenings": 5.7
+  },
+  {
+    "code": "17-2199",
+    "title": "Engineers, all other",
+    "medianWage": 117750,
+    "education": "Bachelor's degree",
+    "growthPct": 2.1,
+    "annualOpenings": 9.3
+  },
+  {
+    "code": "25-1123",
+    "title": "English language and literature teachers, postsecondary",
+    "medianWage": 78270,
+    "education": "Doctoral or professional degree",
+    "growthPct": 0.0,
+    "annualOpenings": 5.1
+  },
+  {
+    "code": "27-2099",
+    "title": "Entertainers and performers, sports and related workers, all other",
+    "medianWage": null,
+    "education": "No formal educational credential",
+    "growthPct": 6.0,
+    "annualOpenings": 4.4
+  },
+  {
+    "code": "11-9072",
+    "title": "Entertainment and recreation managers, except gambling",
+    "medianWage": 77180,
+    "education": "Bachelor's degree",
+    "growthPct": 7.7,
+    "annualOpenings": 5.5
+  },
+  {
+    "code": "39-3099",
+    "title": "Entertainment attendants and related workers, all other",
+    "medianWage": 34550,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.6,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "17-3025",
+    "title": "Environmental engineering technologists and technicians",
+    "medianWage": 58890,
+    "education": "Associate's degree",
+    "growthPct": 1.2,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "17-2081",
+    "title": "Environmental engineers",
+    "medianWage": 104170,
+    "education": "Bachelor's degree",
+    "growthPct": 3.9,
+    "annualOpenings": 3.0
+  },
+  {
+    "code": "19-4042",
+    "title": "Environmental science and protection technicians, including health",
+    "medianWage": 49490,
+    "education": "Associate's degree",
+    "growthPct": 4.0,
+    "annualOpenings": 5.6
+  },
+  {
+    "code": "25-1053",
+    "title": "Environmental science teachers, postsecondary",
+    "medianWage": 87710,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.9,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "19-2041",
+    "title": "Environmental scientists and specialists, including health",
+    "medianWage": 80060,
+    "education": "Bachelor's degree",
+    "growthPct": 4.4,
+    "annualOpenings": 8.5
+  },
+  {
+    "code": "19-1041",
+    "title": "Epidemiologists",
+    "medianWage": 83980,
+    "education": "Master's degree",
+    "growthPct": 16.2,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "51-9194",
+    "title": "Etchers and engravers",
+    "medianWage": 40450,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.7,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "47-5022",
+    "title": "Excavating and loading machine and dragline operators, surface mining",
+    "medianWage": 52550,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.4,
+    "annualOpenings": 3.1
+  },
+  {
+    "code": "43-6011",
+    "title": "Executive secretaries and executive administrative assistants",
+    "medianWage": 74260,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.6,
+    "annualOpenings": 50.0
+  },
+  {
+    "code": "29-1128",
+    "title": "Exercise physiologists",
+    "medianWage": 58160,
+    "education": "Bachelor's degree",
+    "growthPct": 9.5,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "39-9031",
+    "title": "Exercise trainers and group fitness instructors",
+    "medianWage": 46180,
+    "education": "High school diploma or equivalent",
+    "growthPct": 11.9,
+    "annualOpenings": 74.2
+  },
+  {
+    "code": "47-5032",
+    "title": "Explosives workers, ordnance handling experts, and blasters",
+    "medianWage": 59110,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.9,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "47-5099",
+    "title": "Extraction workers, all other",
+    "medianWage": 50110,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.4,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "51-4021",
+    "title": "Extruding and drawing machine setters, operators, and tenders, metal and plastic",
+    "medianWage": 46980,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.2,
+    "annualOpenings": 6.5
+  },
+  {
+    "code": "51-6091",
+    "title": "Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",
+    "medianWage": 44980,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.1,
+    "annualOpenings": 2.0
+  },
+  {
+    "code": "51-9041",
+    "title": "Extruding, forming, pressing, and compacting machine setters, operators, and tenders",
+    "medianWage": 45130,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.0,
+    "annualOpenings": 5.2
+  },
+  {
+    "code": "51-6092",
+    "title": "Fabric and apparel patternmakers",
+    "medianWage": 67670,
+    "education": "High school diploma or equivalent",
+    "growthPct": -10.2,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "11-3013",
+    "title": "Facilities managers",
+    "medianWage": 104690,
+    "education": "Bachelor's degree",
+    "growthPct": 3.8,
+    "annualOpenings": 13.2
+  },
+  {
+    "code": "45-4021",
+    "title": "Fallers",
+    "medianWage": 53900,
+    "education": "High school diploma or equivalent",
+    "growthPct": -7.3,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "25-1192",
+    "title": "Family and consumer sciences teachers, postsecondary",
+    "medianWage": 77280,
+    "education": "Doctoral or professional degree",
+    "growthPct": 3.4,
+    "annualOpenings": 0.2
+  },
+  {
+    "code": "29-1215",
+    "title": "Family medicine physicians",
+    "medianWage": 238380,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.7,
+    "annualOpenings": 3.3
+  },
+  {
+    "code": "25-9021",
+    "title": "Farm and home management educators",
+    "medianWage": 58120,
+    "education": "Master's degree",
+    "growthPct": -2.5,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "49-3041",
+    "title": "Farm equipment mechanics and service technicians",
+    "medianWage": 52080,
+    "education": "High school diploma or equivalent",
+    "growthPct": 11.0,
+    "annualOpenings": 3.7
+  },
+  {
+    "code": "13-1074",
+    "title": "Farm labor contractors",
+    "medianWage": 48690,
+    "education": "No formal educational credential",
+    "growthPct": 6.0,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "11-9013",
+    "title": "Farmers, ranchers, and other agricultural managers",
+    "medianWage": 87980,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.3,
+    "annualOpenings": 85.5
+  },
+  {
+    "code": "45-2092",
+    "title": "Farmworkers and laborers, crop, nursery, and greenhouse",
+    "medianWage": 35690,
+    "education": "No formal educational credential",
+    "growthPct": -3.3,
+    "annualOpenings": 71.7
+  },
+  {
+    "code": "45-2093",
+    "title": "Farmworkers, farm, ranch, and aquacultural animals",
+    "medianWage": 36150,
+    "education": "No formal educational credential",
+    "growthPct": -5.0,
+    "annualOpenings": 31.2
+  },
+  {
+    "code": "27-1022",
+    "title": "Fashion designers",
+    "medianWage": 80690,
+    "education": "Bachelor's degree",
+    "growthPct": 2.0,
+    "annualOpenings": 2.3
+  },
+  {
+    "code": "35-3023",
+    "title": "Fast food and counter workers",
+    "medianWage": 30480,
+    "education": "No formal educational credential",
+    "growthPct": 6.1,
+    "annualOpenings": 904.3
+  },
+  {
+    "code": "47-4031",
+    "title": "Fence erectors",
+    "medianWage": 46940,
+    "education": "No formal educational credential",
+    "growthPct": 4.6,
+    "annualOpenings": 2.3
+  },
+  {
+    "code": "51-2051",
+    "title": "Fiberglass laminators and fabricators",
+    "medianWage": 45760,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.2,
+    "annualOpenings": 2.1
+  },
+  {
+    "code": "43-4071",
+    "title": "File clerks",
+    "medianWage": 41270,
+    "education": "High school diploma or equivalent",
+    "growthPct": -15.9,
+    "annualOpenings": 7.3
+  },
+  {
+    "code": "27-4032",
+    "title": "Film and video editors",
+    "medianWage": 70980,
+    "education": "Bachelor's degree",
+    "growthPct": 4.0,
+    "annualOpenings": 3.6
+  },
+  {
+    "code": "13-2051",
+    "title": "Financial and investment analysts",
+    "medianWage": 101350,
+    "education": "Bachelor's degree",
+    "growthPct": 5.7,
+    "annualOpenings": 25.1
+  },
+  {
+    "code": "43-3099",
+    "title": "Financial clerks, all other",
+    "medianWage": 52150,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.4,
+    "annualOpenings": 4.0
+  },
+  {
+    "code": "13-2061",
+    "title": "Financial examiners",
+    "medianWage": 90400,
+    "education": "Bachelor's degree",
+    "growthPct": 18.5,
+    "annualOpenings": 5.7
+  },
+  {
+    "code": "11-3031",
+    "title": "Financial managers",
+    "medianWage": 161700,
+    "education": "Bachelor's degree",
+    "growthPct": 14.8,
+    "annualOpenings": 74.6
+  },
+  {
+    "code": "13-2054",
+    "title": "Financial risk specialists",
+    "medianWage": 106000,
+    "education": "Bachelor's degree",
+    "growthPct": 6.5,
+    "annualOpenings": 4.8
+  },
+  {
+    "code": "13-2099",
+    "title": "Financial specialists, all other",
+    "medianWage": 80190,
+    "education": "Bachelor's degree",
+    "growthPct": 3.1,
+    "annualOpenings": 10.3
+  },
+  {
+    "code": "27-1013",
+    "title": "Fine artists, including painters, sculptors, and illustrators",
+    "medianWage": 60560,
+    "education": "Bachelor's degree",
+    "growthPct": -1.2,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "33-2021",
+    "title": "Fire inspectors and investigators",
+    "medianWage": 78060,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 3.8,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "33-2011",
+    "title": "Firefighters",
+    "medianWage": 59530,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 3.4,
+    "annualOpenings": 27.1
+  },
+  {
+    "code": "47-1011",
+    "title": "First-line supervisors of construction trades and extraction workers",
+    "medianWage": 78690,
+    "education": "High school diploma or equivalent",
+    "growthPct": 5.3,
+    "annualOpenings": 74.4
+  },
+  {
+    "code": "33-1011",
+    "title": "First-line supervisors of correctional officers",
+    "medianWage": 76310,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.8,
+    "annualOpenings": 4.3
+  },
+  {
+    "code": "39-1014",
+    "title": "First-line supervisors of entertainment and recreation workers, except gambling services",
+    "medianWage": 46900,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.3,
+    "annualOpenings": 13.4
+  },
+  {
+    "code": "45-1011",
+    "title": "First-line supervisors of farming, fishing, and forestry workers",
+    "medianWage": 59330,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.5,
+    "annualOpenings": 8.5
+  },
+  {
+    "code": "33-1021",
+    "title": "First-line supervisors of firefighting and prevention workers",
+    "medianWage": 92430,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 3.4,
+    "annualOpenings": 6.5
+  },
+  {
+    "code": "35-1012",
+    "title": "First-line supervisors of food preparation and serving workers",
+    "medianWage": 42010,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.0,
+    "annualOpenings": 183.9
+  },
+  {
+    "code": "39-1013",
+    "title": "First-line supervisors of gambling services workers",
+    "medianWage": 61590,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.0,
+    "annualOpenings": 3.3
+  },
+  {
+    "code": "37-1011",
+    "title": "First-line supervisors of housekeeping and janitorial workers",
+    "medianWage": 47520,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.5,
+    "annualOpenings": 33.0
+  },
+  {
+    "code": "37-1012",
+    "title": "First-line supervisors of landscaping, lawn service, and groundskeeping workers",
+    "medianWage": 56170,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.3,
+    "annualOpenings": 23.2
+  },
+  {
+    "code": "49-1011",
+    "title": "First-line supervisors of mechanics, installers, and repairers",
+    "medianWage": 78300,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.1,
+    "annualOpenings": 52.4
+  },
+  {
+    "code": "41-1012",
+    "title": "First-line supervisors of non-retail sales workers",
+    "medianWage": 84130,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.0,
+    "annualOpenings": 24.8
+  },
+  {
+    "code": "43-1011",
+    "title": "First-line supervisors of office and administrative support workers",
+    "medianWage": 66140,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.3,
+    "annualOpenings": 144.5
+  },
+  {
+    "code": "39-1022",
+    "title": "First-line supervisors of personal service workers",
+    "medianWage": 47080,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.7,
+    "annualOpenings": 16.3
+  },
+  {
+    "code": "33-1012",
+    "title": "First-line supervisors of police and detectives",
+    "medianWage": 105980,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.9,
+    "annualOpenings": 10.9
+  },
+  {
+    "code": "51-1011",
+    "title": "First-line supervisors of production and operating workers",
+    "medianWage": 71190,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.2,
+    "annualOpenings": 67.7
+  },
+  {
+    "code": "33-1099",
+    "title": "First-line supervisors of protective service workers, all other",
+    "medianWage": 74960,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.6,
+    "annualOpenings": 2.1
+  },
+  {
+    "code": "41-1011",
+    "title": "First-line supervisors of retail sales workers",
+    "medianWage": 47320,
+    "education": "High school diploma or equivalent",
+    "growthPct": -5.0,
+    "annualOpenings": 125.1
+  },
+  {
+    "code": "33-1091",
+    "title": "First-line supervisors of security workers",
+    "medianWage": 58610,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.7,
+    "annualOpenings": 7.0
+  },
+  {
+    "code": "53-1047",
+    "title": "First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",
+    "medianWage": 61890,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.7,
+    "annualOpenings": 61.3
+  },
+  {
+    "code": "33-3031",
+    "title": "Fish and game wardens",
+    "medianWage": 68180,
+    "education": "Bachelor's degree",
+    "growthPct": -6.0,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "45-3031",
+    "title": "Fishing and hunting workers",
+    "medianWage": null,
+    "education": "No formal educational credential",
+    "growthPct": -4.6,
+    "annualOpenings": 2.8
+  },
+  {
+    "code": "53-2031",
+    "title": "Flight attendants",
+    "medianWage": 67130,
+    "education": "High school diploma or equivalent",
+    "growthPct": 9.2,
+    "annualOpenings": 19.8
+  },
+  {
+    "code": "47-2042",
+    "title": "Floor layers, except carpet, wood, and hard tiles",
+    "medianWage": 54340,
+    "education": "No formal educational credential",
+    "growthPct": 9.5,
+    "annualOpenings": 2.7
+  },
+  {
+    "code": "47-2043",
+    "title": "Floor sanders and finishers",
+    "medianWage": 49150,
+    "education": "No formal educational credential",
+    "growthPct": 2.6,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "27-1023",
+    "title": "Floral designers",
+    "medianWage": 36120,
+    "education": "High school diploma or equivalent",
+    "growthPct": -5.9,
+    "annualOpenings": 5.1
+  },
+  {
+    "code": "51-3091",
+    "title": "Food and tobacco roasting, baking, and drying machine operators and tenders",
+    "medianWage": 42730,
+    "education": "No formal educational credential",
+    "growthPct": 0.6,
+    "annualOpenings": 2.4
+  },
+  {
+    "code": "51-3092",
+    "title": "Food batchmakers",
+    "medianWage": 40790,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.9,
+    "annualOpenings": 24.2
+  },
+  {
+    "code": "51-3093",
+    "title": "Food cooking machine operators and tenders",
+    "medianWage": 40550,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.6,
+    "annualOpenings": 4.4
+  },
+  {
+    "code": "35-9099",
+    "title": "Food preparation and serving related workers, all other",
+    "medianWage": 34830,
+    "education": "No formal educational credential",
+    "growthPct": 6.4,
+    "annualOpenings": 14.6
+  },
+  {
+    "code": "35-2021",
+    "title": "Food preparation workers",
+    "medianWage": 34220,
+    "education": "No formal educational credential",
+    "growthPct": -3.4,
+    "annualOpenings": 148.0
+  },
+  {
+    "code": "51-3099",
+    "title": "Food processing workers, all other",
+    "medianWage": 38420,
+    "education": "No formal educational credential",
+    "growthPct": 5.3,
+    "annualOpenings": 6.5
+  },
+  {
+    "code": "19-4013",
+    "title": "Food science technicians",
+    "medianWage": 49430,
+    "education": "Associate's degree",
+    "growthPct": 4.8,
+    "annualOpenings": 3.2
+  },
+  {
+    "code": "19-1012",
+    "title": "Food scientists and technologists",
+    "medianWage": 85310,
+    "education": "Bachelor's degree",
+    "growthPct": 6.5,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "35-3041",
+    "title": "Food servers, nonrestaurant",
+    "medianWage": 34460,
+    "education": "No formal educational credential",
+    "growthPct": 3.0,
+    "annualOpenings": 48.0
+  },
+  {
+    "code": "11-9051",
+    "title": "Food service managers",
+    "medianWage": 65310,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.4,
+    "annualOpenings": 42.0
+  },
+  {
+    "code": "25-1124",
+    "title": "Foreign language and literature teachers, postsecondary",
+    "medianWage": 77010,
+    "education": "Doctoral or professional degree",
+    "growthPct": -0.2,
+    "annualOpenings": 1.9
+  },
+  {
+    "code": "19-4092",
+    "title": "Forensic science technicians",
+    "medianWage": 67440,
+    "education": "Bachelor's degree",
+    "growthPct": 12.8,
+    "annualOpenings": 2.9
+  },
+  {
+    "code": "19-4071",
+    "title": "Forest and conservation technicians",
+    "medianWage": 54310,
+    "education": "Associate's degree",
+    "growthPct": -3.2,
+    "annualOpenings": 3.9
+  },
+  {
+    "code": "45-4011",
+    "title": "Forest and conservation workers",
+    "medianWage": 43680,
+    "education": "High school diploma or equivalent",
+    "growthPct": -4.7,
+    "annualOpenings": 2.0
+  },
+  {
+    "code": "33-2022",
+    "title": "Forest fire inspectors and prevention specialists",
+    "medianWage": 52380,
+    "education": "High school diploma or equivalent",
+    "growthPct": 14.6,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "19-1032",
+    "title": "Foresters",
+    "medianWage": 70660,
+    "education": "Bachelor's degree",
+    "growthPct": 1.2,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "25-1043",
+    "title": "Forestry and conservation science teachers, postsecondary",
+    "medianWage": 100830,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.0,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "51-4022",
+    "title": "Forging machine setters, operators, and tenders, metal and plastic",
+    "medianWage": 49240,
+    "education": "High school diploma or equivalent",
+    "growthPct": -18.9,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "51-4071",
+    "title": "Foundry mold and coremakers",
+    "medianWage": 45700,
+    "education": "High school diploma or equivalent",
+    "growthPct": -25.9,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "13-1131",
+    "title": "Fundraisers",
+    "medianWage": 66490,
+    "education": "Bachelor's degree",
+    "growthPct": 4.3,
+    "annualOpenings": 10.2
+  },
+  {
+    "code": "11-2033",
+    "title": "Fundraising managers",
+    "medianWage": 123480,
+    "education": "Bachelor's degree",
+    "growthPct": 4.2,
+    "annualOpenings": 3.6
+  },
+  {
+    "code": "39-4021",
+    "title": "Funeral attendants",
+    "medianWage": 34610,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.1,
+    "annualOpenings": 5.7
+  },
+  {
+    "code": "11-9171",
+    "title": "Funeral home managers",
+    "medianWage": 76830,
+    "education": "Associate's degree",
+    "growthPct": 4.1,
+    "annualOpenings": 2.6
+  },
+  {
+    "code": "51-9051",
+    "title": "Furnace, kiln, oven, drier, and kettle operators and tenders",
+    "medianWage": 47010,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.0,
+    "annualOpenings": 1.9
+  },
+  {
+    "code": "51-7021",
+    "title": "Furniture finishers",
+    "medianWage": 42530,
+    "education": "High school diploma or equivalent",
+    "growthPct": -3.3,
+    "annualOpenings": 2.0
+  },
+  {
+    "code": "39-3012",
+    "title": "Gambling and sports book writers and runners",
+    "medianWage": 30460,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.1,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "43-3041",
+    "title": "Gambling cage workers",
+    "medianWage": 36990,
+    "education": "High school diploma or equivalent",
+    "growthPct": -5.0,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "41-2012",
+    "title": "Gambling change persons and booth cashiers",
+    "medianWage": 34810,
+    "education": "No formal educational credential",
+    "growthPct": -6.4,
+    "annualOpenings": 4.0
+  },
+  {
+    "code": "39-3011",
+    "title": "Gambling dealers",
+    "medianWage": 33280,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.6,
+    "annualOpenings": 14.1
+  },
+  {
+    "code": "11-9071",
+    "title": "Gambling managers",
+    "medianWage": 85580,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.2,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "39-3019",
+    "title": "Gambling service workers, all other",
+    "medianWage": 34530,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.6,
+    "annualOpenings": 2.6
+  },
+  {
+    "code": "33-9031",
+    "title": "Gambling surveillance officers and gambling investigators",
+    "medianWage": 43900,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.3,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "53-7071",
+    "title": "Gas compressor and gas pumping station operators",
+    "medianWage": 71510,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.3,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "51-8092",
+    "title": "Gas plant operators",
+    "medianWage": 83400,
+    "education": "High school diploma or equivalent",
+    "growthPct": -8.8,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "11-1021",
+    "title": "General and operations managers",
+    "medianWage": 102950,
+    "education": "Bachelor's degree",
+    "growthPct": 4.4,
+    "annualOpenings": 308.7
+  },
+  {
+    "code": "29-1216",
+    "title": "General internal medicine physicians",
+    "medianWage": 236350,
+    "education": "Doctoral or professional degree",
+    "growthPct": 3.3,
+    "annualOpenings": 2.1
+  },
+  {
+    "code": "29-9092",
+    "title": "Genetic counselors",
+    "medianWage": 98910,
+    "education": "Master's degree",
+    "growthPct": 9.3,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "19-3092",
+    "title": "Geographers",
+    "medianWage": 97200,
+    "education": "Bachelor's degree",
+    "growthPct": -3.1,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "25-1064",
+    "title": "Geography teachers, postsecondary",
+    "medianWage": 86730,
+    "education": "Doctoral or professional degree",
+    "growthPct": 3.3,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "19-4043",
+    "title": "Geological technicians, except hydrologic technicians",
+    "medianWage": 48390,
+    "education": "Associate's degree",
+    "growthPct": 1.5,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "19-2042",
+    "title": "Geoscientists, except hydrologists and geographers",
+    "medianWage": 99240,
+    "education": "Bachelor's degree",
+    "growthPct": 3.2,
+    "annualOpenings": 2.0
+  },
+  {
+    "code": "47-2121",
+    "title": "Glaziers",
+    "medianWage": 55440,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.3,
+    "annualOpenings": 5.1
+  },
+  {
+    "code": "45-2041",
+    "title": "Graders and sorters, agricultural products",
+    "medianWage": 35430,
+    "education": "No formal educational credential",
+    "growthPct": -5.4,
+    "annualOpenings": 5.1
+  },
+  {
+    "code": "27-1024",
+    "title": "Graphic designers",
+    "medianWage": 61300,
+    "education": "Bachelor's degree",
+    "growthPct": 2.1,
+    "annualOpenings": 20.0
+  },
+  {
+    "code": "51-9022",
+    "title": "Grinding and polishing workers, hand",
+    "medianWage": 41690,
+    "education": "No formal educational credential",
+    "growthPct": -21.2,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "51-4033",
+    "title": "Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",
+    "medianWage": 45190,
+    "education": "High school diploma or equivalent",
+    "growthPct": -12.0,
+    "annualOpenings": 5.5
+  },
+  {
+    "code": "37-3019",
+    "title": "Grounds maintenance workers, all other",
+    "medianWage": 43410,
+    "education": "No formal educational credential",
+    "growthPct": 2.4,
+    "annualOpenings": 1.9
+  },
+  {
+    "code": "39-5012",
+    "title": "Hairdressers, hairstylists, and cosmetologists",
+    "medianWage": 35250,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 5.6,
+    "annualOpenings": 75.8
+  },
+  {
+    "code": "47-4041",
+    "title": "Hazardous materials removal workers",
+    "medianWage": 48490,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.0,
+    "annualOpenings": 5.0
+  },
+  {
+    "code": "17-2111",
+    "title": "Health and safety engineers, except mining safety engineers and inspectors",
+    "medianWage": 109660,
+    "education": "Bachelor's degree",
+    "growthPct": 4.4,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "21-1091",
+    "title": "Health education specialists",
+    "medianWage": 63000,
+    "education": "Bachelor's degree",
+    "growthPct": 4.5,
+    "annualOpenings": 7.9
+  },
+  {
+    "code": "29-9021",
+    "title": "Health information technologists and medical registrars",
+    "medianWage": 67310,
+    "education": "Associate's degree",
+    "growthPct": 14.7,
+    "annualOpenings": 3.2
+  },
+  {
+    "code": "25-1071",
+    "title": "Health specialties teachers, postsecondary",
+    "medianWage": 105620,
+    "education": "Doctoral or professional degree",
+    "growthPct": 17.3,
+    "annualOpenings": 27.4
+  },
+  {
+    "code": "29-2099",
+    "title": "Health technologists and technicians, all other",
+    "medianWage": 48790,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 5.2,
+    "annualOpenings": 13.6
+  },
+  {
+    "code": "29-1299",
+    "title": "Healthcare diagnosing or treating practitioners, all other",
+    "medianWage": 113730,
+    "education": "Master's degree",
+    "growthPct": 2.0,
+    "annualOpenings": 2.4
+  },
+  {
+    "code": "29-9099",
+    "title": "Healthcare practitioners and technical workers, all other",
+    "medianWage": 64030,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 3.6,
+    "annualOpenings": 2.6
+  },
+  {
+    "code": "21-1022",
+    "title": "Healthcare social workers",
+    "medianWage": 68090,
+    "education": "Master's degree",
+    "growthPct": 7.7,
+    "annualOpenings": 18.4
+  },
+  {
+    "code": "31-9099",
+    "title": "Healthcare support workers, all other",
+    "medianWage": 46050,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.5,
+    "annualOpenings": 14.4
+  },
+  {
+    "code": "29-2092",
+    "title": "Hearing aid specialists",
+    "medianWage": 61560,
+    "education": "High school diploma or equivalent",
+    "growthPct": 18.4,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "51-4191",
+    "title": "Heat treating equipment setters, operators, and tenders, metal and plastic",
+    "medianWage": 47450,
+    "education": "High school diploma or equivalent",
+    "growthPct": -12.8,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "49-9021",
+    "title": "Heating, air conditioning, and refrigeration mechanics and installers",
+    "medianWage": 59810,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 8.1,
+    "annualOpenings": 40.1
+  },
+  {
+    "code": "53-3032",
+    "title": "Heavy and tractor-trailer truck drivers",
+    "medianWage": 57440,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 4.0,
+    "annualOpenings": 237.6
+  },
+  {
+    "code": "47-3019",
+    "title": "Helpers, construction trades, all other",
+    "medianWage": 40760,
+    "education": "No formal educational credential",
+    "growthPct": 4.4,
+    "annualOpenings": 2.8
+  },
+  {
+    "code": "47-3011",
+    "title": "Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",
+    "medianWage": 46480,
+    "education": "No formal educational credential",
+    "growthPct": -10.5,
+    "annualOpenings": 1.4
+  },
+  {
+    "code": "47-3012",
+    "title": "Helpers--carpenters",
+    "medianWage": 41600,
+    "education": "No formal educational credential",
+    "growthPct": 4.5,
+    "annualOpenings": 2.7
+  },
+  {
+    "code": "47-3013",
+    "title": "Helpers--electricians",
+    "medianWage": 39890,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.2,
+    "annualOpenings": 6.8
+  },
+  {
+    "code": "47-5081",
+    "title": "Helpers--extraction workers",
+    "medianWage": 48400,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.7,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "49-9098",
+    "title": "Helpers--installation, maintenance, and repair workers",
+    "medianWage": 38860,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.3,
+    "annualOpenings": 11.8
+  },
+  {
+    "code": "47-3014",
+    "title": "Helpers--painters, paperhangers, plasterers, and stucco masons",
+    "medianWage": 38140,
+    "education": "No formal educational credential",
+    "growthPct": 2.3,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "47-3015",
+    "title": "Helpers--pipelayers, plumbers, pipefitters, and steamfitters",
+    "medianWage": 39270,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.9,
+    "annualOpenings": 4.9
+  },
+  {
+    "code": "51-9198",
+    "title": "Helpers--production workers",
+    "medianWage": 38220,
+    "education": "High school diploma or equivalent",
+    "growthPct": -8.9,
+    "annualOpenings": 23.6
+  },
+  {
+    "code": "47-3016",
+    "title": "Helpers--roofers",
+    "medianWage": 40590,
+    "education": "No formal educational credential",
+    "growthPct": 5.7,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "47-4051",
+    "title": "Highway maintenance workers",
+    "medianWage": 49070,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.0,
+    "annualOpenings": 12.3
+  },
+  {
+    "code": "19-3093",
+    "title": "Historians",
+    "medianWage": 74050,
+    "education": "Master's degree",
+    "growthPct": 2.2,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "25-1125",
+    "title": "History teachers, postsecondary",
+    "medianWage": 81500,
+    "education": "Doctoral or professional degree",
+    "growthPct": -0.2,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "53-7041",
+    "title": "Hoist and winch operators",
+    "medianWage": 52310,
+    "education": "No formal educational credential",
+    "growthPct": -1.1,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "49-9031",
+    "title": "Home appliance repairers",
+    "medianWage": 49410,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.6,
+    "annualOpenings": 3.1
+  },
+  {
+    "code": "31-1120",
+    "title": "Home health and personal care aides",
+    "medianWage": 34900,
+    "education": "High school diploma or equivalent",
+    "growthPct": 17.0,
+    "annualOpenings": 765.8
+  },
+  {
+    "code": "35-9031",
+    "title": "Hosts and hostesses, restaurant, lounge, and coffee shop",
+    "medianWage": 30380,
+    "education": "No formal educational credential",
+    "growthPct": -1.5,
+    "annualOpenings": 107.7
+  },
+  {
+    "code": "43-4081",
+    "title": "Hotel, motel, and resort desk clerks",
+    "medianWage": 34270,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.7,
+    "annualOpenings": 43.6
+  },
+  {
+    "code": "43-4161",
+    "title": "Human resources assistants, except payroll and timekeeping",
+    "medianWage": 49440,
+    "education": "Associate's degree",
+    "growthPct": -7.1,
+    "annualOpenings": 9.0
+  },
+  {
+    "code": "11-3121",
+    "title": "Human resources managers",
+    "medianWage": 140030,
+    "education": "Bachelor's degree",
+    "growthPct": 5.0,
+    "annualOpenings": 17.9
+  },
+  {
+    "code": "13-1071",
+    "title": "Human resources specialists",
+    "medianWage": 72910,
+    "education": "Bachelor's degree",
+    "growthPct": 6.2,
+    "annualOpenings": 81.8
+  },
+  {
+    "code": "19-4044",
+    "title": "Hydrologic technicians",
+    "medianWage": 58570,
+    "education": "Associate's degree",
+    "growthPct": -2.1,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "19-2043",
+    "title": "Hydrologists",
+    "medianWage": 92060,
+    "education": "Bachelor's degree",
+    "growthPct": -0.1,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "17-3026",
+    "title": "Industrial engineering technologists and technicians",
+    "medianWage": 64790,
+    "education": "Associate's degree",
+    "growthPct": 1.7,
+    "annualOpenings": 6.3
+  },
+  {
+    "code": "17-2112",
+    "title": "Industrial engineers",
+    "medianWage": 101140,
+    "education": "Bachelor's degree",
+    "growthPct": 11.0,
+    "annualOpenings": 25.2
+  },
+  {
+    "code": "49-9041",
+    "title": "Industrial machinery mechanics",
+    "medianWage": 63760,
+    "education": "High school diploma or equivalent",
+    "growthPct": 16.1,
+    "annualOpenings": 45.7
+  },
+  {
+    "code": "11-3051",
+    "title": "Industrial production managers",
+    "medianWage": 121440,
+    "education": "Bachelor's degree",
+    "growthPct": 1.9,
+    "annualOpenings": 17.1
+  },
+  {
+    "code": "53-7051",
+    "title": "Industrial truck and tractor operators",
+    "medianWage": 46390,
+    "education": "No formal educational credential",
+    "growthPct": 1.1,
+    "annualOpenings": 76.4
+  },
+  {
+    "code": "19-3032",
+    "title": "Industrial-organizational psychologists",
+    "medianWage": 109840,
+    "education": "Master's degree",
+    "growthPct": 6.3,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "43-4199",
+    "title": "Information and record clerks, all other",
+    "medianWage": 48360,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.2,
+    "annualOpenings": 17.8
+  },
+  {
+    "code": "15-1212",
+    "title": "Information security analysts",
+    "medianWage": 124910,
+    "education": "Bachelor's degree",
+    "growthPct": 28.5,
+    "annualOpenings": 16.0
+  },
+  {
+    "code": "51-9061",
+    "title": "Inspectors, testers, sorters, samplers, and weighers",
+    "medianWage": 47460,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.0,
+    "annualOpenings": 69.9
+  },
+  {
+    "code": "49-9099",
+    "title": "Installation, maintenance, and repair workers, all other",
+    "medianWage": 48640,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.4,
+    "annualOpenings": 21.5
+  },
+  {
+    "code": "25-9031",
+    "title": "Instructional coordinators",
+    "medianWage": 74720,
+    "education": "Master's degree",
+    "growthPct": 1.3,
+    "annualOpenings": 21.9
+  },
+  {
+    "code": "47-2131",
+    "title": "Insulation workers, floor, ceiling, and wall",
+    "medianWage": 48680,
+    "education": "No formal educational credential",
+    "growthPct": 3.8,
+    "annualOpenings": 3.4
+  },
+  {
+    "code": "47-2132",
+    "title": "Insulation workers, mechanical",
+    "medianWage": 57250,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.7,
+    "annualOpenings": 2.3
+  },
+  {
+    "code": "13-1032",
+    "title": "Insurance appraisers, auto damage",
+    "medianWage": 76650,
+    "education": "Postsecondary nondegree award",
+    "growthPct": -8.2,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "43-9041",
+    "title": "Insurance claims and policy processing clerks",
+    "medianWage": 48450,
+    "education": "High school diploma or equivalent",
+    "growthPct": -3.7,
+    "annualOpenings": 20.3
+  },
+  {
+    "code": "41-3021",
+    "title": "Insurance sales agents",
+    "medianWage": 60370,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.7,
+    "annualOpenings": 47.0
+  },
+  {
+    "code": "13-2053",
+    "title": "Insurance underwriters",
+    "medianWage": 79880,
+    "education": "Bachelor's degree",
+    "growthPct": -2.6,
+    "annualOpenings": 8.2
+  },
+  {
+    "code": "27-1025",
+    "title": "Interior designers",
+    "medianWage": 63490,
+    "education": "Bachelor's degree",
+    "growthPct": 3.2,
+    "annualOpenings": 7.8
+  },
+  {
+    "code": "27-3091",
+    "title": "Interpreters and translators",
+    "medianWage": 59440,
+    "education": "Bachelor's degree",
+    "growthPct": 1.7,
+    "annualOpenings": 6.9
+  },
+  {
+    "code": "43-4111",
+    "title": "Interviewers, except eligibility and loan",
+    "medianWage": 43830,
+    "education": "High school diploma or equivalent",
+    "growthPct": -11.6,
+    "annualOpenings": 15.8
+  },
+  {
+    "code": "37-2011",
+    "title": "Janitors and cleaners, except maids and housekeeping cleaners",
+    "medianWage": 35930,
+    "education": "No formal educational credential",
+    "growthPct": 2.0,
+    "annualOpenings": 351.3
+  },
+  {
+    "code": "51-9071",
+    "title": "Jewelers and precious stone and metal workers",
+    "medianWage": 49140,
+    "education": "High school diploma or equivalent",
+    "growthPct": -5.5,
+    "annualOpenings": 4.0
+  },
+  {
+    "code": "23-1023",
+    "title": "Judges, magistrate judges, and magistrates",
+    "medianWage": 156210,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.5,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "23-1012",
+    "title": "Judicial law clerks",
+    "medianWage": 60400,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.5,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "25-2012",
+    "title": "Kindergarten teachers, except special education",
+    "medianWage": 61430,
+    "education": "Bachelor's degree",
+    "growthPct": -1.6,
+    "annualOpenings": 12.8
+  },
+  {
+    "code": "13-1075",
+    "title": "Labor relations specialists",
+    "medianWage": 93500,
+    "education": "Bachelor's degree",
+    "growthPct": -0.1,
+    "annualOpenings": 5.1
+  },
+  {
+    "code": "53-7062",
+    "title": "Laborers and freight, stock, and material movers, hand",
+    "medianWage": 38940,
+    "education": "No formal educational credential",
+    "growthPct": 1.5,
+    "annualOpenings": 384.3
+  },
+  {
+    "code": "17-1012",
+    "title": "Landscape architects",
+    "medianWage": 79660,
+    "education": "Bachelor's degree",
+    "growthPct": 3.5,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "37-3011",
+    "title": "Landscaping and groundskeeping workers",
+    "medianWage": 38090,
+    "education": "No formal educational credential",
+    "growthPct": 3.6,
+    "annualOpenings": 158.2
+  },
+  {
+    "code": "51-4034",
+    "title": "Lathe and turning machine tool setters, operators, and tenders, metal and plastic",
+    "medianWage": 48620,
+    "education": "High school diploma or equivalent",
+    "growthPct": -13.6,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "51-6011",
+    "title": "Laundry and dry-cleaning workers",
+    "medianWage": 33800,
+    "education": "No formal educational credential",
+    "growthPct": 5.4,
+    "annualOpenings": 31.9
+  },
+  {
+    "code": "25-1112",
+    "title": "Law teachers, postsecondary",
+    "medianWage": 126650,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.2,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "23-1011",
+    "title": "Lawyers",
+    "medianWage": 151160,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.1,
+    "annualOpenings": 31.5
+  },
+  {
+    "code": "51-4192",
+    "title": "Layout workers, metal and plastic",
+    "medianWage": 61870,
+    "education": "High school diploma or equivalent",
+    "growthPct": -5.4,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "43-6012",
+    "title": "Legal secretaries and administrative assistants",
+    "medianWage": 54140,
+    "education": "High school diploma or equivalent",
+    "growthPct": -5.8,
+    "annualOpenings": 19.6
+  },
+  {
+    "code": "23-2099",
+    "title": "Legal support workers, all other",
+    "medianWage": 68760,
+    "education": "Associate's degree",
+    "growthPct": -1.2,
+    "annualOpenings": 4.7
+  },
+  {
+    "code": "11-1031",
+    "title": "Legislators",
+    "medianWage": 44810,
+    "education": "Bachelor's degree",
+    "growthPct": 3.4,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "25-4022",
+    "title": "Librarians and media collections specialists",
+    "medianWage": 64320,
+    "education": "Master's degree",
+    "growthPct": 1.7,
+    "annualOpenings": 13.5
+  },
+  {
+    "code": "43-4121",
+    "title": "Library assistants, clerical",
+    "medianWage": 36010,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.7,
+    "annualOpenings": 12.8
+  },
+  {
+    "code": "25-1082",
+    "title": "Library science teachers, postsecondary",
+    "medianWage": 78630,
+    "education": "Doctoral or professional degree",
+    "growthPct": 3.0,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "25-4031",
+    "title": "Library technicians",
+    "medianWage": 39970,
+    "education": "Postsecondary nondegree award",
+    "growthPct": -6.8,
+    "annualOpenings": 13.0
+  },
+  {
+    "code": "29-2061",
+    "title": "Licensed practical and licensed vocational nurses",
+    "medianWage": 62340,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 2.6,
+    "annualOpenings": 54.4
+  },
+  {
+    "code": "19-1099",
+    "title": "Life scientists, all other",
+    "medianWage": 87800,
+    "education": "Bachelor's degree",
+    "growthPct": 3.7,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "19-4099",
+    "title": "Life, physical, and social science technicians, all other",
+    "medianWage": 60130,
+    "education": "Associate's degree",
+    "growthPct": 3.5,
+    "annualOpenings": 10.6
+  },
+  {
+    "code": "33-9092",
+    "title": "Lifeguards, ski patrol, and other recreational protective service workers",
+    "medianWage": 33720,
+    "education": "No formal educational credential",
+    "growthPct": 5.8,
+    "annualOpenings": 42.7
+  },
+  {
+    "code": "53-3033",
+    "title": "Light truck drivers",
+    "medianWage": 44140,
+    "education": "High school diploma or equivalent",
+    "growthPct": 7.3,
+    "annualOpenings": 120.2
+  },
+  {
+    "code": "27-4015",
+    "title": "Lighting technicians",
+    "medianWage": 60560,
+    "education": "Postsecondary nondegree award",
+    "growthPct": -4.6,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "47-5044",
+    "title": "Loading and moving machine operators, underground mining",
+    "medianWage": 68860,
+    "education": "No formal educational credential",
+    "growthPct": -22.3,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "43-4131",
+    "title": "Loan interviewers and clerks",
+    "medianWage": 48950,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.3,
+    "annualOpenings": 13.3
+  },
+  {
+    "code": "13-2072",
+    "title": "Loan officers",
+    "medianWage": 74180,
+    "education": "Bachelor's degree",
+    "growthPct": 1.7,
+    "annualOpenings": 20.3
+  },
+  {
+    "code": "39-3093",
+    "title": "Locker room, coatroom, and dressing room attendants",
+    "medianWage": 34800,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.4,
+    "annualOpenings": 4.2
+  },
+  {
+    "code": "49-9094",
+    "title": "Locksmiths and safe repairers",
+    "medianWage": 50490,
+    "education": "High school diploma or equivalent",
+    "growthPct": -8.3,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "53-4011",
+    "title": "Locomotive engineers",
+    "medianWage": 77400,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.7,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "11-9081",
+    "title": "Lodging managers",
+    "medianWage": 68130,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.4,
+    "annualOpenings": 5.4
+  },
+  {
+    "code": "45-4023",
+    "title": "Log graders and scalers",
+    "medianWage": 46710,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.7,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "45-4022",
+    "title": "Logging equipment operators",
+    "medianWage": 49210,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.4,
+    "annualOpenings": 4.2
+  },
+  {
+    "code": "45-4029",
+    "title": "Logging workers, all other",
+    "medianWage": 52000,
+    "education": "High school diploma or equivalent",
+    "growthPct": -4.7,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "13-1081",
+    "title": "Logisticians",
+    "medianWage": 80880,
+    "education": "Bachelor's degree",
+    "growthPct": 16.7,
+    "annualOpenings": 26.4
+  },
+  {
+    "code": "53-7063",
+    "title": "Machine feeders and offbearers",
+    "medianWage": 39700,
+    "education": "No formal educational credential",
+    "growthPct": -13.0,
+    "annualOpenings": 4.7
+  },
+  {
+    "code": "51-4041",
+    "title": "Machinists",
+    "medianWage": 56150,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.0,
+    "annualOpenings": 29.5
+  },
+  {
+    "code": "29-2035",
+    "title": "Magnetic resonance imaging technologists",
+    "medianWage": 88180,
+    "education": "Associate's degree",
+    "growthPct": 7.1,
+    "annualOpenings": 2.6
+  },
+  {
+    "code": "37-2012",
+    "title": "Maids and housekeeping cleaners",
+    "medianWage": 34660,
+    "education": "No formal educational credential",
+    "growthPct": 0.4,
+    "annualOpenings": 193.5
+  },
+  {
+    "code": "43-9051",
+    "title": "Mail clerks and mail machine operators, except postal service",
+    "medianWage": 38150,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.6,
+    "annualOpenings": 6.9
+  },
+  {
+    "code": "49-9071",
+    "title": "Maintenance and repair workers, general",
+    "medianWage": 48620,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.8,
+    "annualOpenings": 159.8
+  },
+  {
+    "code": "49-9043",
+    "title": "Maintenance workers, machinery",
+    "medianWage": 60500,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.8,
+    "annualOpenings": 4.8
+  },
+  {
+    "code": "39-5091",
+    "title": "Makeup artists, theatrical and performance",
+    "medianWage": 50280,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 8.1,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "13-1111",
+    "title": "Management analysts",
+    "medianWage": 101190,
+    "education": "Bachelor's degree",
+    "growthPct": 8.8,
+    "annualOpenings": 98.1
+  },
+  {
+    "code": "11-9199",
+    "title": "Managers, all other",
+    "medianWage": 136550,
+    "education": "Bachelor's degree",
+    "growthPct": 4.5,
+    "annualOpenings": 106.7
+  },
+  {
+    "code": "39-5092",
+    "title": "Manicurists and pedicurists",
+    "medianWage": 34660,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 7.0,
+    "annualOpenings": 24.8
+  },
+  {
+    "code": "49-9095",
+    "title": "Manufactured building and mobile home installers",
+    "medianWage": 41080,
+    "education": "High school diploma or equivalent",
+    "growthPct": 5.9,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "17-2121",
+    "title": "Marine engineers and naval architects",
+    "medianWage": 105670,
+    "education": "Bachelor's degree",
+    "growthPct": 5.8,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "13-1161",
+    "title": "Market research analysts and marketing specialists",
+    "medianWage": 76950,
+    "education": "Bachelor's degree",
+    "growthPct": 6.7,
+    "annualOpenings": 87.2
+  },
+  {
+    "code": "11-2021",
+    "title": "Marketing managers",
+    "medianWage": 161030,
+    "education": "Bachelor's degree",
+    "growthPct": 6.6,
+    "annualOpenings": 34.3
+  },
+  {
+    "code": "21-1013",
+    "title": "Marriage and family therapists",
+    "medianWage": 63780,
+    "education": "Master's degree",
+    "growthPct": 12.6,
+    "annualOpenings": 7.7
+  },
+  {
+    "code": "31-9011",
+    "title": "Massage therapists",
+    "medianWage": 57950,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 15.4,
+    "annualOpenings": 24.7
+  },
+  {
+    "code": "53-7199",
+    "title": "Material moving workers, all other",
+    "medianWage": 41690,
+    "education": "No formal educational credential",
+    "growthPct": 4.3,
+    "annualOpenings": 3.1
+  },
+  {
+    "code": "17-2131",
+    "title": "Materials engineers",
+    "medianWage": 108310,
+    "education": "Bachelor's degree",
+    "growthPct": 5.7,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "19-2032",
+    "title": "Materials scientists",
+    "medianWage": 104160,
+    "education": "Bachelor's degree",
+    "growthPct": 4.9,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "15-2099",
+    "title": "Mathematical science occupations, all other",
+    "medianWage": 71490,
+    "education": "Bachelor's degree",
+    "growthPct": 4.0,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "25-1022",
+    "title": "Mathematical science teachers, postsecondary",
+    "medianWage": 79350,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.3,
+    "annualOpenings": 4.4
+  },
+  {
+    "code": "15-2021",
+    "title": "Mathematicians",
+    "medianWage": 121680,
+    "education": "Master's degree",
+    "growthPct": -0.7,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "51-3022",
+    "title": "Meat, poultry, and fish cutters and trimmers",
+    "medianWage": 37700,
+    "education": "No formal educational credential",
+    "growthPct": 5.5,
+    "annualOpenings": 18.4
+  },
+  {
+    "code": "49-9011",
+    "title": "Mechanical door repairers",
+    "medianWage": 51050,
+    "education": "High school diploma or equivalent",
+    "growthPct": 11.4,
+    "annualOpenings": 2.7
+  },
+  {
+    "code": "17-3013",
+    "title": "Mechanical drafters",
+    "medianWage": 68510,
+    "education": "Associate's degree",
+    "growthPct": -6.5,
+    "annualOpenings": 3.3
+  },
+  {
+    "code": "17-3027",
+    "title": "Mechanical engineering technologists and technicians",
+    "medianWage": 68730,
+    "education": "Associate's degree",
+    "growthPct": 0.0,
+    "annualOpenings": 3.2
+  },
+  {
+    "code": "17-2141",
+    "title": "Mechanical engineers",
+    "medianWage": 102320,
+    "education": "Bachelor's degree",
+    "growthPct": 9.1,
+    "annualOpenings": 18.1
+  },
+  {
+    "code": "27-4099",
+    "title": "Media and communication equipment workers, all other",
+    "medianWage": 67190,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.6,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "27-3099",
+    "title": "Media and communication workers, all other",
+    "medianWage": 71770,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.7,
+    "annualOpenings": 3.0
+  },
+  {
+    "code": "11-9111",
+    "title": "Medical and health services managers",
+    "medianWage": 117960,
+    "education": "Bachelor's degree",
+    "growthPct": 23.2,
+    "annualOpenings": 62.1
+  },
+  {
+    "code": "51-9082",
+    "title": "Medical appliance technicians",
+    "medianWage": 47060,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.7,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "31-9092",
+    "title": "Medical assistants",
+    "medianWage": 44200,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 12.5,
+    "annualOpenings": 112.3
+  },
+  {
+    "code": "29-2036",
+    "title": "Medical dosimetrists",
+    "medianWage": 138110,
+    "education": "Bachelor's degree",
+    "growthPct": 3.5,
+    "annualOpenings": 0.2
+  },
+  {
+    "code": "31-9093",
+    "title": "Medical equipment preparers",
+    "medianWage": 46490,
+    "education": "High school diploma or equivalent",
+    "growthPct": 10.0,
+    "annualOpenings": 10.9
+  },
+  {
+    "code": "49-9062",
+    "title": "Medical equipment repairers",
+    "medianWage": 62630,
+    "education": "Associate's degree",
+    "growthPct": 12.9,
+    "annualOpenings": 7.3
+  },
+  {
+    "code": "29-2072",
+    "title": "Medical records specialists",
+    "medianWage": 50250,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 7.1,
+    "annualOpenings": 14.2
+  },
+  {
+    "code": "19-1042",
+    "title": "Medical scientists, except epidemiologists",
+    "medianWage": 100590,
+    "education": "Doctoral or professional degree",
+    "growthPct": 8.7,
+    "annualOpenings": 9.6
+  },
+  {
+    "code": "43-6013",
+    "title": "Medical secretaries and administrative assistants",
+    "medianWage": 44640,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.2,
+    "annualOpenings": 85.9
+  },
+  {
+    "code": "31-9094",
+    "title": "Medical transcriptionists",
+    "medianWage": 37550,
+    "education": "Postsecondary nondegree award",
+    "growthPct": -4.9,
+    "annualOpenings": 7.4
+  },
+  {
+    "code": "13-1121",
+    "title": "Meeting, convention, and event planners",
+    "medianWage": 59440,
+    "education": "Bachelor's degree",
+    "growthPct": 4.8,
+    "annualOpenings": 15.5
+  },
+  {
+    "code": "21-1023",
+    "title": "Mental health and substance abuse social workers",
+    "medianWage": 60060,
+    "education": "Master's degree",
+    "growthPct": 9.7,
+    "annualOpenings": 13.5
+  },
+  {
+    "code": "27-1026",
+    "title": "Merchandise displayers and window trimmers",
+    "medianWage": 37350,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.2,
+    "annualOpenings": 20.8
+  },
+  {
+    "code": "51-4199",
+    "title": "Metal workers and plastic workers, all other",
+    "medianWage": 42750,
+    "education": "High school diploma or equivalent",
+    "growthPct": -9.5,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "51-4051",
+    "title": "Metal-refining furnace operators and tenders",
+    "medianWage": 55770,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.3,
+    "annualOpenings": 2.0
+  },
+  {
+    "code": "43-5041",
+    "title": "Meter readers, utilities",
+    "medianWage": 49180,
+    "education": "High school diploma or equivalent",
+    "growthPct": -12.0,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "19-1022",
+    "title": "Microbiologists",
+    "medianWage": 87330,
+    "education": "Bachelor's degree",
+    "growthPct": 4.1,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "25-2022",
+    "title": "Middle school teachers, except special and career/technical education",
+    "medianWage": 62970,
+    "education": "Bachelor's degree",
+    "growthPct": -2.0,
+    "annualOpenings": 40.5
+  },
+  {
+    "code": "51-4035",
+    "title": "Milling and planing machine setters, operators, and tenders, metal and plastic",
+    "medianWage": 48310,
+    "education": "High school diploma or equivalent",
+    "growthPct": -14.4,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "49-9044",
+    "title": "Millwrights",
+    "medianWage": 65170,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.0,
+    "annualOpenings": 3.6
+  },
+  {
+    "code": "17-2151",
+    "title": "Mining and geological engineers, including mining safety engineers",
+    "medianWage": 101020,
+    "education": "Bachelor's degree",
+    "growthPct": 0.7,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "51-2090",
+    "title": "Miscellaneous assemblers and fabricators",
+    "medianWage": 42210,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.1,
+    "annualOpenings": 156.3
+  },
+  {
+    "code": "47-4090",
+    "title": "Miscellaneous construction and related workers",
+    "medianWage": 48120,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.5,
+    "annualOpenings": 3.1
+  },
+  {
+    "code": "51-9023",
+    "title": "Mixing and blending machine setters, operators, and tenders",
+    "medianWage": 47680,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.8,
+    "annualOpenings": 8.8
+  },
+  {
+    "code": "49-3042",
+    "title": "Mobile heavy equipment mechanics, except engines",
+    "medianWage": 63980,
+    "education": "High school diploma or equivalent",
+    "growthPct": 5.8,
+    "annualOpenings": 16.5
+  },
+  {
+    "code": "51-4061",
+    "title": "Model makers, metal and plastic",
+    "medianWage": 62700,
+    "education": "High school diploma or equivalent",
+    "growthPct": -18.2,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "51-7031",
+    "title": "Model makers, wood",
+    "medianWage": 51850,
+    "education": "High school diploma or equivalent",
+    "growthPct": -4.5,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "41-9012",
+    "title": "Models",
+    "medianWage": 89990,
+    "education": "No formal educational credential",
+    "growthPct": -0.5,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "51-9195",
+    "title": "Molders, shapers, and casters, except metal and plastic",
+    "medianWage": 45690,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.2,
+    "annualOpenings": 5.5
+  },
+  {
+    "code": "51-4072",
+    "title": "Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",
+    "medianWage": 41230,
+    "education": "High school diploma or equivalent",
+    "growthPct": -3.8,
+    "annualOpenings": 15.9
+  },
+  {
+    "code": "39-4031",
+    "title": "Morticians, undertakers, and funeral arrangers",
+    "medianWage": 49800,
+    "education": "Associate's degree",
+    "growthPct": 3.1,
+    "annualOpenings": 3.2
+  },
+  {
+    "code": "39-3021",
+    "title": "Motion picture projectionists",
+    "medianWage": 38180,
+    "education": "No formal educational credential",
+    "growthPct": -3.7,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "53-3099",
+    "title": "Motor vehicle operators, all other",
+    "medianWage": 36260,
+    "education": "No formal educational credential",
+    "growthPct": 6.0,
+    "annualOpenings": 11.1
+  },
+  {
+    "code": "49-3051",
+    "title": "Motorboat mechanics and service technicians",
+    "medianWage": 54950,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.0,
+    "annualOpenings": 2.6
+  },
+  {
+    "code": "53-5022",
+    "title": "Motorboat operators",
+    "medianWage": 51880,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 1.4,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "49-3052",
+    "title": "Motorcycle mechanics",
+    "medianWage": 47200,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 5.3,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "51-4081",
+    "title": "Multiple machine tool setters, operators, and tenders, metal and plastic",
+    "medianWage": 46060,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.5,
+    "annualOpenings": 12.8
+  },
+  {
+    "code": "25-4013",
+    "title": "Museum technicians and conservators",
+    "medianWage": 47460,
+    "education": "Bachelor's degree",
+    "growthPct": 5.4,
+    "annualOpenings": 1.9
+  },
+  {
+    "code": "27-2041",
+    "title": "Music directors and composers",
+    "medianWage": 63670,
+    "education": "Bachelor's degree",
+    "growthPct": -0.3,
+    "annualOpenings": 4.3
+  },
+  {
+    "code": "49-9063",
+    "title": "Musical instrument repairers and tuners",
+    "medianWage": 45320,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.4,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "27-2042",
+    "title": "Musicians and singers",
+    "medianWage": null,
+    "education": "No formal educational credential",
+    "growthPct": 1.1,
+    "annualOpenings": 19.4
+  },
+  {
+    "code": "11-9121",
+    "title": "Natural sciences managers",
+    "medianWage": 161180,
+    "education": "Bachelor's degree",
+    "growthPct": 3.7,
+    "annualOpenings": 8.5
+  },
+  {
+    "code": "15-1244",
+    "title": "Network and computer systems administrators",
+    "medianWage": 96800,
+    "education": "Bachelor's degree",
+    "growthPct": -4.2,
+    "annualOpenings": 14.3
+  },
+  {
+    "code": "29-1217",
+    "title": "Neurologists",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 5.4,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "43-4141",
+    "title": "New accounts clerks",
+    "medianWage": 46610,
+    "education": "High school diploma or equivalent",
+    "growthPct": -13.2,
+    "annualOpenings": 2.3
+  },
+  {
+    "code": "27-3023",
+    "title": "News analysts, reporters, and journalists",
+    "medianWage": 60280,
+    "education": "Bachelor's degree",
+    "growthPct": -3.9,
+    "annualOpenings": 4.1
+  },
+  {
+    "code": "17-2161",
+    "title": "Nuclear engineers",
+    "medianWage": 127520,
+    "education": "Bachelor's degree",
+    "growthPct": -1.1,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "29-2033",
+    "title": "Nuclear medicine technologists",
+    "medianWage": 97020,
+    "education": "Associate's degree",
+    "growthPct": 3.0,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "51-8011",
+    "title": "Nuclear power reactor operators",
+    "medianWage": 122610,
+    "education": "High school diploma or equivalent",
+    "growthPct": -15.3,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "19-4051",
+    "title": "Nuclear technicians",
+    "medianWage": 104240,
+    "education": "Associate's degree",
+    "growthPct": -7.7,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "29-1151",
+    "title": "Nurse anesthetists",
+    "medianWage": 223210,
+    "education": "Master's degree",
+    "growthPct": 8.6,
+    "annualOpenings": 2.7
+  },
+  {
+    "code": "29-1161",
+    "title": "Nurse midwives",
+    "medianWage": 128790,
+    "education": "Master's degree",
+    "growthPct": 11.1,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "29-1171",
+    "title": "Nurse practitioners",
+    "medianWage": 129210,
+    "education": "Master's degree",
+    "growthPct": 40.1,
+    "annualOpenings": 29.5
+  },
+  {
+    "code": "31-1131",
+    "title": "Nursing assistants",
+    "medianWage": 39530,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 2.3,
+    "annualOpenings": 204.1
+  },
+  {
+    "code": "25-1072",
+    "title": "Nursing instructors and teachers, postsecondary",
+    "medianWage": 79940,
+    "education": "Doctoral or professional degree",
+    "growthPct": 16.8,
+    "annualOpenings": 8.6
+  },
+  {
+    "code": "29-1218",
+    "title": "Obstetricians and gynecologists",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 1.2,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "19-5011",
+    "title": "Occupational health and safety specialists",
+    "medianWage": 83910,
+    "education": "Bachelor's degree",
+    "growthPct": 12.5,
+    "annualOpenings": 14.9
+  },
+  {
+    "code": "19-5012",
+    "title": "Occupational health and safety technicians",
+    "medianWage": 58440,
+    "education": "High school diploma or equivalent",
+    "growthPct": 8.5,
+    "annualOpenings": 3.4
+  },
+  {
+    "code": "29-1122",
+    "title": "Occupational therapists",
+    "medianWage": 98340,
+    "education": "Master's degree",
+    "growthPct": 13.8,
+    "annualOpenings": 10.2
+  },
+  {
+    "code": "31-2012",
+    "title": "Occupational therapy aides",
+    "medianWage": 37370,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.5,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "31-2011",
+    "title": "Occupational therapy assistants",
+    "medianWage": 68340,
+    "education": "Associate's degree",
+    "growthPct": 19.2,
+    "annualOpenings": 7.2
+  },
+  {
+    "code": "43-9199",
+    "title": "Office and administrative support workers, all other",
+    "medianWage": 46040,
+    "education": "High school diploma or equivalent",
+    "growthPct": -7.8,
+    "annualOpenings": 21.3
+  },
+  {
+    "code": "43-9061",
+    "title": "Office clerks, general",
+    "medianWage": 43630,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.7,
+    "annualOpenings": 282.4
+  },
+  {
+    "code": "43-9071",
+    "title": "Office machine operators, except computer",
+    "medianWage": 39020,
+    "education": "High school diploma or equivalent",
+    "growthPct": -15.2,
+    "annualOpenings": 2.8
+  },
+  {
+    "code": "47-2073",
+    "title": "Operating engineers and other construction equipment operators",
+    "medianWage": 58710,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.6,
+    "annualOpenings": 41.9
+  },
+  {
+    "code": "15-2031",
+    "title": "Operations research analysts",
+    "medianWage": 91290,
+    "education": "Bachelor's degree",
+    "growthPct": 21.5,
+    "annualOpenings": 9.6
+  },
+  {
+    "code": "51-9083",
+    "title": "Ophthalmic laboratory technicians",
+    "medianWage": 38420,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.3,
+    "annualOpenings": 2.4
+  },
+  {
+    "code": "29-2057",
+    "title": "Ophthalmic medical technicians",
+    "medianWage": 44080,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 19.8,
+    "annualOpenings": 12.5
+  },
+  {
+    "code": "29-1241",
+    "title": "Ophthalmologists, except pediatric",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.3,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "29-2081",
+    "title": "Opticians, dispensing",
+    "medianWage": 46560,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.9,
+    "annualOpenings": 6.8
+  },
+  {
+    "code": "29-1041",
+    "title": "Optometrists",
+    "medianWage": 134830,
+    "education": "Doctoral or professional degree",
+    "growthPct": 8.0,
+    "annualOpenings": 2.4
+  },
+  {
+    "code": "29-1022",
+    "title": "Oral and maxillofacial surgeons",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.1,
+    "annualOpenings": 0.2
+  },
+  {
+    "code": "43-4151",
+    "title": "Order clerks",
+    "medianWage": 44660,
+    "education": "Some college, no degree",
+    "growthPct": -17.2,
+    "annualOpenings": 8.0
+  },
+  {
+    "code": "31-1132",
+    "title": "Orderlies",
+    "medianWage": 37700,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.3,
+    "annualOpenings": 7.8
+  },
+  {
+    "code": "29-1023",
+    "title": "Orthodontists",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.4,
+    "annualOpenings": 0.2
+  },
+  {
+    "code": "29-1242",
+    "title": "Orthopedic surgeons, except pediatric",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.1,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "29-2091",
+    "title": "Orthotists and prosthetists",
+    "medianWage": 78310,
+    "education": "Master's degree",
+    "growthPct": 13.3,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "49-3053",
+    "title": "Outdoor power equipment and other small engine mechanics",
+    "medianWage": 46560,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.5,
+    "annualOpenings": 3.5
+  },
+  {
+    "code": "51-9111",
+    "title": "Packaging and filling machine operators and tenders",
+    "medianWage": 40900,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.5,
+    "annualOpenings": 45.3
+  },
+  {
+    "code": "53-7064",
+    "title": "Packers and packagers, hand",
+    "medianWage": 35580,
+    "education": "No formal educational credential",
+    "growthPct": -5.4,
+    "annualOpenings": 74.0
+  },
+  {
+    "code": "47-2141",
+    "title": "Painters, construction and maintenance",
+    "medianWage": 48660,
+    "education": "No formal educational credential",
+    "growthPct": 3.8,
+    "annualOpenings": 28.1
+  },
+  {
+    "code": "51-9123",
+    "title": "Painting, coating, and decorating workers",
+    "medianWage": 40860,
+    "education": "No formal educational credential",
+    "growthPct": 1.4,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "51-9196",
+    "title": "Paper goods machine setters, operators, and tenders",
+    "medianWage": 49390,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.3,
+    "annualOpenings": 8.1
+  },
+  {
+    "code": "47-2142",
+    "title": "Paperhangers",
+    "medianWage": 48260,
+    "education": "No formal educational credential",
+    "growthPct": 5.3,
+    "annualOpenings": 0.2
+  },
+  {
+    "code": "23-2011",
+    "title": "Paralegals and legal assistants",
+    "medianWage": 61010,
+    "education": "Associate's degree",
+    "growthPct": 0.2,
+    "annualOpenings": 39.3
+  },
+  {
+    "code": "29-2043",
+    "title": "Paramedics",
+    "medianWage": 58410,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 5.0,
+    "annualOpenings": 4.9
+  },
+  {
+    "code": "53-6021",
+    "title": "Parking attendants",
+    "medianWage": 34600,
+    "education": "No formal educational credential",
+    "growthPct": 3.0,
+    "annualOpenings": 18.5
+  },
+  {
+    "code": "33-3041",
+    "title": "Parking enforcement workers",
+    "medianWage": 47150,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.5,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "41-2022",
+    "title": "Parts salespersons",
+    "medianWage": 37440,
+    "education": "No formal educational credential",
+    "growthPct": 3.1,
+    "annualOpenings": 30.2
+  },
+  {
+    "code": "53-6061",
+    "title": "Passenger attendants",
+    "medianWage": 37560,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.7,
+    "annualOpenings": 4.1
+  },
+  {
+    "code": "51-4062",
+    "title": "Patternmakers, metal and plastic",
+    "medianWage": 54540,
+    "education": "High school diploma or equivalent",
+    "growthPct": -24.4,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "51-7032",
+    "title": "Patternmakers, wood",
+    "medianWage": 52520,
+    "education": "High school diploma or equivalent",
+    "growthPct": -5.0,
+    "annualOpenings": 0.0
+  },
+  {
+    "code": "47-2071",
+    "title": "Paving, surfacing, and tamping equipment operators",
+    "medianWage": 51650,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.2,
+    "annualOpenings": 4.0
+  },
+  {
+    "code": "43-3051",
+    "title": "Payroll and timekeeping clerks",
+    "medianWage": 55290,
+    "education": "High school diploma or equivalent",
+    "growthPct": -16.7,
+    "annualOpenings": 13.0
+  },
+  {
+    "code": "29-1243",
+    "title": "Pediatric surgeons",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 1.5,
+    "annualOpenings": 0.0
+  },
+  {
+    "code": "29-1221",
+    "title": "Pediatricians, general",
+    "medianWage": 210130,
+    "education": "Doctoral or professional degree",
+    "growthPct": 0.8,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "39-9099",
+    "title": "Personal care and service workers, all other",
+    "medianWage": 37900,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.4,
+    "annualOpenings": 16.1
+  },
+  {
+    "code": "13-2052",
+    "title": "Personal financial advisors",
+    "medianWage": 102140,
+    "education": "Bachelor's degree",
+    "growthPct": 9.6,
+    "annualOpenings": 24.1
+  },
+  {
+    "code": "11-9179",
+    "title": "Personal service managers, all other",
+    "medianWage": 61340,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.5,
+    "annualOpenings": 2.1
+  },
+  {
+    "code": "37-2021",
+    "title": "Pest control workers",
+    "medianWage": 44730,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.9,
+    "annualOpenings": 13.4
+  },
+  {
+    "code": "37-3012",
+    "title": "Pesticide handlers, sprayers, and applicators, vegetation",
+    "medianWage": 45200,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.8,
+    "annualOpenings": 4.1
+  },
+  {
+    "code": "17-2171",
+    "title": "Petroleum engineers",
+    "medianWage": 141280,
+    "education": "Bachelor's degree",
+    "growthPct": 1.3,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "51-8093",
+    "title": "Petroleum pump system operators, refinery operators, and gaugers",
+    "medianWage": 97540,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.8,
+    "annualOpenings": 3.2
+  },
+  {
+    "code": "29-1051",
+    "title": "Pharmacists",
+    "medianWage": 137480,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.6,
+    "annualOpenings": 14.2
+  },
+  {
+    "code": "31-9095",
+    "title": "Pharmacy aides",
+    "medianWage": 37000,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.1,
+    "annualOpenings": 6.1
+  },
+  {
+    "code": "29-2052",
+    "title": "Pharmacy technicians",
+    "medianWage": 43460,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.4,
+    "annualOpenings": 49.0
+  },
+  {
+    "code": "25-1126",
+    "title": "Philosophy and religion teachers, postsecondary",
+    "medianWage": 78050,
+    "education": "Doctoral or professional degree",
+    "growthPct": 0.7,
+    "annualOpenings": 2.0
+  },
+  {
+    "code": "31-9097",
+    "title": "Phlebotomists",
+    "medianWage": 43660,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 5.6,
+    "annualOpenings": 18.4
+  },
+  {
+    "code": "27-4021",
+    "title": "Photographers",
+    "medianWage": 42520,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.8,
+    "annualOpenings": 12.7
+  },
+  {
+    "code": "51-9151",
+    "title": "Photographic process workers and processing machine operators",
+    "medianWage": 40100,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.6,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "19-2099",
+    "title": "Physical scientists, all other",
+    "medianWage": 117960,
+    "education": "Bachelor's degree",
+    "growthPct": 0.6,
+    "annualOpenings": 2.0
+  },
+  {
+    "code": "31-2022",
+    "title": "Physical therapist aides",
+    "medianWage": 34520,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.8,
+    "annualOpenings": 6.6
+  },
+  {
+    "code": "31-2021",
+    "title": "Physical therapist assistants",
+    "medianWage": 65510,
+    "education": "Associate's degree",
+    "growthPct": 22.0,
+    "annualOpenings": 19.8
+  },
+  {
+    "code": "29-1123",
+    "title": "Physical therapists",
+    "medianWage": 101020,
+    "education": "Doctoral or professional degree",
+    "growthPct": 10.9,
+    "annualOpenings": 13.2
+  },
+  {
+    "code": "29-1071",
+    "title": "Physician assistants",
+    "medianWage": 133260,
+    "education": "Master's degree",
+    "growthPct": 20.4,
+    "annualOpenings": 12.0
+  },
+  {
+    "code": "29-1229",
+    "title": "Physicians, all other",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.5,
+    "annualOpenings": 9.6
+  },
+  {
+    "code": "29-1222",
+    "title": "Physicians, pathologists",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.2,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "19-2012",
+    "title": "Physicists",
+    "medianWage": 166290,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.0,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "25-1054",
+    "title": "Physics teachers, postsecondary",
+    "medianWage": 97360,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.5,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "47-2072",
+    "title": "Pile driver operators",
+    "medianWage": 70510,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.3,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "47-2151",
+    "title": "Pipelayers",
+    "medianWage": 48710,
+    "education": "No formal educational credential",
+    "growthPct": -4.1,
+    "annualOpenings": 2.4
+  },
+  {
+    "code": "51-8099",
+    "title": "Plant and system operators, all other",
+    "medianWage": 61710,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.6,
+    "annualOpenings": 1.6
+  },
+  {
+    "code": "47-2161",
+    "title": "Plasterers and stucco masons",
+    "medianWage": 56020,
+    "education": "No formal educational credential",
+    "growthPct": 4.1,
+    "annualOpenings": 1.9
+  },
+  {
+    "code": "51-4193",
+    "title": "Plating machine setters, operators, and tenders, metal and plastic",
+    "medianWage": 41600,
+    "education": "High school diploma or equivalent",
+    "growthPct": -13.6,
+    "annualOpenings": 2.5
+  },
+  {
+    "code": "47-2152",
+    "title": "Plumbers, pipefitters, and steamfitters",
+    "medianWage": 62970,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.5,
+    "annualOpenings": 44.0
+  },
+  {
+    "code": "29-1081",
+    "title": "Podiatrists",
+    "medianWage": 152800,
+    "education": "Doctoral or professional degree",
+    "growthPct": 1.8,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "33-3051",
+    "title": "Police and sheriff's patrol officers",
+    "medianWage": 76290,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.1,
+    "annualOpenings": 53.7
+  },
+  {
+    "code": "25-1065",
+    "title": "Political science teachers, postsecondary",
+    "medianWage": 94680,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.0,
+    "annualOpenings": 1.6
+  },
+  {
+    "code": "19-3094",
+    "title": "Political scientists",
+    "medianWage": 139380,
+    "education": "Master's degree",
+    "growthPct": -3.1,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "43-5051",
+    "title": "Postal service clerks",
+    "medianWage": 61630,
+    "education": "No formal educational credential",
+    "growthPct": -3.5,
+    "annualOpenings": 6.1
+  },
+  {
+    "code": "43-5052",
+    "title": "Postal service mail carriers",
+    "medianWage": 57490,
+    "education": "No formal educational credential",
+    "growthPct": -3.5,
+    "annualOpenings": 20.6
+  },
+  {
+    "code": "43-5053",
+    "title": "Postal service mail sorters, processors, and processing machine operators",
+    "medianWage": 56530,
+    "education": "No formal educational credential",
+    "growthPct": -8.4,
+    "annualOpenings": 7.8
+  },
+  {
+    "code": "11-9131",
+    "title": "Postmasters and mail superintendents",
+    "medianWage": 92730,
+    "education": "High school diploma or equivalent",
+    "growthPct": -3.5,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "25-1199",
+    "title": "Postsecondary teachers, all other",
+    "medianWage": 78490,
+    "education": "Doctoral or professional degree",
+    "growthPct": 1.8,
+    "annualOpenings": 13.5
+  },
+  {
+    "code": "51-4052",
+    "title": "Pourers and casters, metal",
+    "medianWage": 48940,
+    "education": "High school diploma or equivalent",
+    "growthPct": -4.7,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "51-8012",
+    "title": "Power distributors and dispatchers",
+    "medianWage": 107240,
+    "education": "High school diploma or equivalent",
+    "growthPct": -3.2,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "51-8013",
+    "title": "Power plant operators",
+    "medianWage": 99670,
+    "education": "High school diploma or equivalent",
+    "growthPct": -11.2,
+    "annualOpenings": 2.5
+  },
+  {
+    "code": "49-9069",
+    "title": "Precision instrument and equipment repairers, all other",
+    "medianWage": 67080,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.0,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "51-5111",
+    "title": "Prepress technicians and workers",
+    "medianWage": 47300,
+    "education": "Postsecondary nondegree award",
+    "growthPct": -14.6,
+    "annualOpenings": 2.8
+  },
+  {
+    "code": "25-2011",
+    "title": "Preschool teachers, except special education",
+    "medianWage": 37120,
+    "education": "Associate's degree",
+    "growthPct": 4.1,
+    "annualOpenings": 65.5
+  },
+  {
+    "code": "51-6021",
+    "title": "Pressers, textile, garment, and related materials",
+    "medianWage": 33880,
+    "education": "No formal educational credential",
+    "growthPct": -13.5,
+    "annualOpenings": 2.8
+  },
+  {
+    "code": "51-5113",
+    "title": "Print binding and finishing workers",
+    "medianWage": 39820,
+    "education": "High school diploma or equivalent",
+    "growthPct": -16.1,
+    "annualOpenings": 2.8
+  },
+  {
+    "code": "51-5112",
+    "title": "Printing press operators",
+    "medianWage": 45160,
+    "education": "High school diploma or equivalent",
+    "growthPct": -8.1,
+    "annualOpenings": 13.7
+  },
+  {
+    "code": "33-9021",
+    "title": "Private detectives and investigators",
+    "medianWage": 52370,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.0,
+    "annualOpenings": 3.9
+  },
+  {
+    "code": "21-1092",
+    "title": "Probation officers and correctional treatment specialists",
+    "medianWage": 64520,
+    "education": "Bachelor's degree",
+    "growthPct": 2.6,
+    "annualOpenings": 7.9
+  },
+  {
+    "code": "43-3061",
+    "title": "Procurement clerks",
+    "medianWage": 48510,
+    "education": "High school diploma or equivalent",
+    "growthPct": -8.7,
+    "annualOpenings": 4.6
+  },
+  {
+    "code": "27-2012",
+    "title": "Producers and directors",
+    "medianWage": 83480,
+    "education": "Bachelor's degree",
+    "growthPct": 4.9,
+    "annualOpenings": 12.8
+  },
+  {
+    "code": "51-9199",
+    "title": "Production workers, all other",
+    "medianWage": 38820,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.5,
+    "annualOpenings": 31.6
+  },
+  {
+    "code": "43-5061",
+    "title": "Production, planning, and expediting clerks",
+    "medianWage": 57770,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.8,
+    "annualOpenings": 34.1
+  },
+  {
+    "code": "13-1082",
+    "title": "Project management specialists",
+    "medianWage": 100750,
+    "education": "Bachelor's degree",
+    "growthPct": 5.6,
+    "annualOpenings": 78.2
+  },
+  {
+    "code": "43-9081",
+    "title": "Proofreaders and copy markers",
+    "medianWage": 49210,
+    "education": "Bachelor's degree",
+    "growthPct": -0.6,
+    "annualOpenings": 1.9
+  },
+  {
+    "code": "13-2020",
+    "title": "Property appraisers and assessors",
+    "medianWage": 65420,
+    "education": "Bachelor's degree",
+    "growthPct": 3.8,
+    "annualOpenings": 6.3
+  },
+  {
+    "code": "11-9141",
+    "title": "Property, real estate, and community association managers",
+    "medianWage": 66700,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.6,
+    "annualOpenings": 39.0
+  },
+  {
+    "code": "29-1024",
+    "title": "Prosthodontists",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 4.5,
+    "annualOpenings": 0.0
+  },
+  {
+    "code": "33-9099",
+    "title": "Protective service workers, all other",
+    "medianWage": 41600,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.5,
+    "annualOpenings": 23.3
+  },
+  {
+    "code": "31-1133",
+    "title": "Psychiatric aides",
+    "medianWage": 41590,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.4,
+    "annualOpenings": 5.3
+  },
+  {
+    "code": "29-2053",
+    "title": "Psychiatric technicians",
+    "medianWage": 42590,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 20.0,
+    "annualOpenings": 15.9
+  },
+  {
+    "code": "29-1223",
+    "title": "Psychiatrists",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 6.1,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "19-3039",
+    "title": "Psychologists, all other",
+    "medianWage": 117580,
+    "education": "Master's degree",
+    "growthPct": 4.3,
+    "annualOpenings": 3.9
+  },
+  {
+    "code": "25-1066",
+    "title": "Psychology teachers, postsecondary",
+    "medianWage": 80330,
+    "education": "Doctoral or professional degree",
+    "growthPct": 3.6,
+    "annualOpenings": 4.0
+  },
+  {
+    "code": "11-2032",
+    "title": "Public relations managers",
+    "medianWage": 138520,
+    "education": "Bachelor's degree",
+    "growthPct": 5.0,
+    "annualOpenings": 6.6
+  },
+  {
+    "code": "27-3031",
+    "title": "Public relations specialists",
+    "medianWage": 69780,
+    "education": "Bachelor's degree",
+    "growthPct": 4.8,
+    "annualOpenings": 27.6
+  },
+  {
+    "code": "43-5031",
+    "title": "Public safety telecommunicators",
+    "medianWage": 50730,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.5,
+    "annualOpenings": 10.7
+  },
+  {
+    "code": "53-7072",
+    "title": "Pump operators, except wellhead pumpers",
+    "medianWage": 60020,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.6,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "11-3061",
+    "title": "Purchasing managers",
+    "medianWage": 139510,
+    "education": "Bachelor's degree",
+    "growthPct": 3.1,
+    "annualOpenings": 6.4
+  },
+  {
+    "code": "29-1124",
+    "title": "Radiation therapists",
+    "medianWage": 101990,
+    "education": "Associate's degree",
+    "growthPct": 1.9,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "49-2021",
+    "title": "Radio, cellular, and tower equipment installers and repairers",
+    "medianWage": 64190,
+    "education": "Associate's degree",
+    "growthPct": 8.6,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "29-2034",
+    "title": "Radiologic technologists and technicians",
+    "medianWage": 77660,
+    "education": "Associate's degree",
+    "growthPct": 4.3,
+    "annualOpenings": 12.9
+  },
+  {
+    "code": "29-1224",
+    "title": "Radiologists",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.7,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "49-3043",
+    "title": "Rail car repairers",
+    "medianWage": 65680,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.8,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "53-4099",
+    "title": "Rail transportation workers, all other",
+    "medianWage": 49330,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.9,
+    "annualOpenings": 0.2
+  },
+  {
+    "code": "53-4013",
+    "title": "Rail yard engineers, dinkey operators, and hostlers",
+    "medianWage": 58030,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.3,
+    "annualOpenings": 0.2
+  },
+  {
+    "code": "47-4061",
+    "title": "Rail-track laying and maintenance equipment operators",
+    "medianWage": 67370,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.6,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "53-4022",
+    "title": "Railroad brake, signal, and switch operators and locomotive firers",
+    "medianWage": 65480,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.0,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "53-4031",
+    "title": "Railroad conductors and yardmasters",
+    "medianWage": 74080,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.1,
+    "annualOpenings": 3.1
+  },
+  {
+    "code": "41-9021",
+    "title": "Real estate brokers",
+    "medianWage": 72280,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.3,
+    "annualOpenings": 9.7
+  },
+  {
+    "code": "41-9022",
+    "title": "Real estate sales agents",
+    "medianWage": 56320,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.1,
+    "annualOpenings": 36.6
+  },
+  {
+    "code": "43-4171",
+    "title": "Receptionists and information clerks",
+    "medianWage": 37230,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.0,
+    "annualOpenings": 128.5
+  },
+  {
+    "code": "25-1193",
+    "title": "Recreation and fitness studies teachers, postsecondary",
+    "medianWage": 75890,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.4,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "39-9032",
+    "title": "Recreation workers",
+    "medianWage": 35380,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.1,
+    "annualOpenings": 68.1
+  },
+  {
+    "code": "29-1125",
+    "title": "Recreational therapists",
+    "medianWage": 60280,
+    "education": "Bachelor's degree",
+    "growthPct": 3.3,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "49-3092",
+    "title": "Recreational vehicle service technicians",
+    "medianWage": 50540,
+    "education": "High school diploma or equivalent",
+    "growthPct": 11.5,
+    "annualOpenings": 2.8
+  },
+  {
+    "code": "49-9045",
+    "title": "Refractory materials repairers, except brickmasons",
+    "medianWage": 58540,
+    "education": "High school diploma or equivalent",
+    "growthPct": -16.9,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "53-7081",
+    "title": "Refuse and recyclable material collectors",
+    "medianWage": 48350,
+    "education": "No formal educational credential",
+    "growthPct": 0.9,
+    "annualOpenings": 16.9
+  },
+  {
+    "code": "29-1141",
+    "title": "Registered nurses",
+    "medianWage": 93600,
+    "education": "Bachelor's degree",
+    "growthPct": 4.9,
+    "annualOpenings": 189.1
+  },
+  {
+    "code": "21-1015",
+    "title": "Rehabilitation counselors",
+    "medianWage": 46110,
+    "education": "Master's degree",
+    "growthPct": 1.4,
+    "annualOpenings": 10.0
+  },
+  {
+    "code": "47-2171",
+    "title": "Reinforcing iron and rebar workers",
+    "medianWage": 59280,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.6,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "21-2099",
+    "title": "Religious workers, all other",
+    "medianWage": 45120,
+    "education": "Bachelor's degree",
+    "growthPct": 0.6,
+    "annualOpenings": 11.1
+  },
+  {
+    "code": "43-4181",
+    "title": "Reservation and transportation ticket agents and travel clerks",
+    "medianWage": 41460,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.8,
+    "annualOpenings": 14.4
+  },
+  {
+    "code": "39-9041",
+    "title": "Residential advisors",
+    "medianWage": 39180,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.8,
+    "annualOpenings": 17.4
+  },
+  {
+    "code": "29-1126",
+    "title": "Respiratory therapists",
+    "medianWage": 80450,
+    "education": "Associate's degree",
+    "growthPct": 12.1,
+    "annualOpenings": 8.8
+  },
+  {
+    "code": "41-2031",
+    "title": "Retail salespersons",
+    "medianWage": 34580,
+    "education": "No formal educational credential",
+    "growthPct": -0.5,
+    "annualOpenings": 555.8
+  },
+  {
+    "code": "49-9096",
+    "title": "Riggers",
+    "medianWage": 62060,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.2,
+    "annualOpenings": 2.5
+  },
+  {
+    "code": "47-5051",
+    "title": "Rock splitters, quarry",
+    "medianWage": 47460,
+    "education": "No formal educational credential",
+    "growthPct": 4.4,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "51-4023",
+    "title": "Rolling machine setters, operators, and tenders, metal and plastic",
+    "medianWage": 48630,
+    "education": "High school diploma or equivalent",
+    "growthPct": -8.3,
+    "annualOpenings": 1.9
+  },
+  {
+    "code": "47-5043",
+    "title": "Roof bolters, mining",
+    "medianWage": 76640,
+    "education": "High school diploma or equivalent",
+    "growthPct": -34.2,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "47-2181",
+    "title": "Roofers",
+    "medianWage": 50970,
+    "education": "No formal educational credential",
+    "growthPct": 5.9,
+    "annualOpenings": 12.7
+  },
+  {
+    "code": "47-5012",
+    "title": "Rotary drill operators, oil and gas",
+    "medianWage": 65010,
+    "education": "No formal educational credential",
+    "growthPct": 0.2,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "47-5071",
+    "title": "Roustabouts, oil and gas",
+    "medianWage": 47510,
+    "education": "No formal educational credential",
+    "growthPct": 2.5,
+    "annualOpenings": 4.3
+  },
+  {
+    "code": "53-5011",
+    "title": "Sailors and marine oilers",
+    "medianWage": 49610,
+    "education": "No formal educational credential",
+    "growthPct": 2.3,
+    "annualOpenings": 3.9
+  },
+  {
+    "code": "41-9099",
+    "title": "Sales and related workers, all other",
+    "medianWage": 46370,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.7,
+    "annualOpenings": 16.0
+  },
+  {
+    "code": "41-9031",
+    "title": "Sales engineers",
+    "medianWage": 121520,
+    "education": "Bachelor's degree",
+    "growthPct": 5.5,
+    "annualOpenings": 5.0
+  },
+  {
+    "code": "11-2022",
+    "title": "Sales managers",
+    "medianWage": 138060,
+    "education": "Bachelor's degree",
+    "growthPct": 4.7,
+    "annualOpenings": 49.0
+  },
+  {
+    "code": "41-3091",
+    "title": "Sales representatives of services, except advertising, insurance, financial services, and travel",
+    "medianWage": 66260,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.1,
+    "annualOpenings": 123.0
+  },
+  {
+    "code": "41-4012",
+    "title": "Sales representatives, wholesale and manufacturing, except technical and scientific products",
+    "medianWage": 66780,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.3,
+    "annualOpenings": 114.8
+  },
+  {
+    "code": "41-4011",
+    "title": "Sales representatives, wholesale and manufacturing, technical and scientific products",
+    "medianWage": 100070,
+    "education": "Bachelor's degree",
+    "growthPct": 1.9,
+    "annualOpenings": 27.2
+  },
+  {
+    "code": "51-7041",
+    "title": "Sawing machine setters, operators, and tenders, wood",
+    "medianWage": 39950,
+    "education": "High school diploma or equivalent",
+    "growthPct": -0.6,
+    "annualOpenings": 4.8
+  },
+  {
+    "code": "33-9094",
+    "title": "School bus monitors",
+    "medianWage": 34980,
+    "education": "High school diploma or equivalent",
+    "growthPct": -2.7,
+    "annualOpenings": 12.6
+  },
+  {
+    "code": "19-3034",
+    "title": "School psychologists",
+    "medianWage": 86930,
+    "education": "Master's degree",
+    "growthPct": 0.7,
+    "annualOpenings": 3.8
+  },
+  {
+    "code": "25-2031",
+    "title": "Secondary school teachers, except special and career/technical education",
+    "medianWage": 64580,
+    "education": "Bachelor's degree",
+    "growthPct": -1.6,
+    "annualOpenings": 66.2
+  },
+  {
+    "code": "43-6014",
+    "title": "Secretaries and administrative assistants, except legal, medical, and executive",
+    "medianWage": 46290,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.6,
+    "annualOpenings": 202.8
+  },
+  {
+    "code": "41-3031",
+    "title": "Securities, commodities, and financial services sales agents",
+    "medianWage": 78140,
+    "education": "Bachelor's degree",
+    "growthPct": 3.3,
+    "annualOpenings": 38.1
+  },
+  {
+    "code": "49-2098",
+    "title": "Security and fire alarm systems installers",
+    "medianWage": 59300,
+    "education": "High school diploma or equivalent",
+    "growthPct": 10.4,
+    "annualOpenings": 9.4
+  },
+  {
+    "code": "33-9032",
+    "title": "Security guards",
+    "medianWage": 38370,
+    "education": "High school diploma or equivalent",
+    "growthPct": 0.4,
+    "annualOpenings": 161.0
+  },
+  {
+    "code": "25-3021",
+    "title": "Self-enrichment teachers",
+    "medianWage": 45590,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.7,
+    "annualOpenings": 51.4
+  },
+  {
+    "code": "51-9141",
+    "title": "Semiconductor processing technicians",
+    "medianWage": 51180,
+    "education": "High school diploma or equivalent",
+    "growthPct": 10.9,
+    "annualOpenings": 3.9
+  },
+  {
+    "code": "51-9012",
+    "title": "Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",
+    "medianWage": 49500,
+    "education": "High school diploma or equivalent",
+    "growthPct": -4.3,
+    "annualOpenings": 5.4
+  },
+  {
+    "code": "47-4071",
+    "title": "Septic tank servicers and sewer pipe cleaners",
+    "medianWage": 49140,
+    "education": "High school diploma or equivalent",
+    "growthPct": 7.6,
+    "annualOpenings": 2.9
+  },
+  {
+    "code": "47-5013",
+    "title": "Service unit operators, oil and gas",
+    "medianWage": 57980,
+    "education": "No formal educational credential",
+    "growthPct": 0.4,
+    "annualOpenings": 4.1
+  },
+  {
+    "code": "27-1027",
+    "title": "Set and exhibit designers",
+    "medianWage": 66280,
+    "education": "Bachelor's degree",
+    "growthPct": 2.3,
+    "annualOpenings": 2.5
+  },
+  {
+    "code": "51-6051",
+    "title": "Sewers, hand",
+    "medianWage": 33760,
+    "education": "No formal educational credential",
+    "growthPct": -7.0,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "51-6031",
+    "title": "Sewing machine operators",
+    "medianWage": 36000,
+    "education": "No formal educational credential",
+    "growthPct": -10.8,
+    "annualOpenings": 13.0
+  },
+  {
+    "code": "39-5093",
+    "title": "Shampooers",
+    "medianWage": 31470,
+    "education": "No formal educational credential",
+    "growthPct": 5.5,
+    "annualOpenings": 2.7
+  },
+  {
+    "code": "47-2211",
+    "title": "Sheet metal workers",
+    "medianWage": 60850,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.4,
+    "annualOpenings": 10.6
+  },
+  {
+    "code": "53-5031",
+    "title": "Ship engineers",
+    "medianWage": 101320,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 1.6,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "43-5071",
+    "title": "Shipping, receiving, and inventory clerks",
+    "medianWage": 43190,
+    "education": "High school diploma or equivalent",
+    "growthPct": -7.7,
+    "annualOpenings": 69.3
+  },
+  {
+    "code": "51-6041",
+    "title": "Shoe and leather workers and repairers",
+    "medianWage": 35950,
+    "education": "High school diploma or equivalent",
+    "growthPct": -3.8,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "51-6042",
+    "title": "Shoe machine operators and tenders",
+    "medianWage": 38160,
+    "education": "High school diploma or equivalent",
+    "growthPct": -3.7,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "53-3053",
+    "title": "Shuttle drivers and chauffeurs",
+    "medianWage": 36670,
+    "education": "No formal educational credential",
+    "growthPct": 6.7,
+    "annualOpenings": 36.3
+  },
+  {
+    "code": "49-9097",
+    "title": "Signal and track switch repairers",
+    "medianWage": 83600,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.7,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "39-5094",
+    "title": "Skincare specialists",
+    "medianWage": 41560,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 6.7,
+    "annualOpenings": 14.5
+  },
+  {
+    "code": "51-3023",
+    "title": "Slaughterers and meat packers",
+    "medianWage": 39790,
+    "education": "No formal educational credential",
+    "growthPct": 2.2,
+    "annualOpenings": 8.4
+  },
+  {
+    "code": "11-9151",
+    "title": "Social and community service managers",
+    "medianWage": 78240,
+    "education": "Bachelor's degree",
+    "growthPct": 6.4,
+    "annualOpenings": 18.6
+  },
+  {
+    "code": "21-1093",
+    "title": "Social and human service assistants",
+    "medianWage": 45120,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.4,
+    "annualOpenings": 50.6
+  },
+  {
+    "code": "19-4061",
+    "title": "Social science research assistants",
+    "medianWage": 58040,
+    "education": "Bachelor's degree",
+    "growthPct": 4.4,
+    "annualOpenings": 5.2
+  },
+  {
+    "code": "25-1069",
+    "title": "Social sciences teachers, postsecondary, all other",
+    "medianWage": 75040,
+    "education": "Doctoral or professional degree",
+    "growthPct": 1.7,
+    "annualOpenings": 1.5
+  },
+  {
+    "code": "19-3099",
+    "title": "Social scientists and related workers, all other",
+    "medianWage": 100340,
+    "education": "Bachelor's degree",
+    "growthPct": -1.7,
+    "annualOpenings": 3.2
+  },
+  {
+    "code": "25-1113",
+    "title": "Social work teachers, postsecondary",
+    "medianWage": 76210,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.3,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "21-1029",
+    "title": "Social workers, all other",
+    "medianWage": 69480,
+    "education": "Bachelor's degree",
+    "growthPct": 3.9,
+    "annualOpenings": 7.0
+  },
+  {
+    "code": "19-3041",
+    "title": "Sociologists",
+    "medianWage": 101690,
+    "education": "Master's degree",
+    "growthPct": 3.6,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "25-1067",
+    "title": "Sociology teachers, postsecondary",
+    "medianWage": 82540,
+    "education": "Doctoral or professional degree",
+    "growthPct": 2.1,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "15-1252",
+    "title": "Software developers",
+    "medianWage": 133080,
+    "education": "Bachelor's degree",
+    "growthPct": 15.8,
+    "annualOpenings": 115.2
+  },
+  {
+    "code": "15-1253",
+    "title": "Software quality assurance analysts and testers",
+    "medianWage": 102610,
+    "education": "Bachelor's degree",
+    "growthPct": 10.0,
+    "annualOpenings": 14.0
+  },
+  {
+    "code": "19-1013",
+    "title": "Soil and plant scientists",
+    "medianWage": 71410,
+    "education": "Bachelor's degree",
+    "growthPct": 5.4,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "47-2231",
+    "title": "Solar photovoltaic installers",
+    "medianWage": 51860,
+    "education": "High school diploma or equivalent",
+    "growthPct": 42.1,
+    "annualOpenings": 4.1
+  },
+  {
+    "code": "27-4014",
+    "title": "Sound engineering technicians",
+    "medianWage": 66430,
+    "education": "Postsecondary nondegree award",
+    "growthPct": -1.7,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "25-2059",
+    "title": "Special education teachers, all other",
+    "medianWage": 67430,
+    "education": "Bachelor's degree",
+    "growthPct": 1.1,
+    "annualOpenings": 2.9
+  },
+  {
+    "code": "25-2052",
+    "title": "Special education teachers, kindergarten and elementary school",
+    "medianWage": 63000,
+    "education": "Bachelor's degree",
+    "growthPct": -1.8,
+    "annualOpenings": 15.4
+  },
+  {
+    "code": "25-2057",
+    "title": "Special education teachers, middle school",
+    "medianWage": 64880,
+    "education": "Bachelor's degree",
+    "growthPct": -1.9,
+    "annualOpenings": 6.3
+  },
+  {
+    "code": "25-2051",
+    "title": "Special education teachers, preschool",
+    "medianWage": 62190,
+    "education": "Bachelor's degree",
+    "growthPct": 1.4,
+    "annualOpenings": 2.1
+  },
+  {
+    "code": "25-2058",
+    "title": "Special education teachers, secondary school",
+    "medianWage": 69590,
+    "education": "Bachelor's degree",
+    "growthPct": -1.6,
+    "annualOpenings": 11.1
+  },
+  {
+    "code": "27-1014",
+    "title": "Special effects artists and animators",
+    "medianWage": 99800,
+    "education": "Bachelor's degree",
+    "growthPct": 1.6,
+    "annualOpenings": 5.0
+  },
+  {
+    "code": "29-1127",
+    "title": "Speech-language pathologists",
+    "medianWage": 95410,
+    "education": "Master's degree",
+    "growthPct": 15.0,
+    "annualOpenings": 13.3
+  },
+  {
+    "code": "51-8021",
+    "title": "Stationary engineers and boiler operators",
+    "medianWage": 75190,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.2,
+    "annualOpenings": 3.8
+  },
+  {
+    "code": "43-9111",
+    "title": "Statistical assistants",
+    "medianWage": 51440,
+    "education": "Bachelor's degree",
+    "growthPct": -2.5,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "15-2041",
+    "title": "Statisticians",
+    "medianWage": 103300,
+    "education": "Master's degree",
+    "growthPct": 8.5,
+    "annualOpenings": 2.0
+  },
+  {
+    "code": "53-7065",
+    "title": "Stockers and order fillers",
+    "medianWage": 37090,
+    "education": "No formal educational credential",
+    "growthPct": 8.5,
+    "annualOpenings": 472.3
+  },
+  {
+    "code": "47-2022",
+    "title": "Stonemasons",
+    "medianWage": 51990,
+    "education": "High school diploma or equivalent",
+    "growthPct": -3.0,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "47-2221",
+    "title": "Structural iron and steel workers",
+    "medianWage": 62700,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.4,
+    "annualOpenings": 5.5
+  },
+  {
+    "code": "51-2041",
+    "title": "Structural metal fabricators and fitters",
+    "medianWage": 49900,
+    "education": "High school diploma or equivalent",
+    "growthPct": -16.3,
+    "annualOpenings": 4.1
+  },
+  {
+    "code": "21-1018",
+    "title": "Substance abuse, behavioral disorder, and mental health counselors",
+    "medianWage": 59190,
+    "education": "Master's degree",
+    "growthPct": 16.8,
+    "annualOpenings": 48.3
+  },
+  {
+    "code": "25-3031",
+    "title": "Substitute teachers, short-term",
+    "medianWage": 38470,
+    "education": "Bachelor's degree",
+    "growthPct": 1.6,
+    "annualOpenings": 61.1
+  },
+  {
+    "code": "53-4041",
+    "title": "Subway and streetcar operators",
+    "medianWage": 84830,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.4,
+    "annualOpenings": 0.9
+  },
+  {
+    "code": "29-1249",
+    "title": "Surgeons, all other",
+    "medianWage": null,
+    "education": "Doctoral or professional degree",
+    "growthPct": 3.9,
+    "annualOpenings": 0.6
+  },
+  {
+    "code": "29-9093",
+    "title": "Surgical assistants",
+    "medianWage": 60290,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 5.1,
+    "annualOpenings": 1.6
+  },
+  {
+    "code": "29-2055",
+    "title": "Surgical technologists",
+    "medianWage": 62830,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 4.5,
+    "annualOpenings": 7.0
+  },
+  {
+    "code": "19-3022",
+    "title": "Survey researchers",
+    "medianWage": 63380,
+    "education": "Master's degree",
+    "growthPct": -5.2,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "17-3031",
+    "title": "Surveying and mapping technicians",
+    "medianWage": 51940,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.5,
+    "annualOpenings": 7.6
+  },
+  {
+    "code": "17-1022",
+    "title": "Surveyors",
+    "medianWage": 72740,
+    "education": "Bachelor's degree",
+    "growthPct": 4.4,
+    "annualOpenings": 3.9
+  },
+  {
+    "code": "43-2011",
+    "title": "Switchboard operators, including answering service",
+    "medianWage": 38370,
+    "education": "High school diploma or equivalent",
+    "growthPct": -26.3,
+    "annualOpenings": 2.8
+  },
+  {
+    "code": "51-6052",
+    "title": "Tailors, dressmakers, and custom sewers",
+    "medianWage": 40860,
+    "education": "No formal educational credential",
+    "growthPct": -4.5,
+    "annualOpenings": 5.0
+  },
+  {
+    "code": "53-7121",
+    "title": "Tank car, truck, and ship loaders",
+    "medianWage": 58070,
+    "education": "No formal educational credential",
+    "growthPct": 4.3,
+    "annualOpenings": 1.3
+  },
+  {
+    "code": "47-2082",
+    "title": "Tapers",
+    "medianWage": 64700,
+    "education": "No formal educational credential",
+    "growthPct": 0.1,
+    "annualOpenings": 1.1
+  },
+  {
+    "code": "13-2081",
+    "title": "Tax examiners and collectors, and revenue agents",
+    "medianWage": 59740,
+    "education": "Bachelor's degree",
+    "growthPct": -1.8,
+    "annualOpenings": 4.3
+  },
+  {
+    "code": "13-2082",
+    "title": "Tax preparers",
+    "medianWage": 50560,
+    "education": "High school diploma or equivalent",
+    "growthPct": 4.5,
+    "annualOpenings": 10.4
+  },
+  {
+    "code": "53-3054",
+    "title": "Taxi drivers",
+    "medianWage": 36220,
+    "education": "No formal educational credential",
+    "growthPct": 11.1,
+    "annualOpenings": 22.6
+  },
+  {
+    "code": "25-3099",
+    "title": "Teachers and instructors, all other",
+    "medianWage": 64690,
+    "education": "Bachelor's degree",
+    "growthPct": -0.1,
+    "annualOpenings": 18.0
+  },
+  {
+    "code": "25-9045",
+    "title": "Teaching assistants, except postsecondary",
+    "medianWage": 35240,
+    "education": "Some college, no degree",
+    "growthPct": -1.5,
+    "annualOpenings": 170.4
+  },
+  {
+    "code": "25-9044",
+    "title": "Teaching assistants, postsecondary",
+    "medianWage": 44930,
+    "education": "Bachelor's degree",
+    "growthPct": 3.1,
+    "annualOpenings": 24.6
+  },
+  {
+    "code": "27-3042",
+    "title": "Technical writers",
+    "medianWage": 91670,
+    "education": "Bachelor's degree",
+    "growthPct": 0.9,
+    "annualOpenings": 4.5
+  },
+  {
+    "code": "49-2022",
+    "title": "Telecommunications equipment installers and repairers, except line installers",
+    "medianWage": 62630,
+    "education": "Postsecondary nondegree award",
+    "growthPct": -4.2,
+    "annualOpenings": 13.2
+  },
+  {
+    "code": "49-9052",
+    "title": "Telecommunications line installers and repairers",
+    "medianWage": 70500,
+    "education": "High school diploma or equivalent",
+    "growthPct": -3.1,
+    "annualOpenings": 8.9
+  },
+  {
+    "code": "41-9041",
+    "title": "Telemarketers",
+    "medianWage": 34410,
+    "education": "No formal educational credential",
+    "growthPct": -22.1,
+    "annualOpenings": 6.5
+  },
+  {
+    "code": "43-2021",
+    "title": "Telephone operators",
+    "medianWage": 39130,
+    "education": "High school diploma or equivalent",
+    "growthPct": -27.5,
+    "annualOpenings": 0.3
+  },
+  {
+    "code": "43-3071",
+    "title": "Tellers",
+    "medianWage": 39340,
+    "education": "High school diploma or equivalent",
+    "growthPct": -12.9,
+    "annualOpenings": 29.8
+  },
+  {
+    "code": "47-2053",
+    "title": "Terrazzo workers and finishers",
+    "medianWage": 57260,
+    "education": "High school diploma or equivalent",
+    "growthPct": -11.1,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "51-6061",
+    "title": "Textile bleaching and dyeing machine operators and tenders",
+    "medianWage": 37320,
+    "education": "High school diploma or equivalent",
+    "growthPct": -10.1,
+    "annualOpenings": 0.7
+  },
+  {
+    "code": "51-6062",
+    "title": "Textile cutting machine setters, operators, and tenders",
+    "medianWage": 37940,
+    "education": "High school diploma or equivalent",
+    "growthPct": -11.7,
+    "annualOpenings": 1.0
+  },
+  {
+    "code": "51-6063",
+    "title": "Textile knitting and weaving machine setters, operators, and tenders",
+    "medianWage": 38260,
+    "education": "High school diploma or equivalent",
+    "growthPct": -11.2,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "51-6064",
+    "title": "Textile winding, twisting, and drawing out machine setters, operators, and tenders",
+    "medianWage": 37660,
+    "education": "High school diploma or equivalent",
+    "growthPct": -9.0,
+    "annualOpenings": 2.5
+  },
+  {
+    "code": "51-6099",
+    "title": "Textile, apparel, and furnishings workers, all other",
+    "medianWage": 37010,
+    "education": "High school diploma or equivalent",
+    "growthPct": -9.4,
+    "annualOpenings": 1.7
+  },
+  {
+    "code": "29-1129",
+    "title": "Therapists, all other",
+    "medianWage": 65010,
+    "education": "Bachelor's degree",
+    "growthPct": 11.5,
+    "annualOpenings": 4.1
+  },
+  {
+    "code": "47-2044",
+    "title": "Tile and stone setters",
+    "medianWage": 52240,
+    "education": "No formal educational credential",
+    "growthPct": 10.1,
+    "annualOpenings": 4.2
+  },
+  {
+    "code": "51-2061",
+    "title": "Timing device assemblers and adjusters",
+    "medianWage": 40790,
+    "education": "High school diploma or equivalent",
+    "growthPct": -17.5,
+    "annualOpenings": 0.0
+  },
+  {
+    "code": "51-9197",
+    "title": "Tire builders",
+    "medianWage": 55580,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.3,
+    "annualOpenings": 2.5
+  },
+  {
+    "code": "49-3093",
+    "title": "Tire repairers and changers",
+    "medianWage": 37120,
+    "education": "High school diploma or equivalent",
+    "growthPct": 5.7,
+    "annualOpenings": 15.3
+  },
+  {
+    "code": "23-2093",
+    "title": "Title examiners, abstractors, and searchers",
+    "medianWage": 54980,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.0,
+    "annualOpenings": 5.4
+  },
+  {
+    "code": "51-4111",
+    "title": "Tool and die makers",
+    "medianWage": 63180,
+    "education": "Postsecondary nondegree award",
+    "growthPct": -10.8,
+    "annualOpenings": 4.7
+  },
+  {
+    "code": "51-4194",
+    "title": "Tool grinders, filers, and sharpeners",
+    "medianWage": 48970,
+    "education": "High school diploma or equivalent",
+    "growthPct": -7.8,
+    "annualOpenings": 0.5
+  },
+  {
+    "code": "39-7010",
+    "title": "Tour and travel guides",
+    "medianWage": 36660,
+    "education": "High school diploma or equivalent",
+    "growthPct": 8.1,
+    "annualOpenings": 13.0
+  },
+  {
+    "code": "53-6041",
+    "title": "Traffic technicians",
+    "medianWage": 58480,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.7,
+    "annualOpenings": 0.8
+  },
+  {
+    "code": "11-3131",
+    "title": "Training and development managers",
+    "medianWage": 127090,
+    "education": "Bachelor's degree",
+    "growthPct": 5.8,
+    "annualOpenings": 3.8
+  },
+  {
+    "code": "13-1151",
+    "title": "Training and development specialists",
+    "medianWage": 65850,
+    "education": "Bachelor's degree",
+    "growthPct": 10.8,
+    "annualOpenings": 43.9
+  },
+  {
+    "code": "33-3052",
+    "title": "Transit and railroad police",
+    "medianWage": 82320,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.0,
+    "annualOpenings": 0.2
+  },
+  {
+    "code": "53-6051",
+    "title": "Transportation inspectors",
+    "medianWage": 85750,
+    "education": "High school diploma or equivalent",
+    "growthPct": 1.7,
+    "annualOpenings": 2.5
+  },
+  {
+    "code": "33-9093",
+    "title": "Transportation security screeners",
+    "medianWage": 63360,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.0,
+    "annualOpenings": 4.7
+  },
+  {
+    "code": "53-6099",
+    "title": "Transportation workers, all other",
+    "medianWage": 39630,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.8,
+    "annualOpenings": 1.2
+  },
+  {
+    "code": "11-3071",
+    "title": "Transportation, storage, and distribution managers",
+    "medianWage": 102010,
+    "education": "High school diploma or equivalent",
+    "growthPct": 6.1,
+    "annualOpenings": 18.5
+  },
+  {
+    "code": "41-3041",
+    "title": "Travel agents",
+    "medianWage": 48450,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.2,
+    "annualOpenings": 7.1
+  },
+  {
+    "code": "37-3013",
+    "title": "Tree trimmers and pruners",
+    "medianWage": 50430,
+    "education": "High school diploma or equivalent",
+    "growthPct": 3.3,
+    "annualOpenings": 7.4
+  },
+  {
+    "code": "25-3041",
+    "title": "Tutors",
+    "medianWage": 40090,
+    "education": "Some college, no degree",
+    "growthPct": 0.6,
+    "annualOpenings": 37.1
+  },
+  {
+    "code": "27-2023",
+    "title": "Umpires, referees, and other sports officials",
+    "medianWage": 38820,
+    "education": "High school diploma or equivalent",
+    "growthPct": 5.7,
+    "annualOpenings": 4.6
+  },
+  {
+    "code": "47-5049",
+    "title": "Underground mining machine operators, all other",
+    "medianWage": 67220,
+    "education": "No formal educational credential",
+    "growthPct": -6.1,
+    "annualOpenings": 0.4
+  },
+  {
+    "code": "51-6093",
+    "title": "Upholsterers",
+    "medianWage": 46190,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.8,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "19-3051",
+    "title": "Urban and regional planners",
+    "medianWage": 83720,
+    "education": "Master's degree",
+    "growthPct": 3.4,
+    "annualOpenings": 3.4
+  },
+  {
+    "code": "39-3031",
+    "title": "Ushers, lobby attendants, and ticket takers",
+    "medianWage": 31150,
+    "education": "No formal educational credential",
+    "growthPct": 1.2,
+    "annualOpenings": 30.8
+  },
+  {
+    "code": "29-1131",
+    "title": "Veterinarians",
+    "medianWage": 125510,
+    "education": "Doctoral or professional degree",
+    "growthPct": 9.6,
+    "annualOpenings": 3.0
+  },
+  {
+    "code": "31-9096",
+    "title": "Veterinary assistants and laboratory animal caretakers",
+    "medianWage": 37320,
+    "education": "High school diploma or equivalent",
+    "growthPct": 8.7,
+    "annualOpenings": 22.2
+  },
+  {
+    "code": "29-2056",
+    "title": "Veterinary technologists and technicians",
+    "medianWage": 45980,
+    "education": "Associate's degree",
+    "growthPct": 9.1,
+    "annualOpenings": 14.3
+  },
+  {
+    "code": "35-3031",
+    "title": "Waiters and waitresses",
+    "medianWage": 33760,
+    "education": "No formal educational credential",
+    "growthPct": -0.7,
+    "annualOpenings": 456.7
+  },
+  {
+    "code": "49-9064",
+    "title": "Watch and clock repairers",
+    "medianWage": 60690,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.1,
+    "annualOpenings": 0.1
+  },
+  {
+    "code": "51-8031",
+    "title": "Water and wastewater treatment plant and system operators",
+    "medianWage": 58260,
+    "education": "High school diploma or equivalent",
+    "growthPct": -6.5,
+    "annualOpenings": 10.7
+  },
+  {
+    "code": "15-1255",
+    "title": "Web and digital interface designers",
+    "medianWage": 98090,
+    "education": "Bachelor's degree",
+    "growthPct": 7.0,
+    "annualOpenings": 9.1
+  },
+  {
+    "code": "15-1254",
+    "title": "Web developers",
+    "medianWage": 90930,
+    "education": "Bachelor's degree",
+    "growthPct": 7.5,
+    "annualOpenings": 5.4
+  },
+  {
+    "code": "43-5111",
+    "title": "Weighers, measurers, checkers, and samplers, recordkeeping",
+    "medianWage": 45650,
+    "education": "High school diploma or equivalent",
+    "growthPct": -4.8,
+    "annualOpenings": 5.3
+  },
+  {
+    "code": "51-4121",
+    "title": "Welders, cutters, solderers, and brazers",
+    "medianWage": 51000,
+    "education": "High school diploma or equivalent",
+    "growthPct": 2.2,
+    "annualOpenings": 45.6
+  },
+  {
+    "code": "51-4122",
+    "title": "Welding, soldering, and brazing machine setters, operators, and tenders",
+    "medianWage": 47060,
+    "education": "High school diploma or equivalent",
+    "growthPct": -9.0,
+    "annualOpenings": 3.2
+  },
+  {
+    "code": "53-7073",
+    "title": "Wellhead pumpers",
+    "medianWage": 70010,
+    "education": "High school diploma or equivalent",
+    "growthPct": -4.7,
+    "annualOpenings": 2.0
+  },
+  {
+    "code": "49-9081",
+    "title": "Wind turbine service technicians",
+    "medianWage": 62580,
+    "education": "Postsecondary nondegree award",
+    "growthPct": 49.9,
+    "annualOpenings": 2.3
+  },
+  {
+    "code": "51-7099",
+    "title": "Woodworkers, all other",
+    "medianWage": 41220,
+    "education": "High school diploma or equivalent",
+    "growthPct": -4.4,
+    "annualOpenings": 1.8
+  },
+  {
+    "code": "51-7042",
+    "title": "Woodworking machine setters, operators, and tenders, except sawing",
+    "medianWage": 40440,
+    "education": "High school diploma or equivalent",
+    "growthPct": -1.8,
+    "annualOpenings": 6.4
+  },
+  {
+    "code": "43-9022",
+    "title": "Word processors and typists",
+    "medianWage": 47850,
+    "education": "High school diploma or equivalent",
+    "growthPct": -36.1,
+    "annualOpenings": 2.2
+  },
+  {
+    "code": "27-3043",
+    "title": "Writers and authors",
+    "medianWage": 72270,
+    "education": "Bachelor's degree",
+    "growthPct": 3.6,
+    "annualOpenings": 13.4
+  },
+  {
+    "code": "19-1023",
+    "title": "Zoologists and wildlife biologists",
+    "medianWage": 72860,
+    "education": "Bachelor's degree",
+    "growthPct": 1.6,
+    "annualOpenings": 1.4
+  }
+]

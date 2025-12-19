@@ -1,75 +1,2342 @@
 [
   {
-    "id": "cs",
-    "name": "Computer Science",
-    "category": "Engineering & Technology",
-    "cipCode": "11.0701"
+    "id": "agriculture-general",
+    "name": "Agriculture, General.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0100"
   },
   {
-    "id": "ee",
-    "name": "Electrical Engineering",
-    "category": "Engineering & Technology",
-    "cipCode": "14.1001"
+    "id": "agricultural-business-and-management",
+    "name": "Agricultural Business and Management.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0101"
   },
   {
-    "id": "me",
-    "name": "Mechanical Engineering",
-    "category": "Engineering & Technology",
-    "cipCode": "14.1901"
+    "id": "animal-sciences",
+    "name": "Animal Sciences.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0109"
   },
   {
-    "id": "econ",
-    "name": "Economics",
-    "category": "Social Sciences",
-    "cipCode": "45.0601"
+    "id": "food-science-and-technology",
+    "name": "Food Science and Technology.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0110"
   },
   {
-    "id": "finance",
-    "name": "Finance",
-    "category": "Business",
-    "cipCode": "52.0801"
+    "id": "plant-sciences",
+    "name": "Plant Sciences.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0111"
   },
   {
-    "id": "bio",
-    "name": "Biology",
-    "category": "Life Sciences",
-    "cipCode": "26.0101"
+    "id": "agriculture-agriculture-operations-and-r",
+    "name": "Agriculture, Agriculture Operations, and Related Sciences, Other.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0199"
   },
   {
-    "id": "chem",
-    "name": "Chemistry",
+    "id": "forestry",
+    "name": "Forestry.",
+    "category": "Natural Resources & Conservation",
+    "cipCode": "0305"
+  },
+  {
+    "id": "city-urban-community-and-regional-planni",
+    "name": "City/Urban, Community and Regional Planning.",
+    "category": "Architecture",
+    "cipCode": "0403"
+  },
+  {
+    "id": "ethnic-cultural-minority-gender-and-grou",
+    "name": "Ethnic, Cultural Minority, Gender, and Group Studies.",
+    "category": "Area Studies",
+    "cipCode": "0502"
+  },
+  {
+    "id": "audiovisual-communications-technologies-",
+    "name": "Audiovisual Communications Technologies/Technicians.",
+    "category": "Communications Technologies",
+    "cipCode": "1002"
+  },
+  {
+    "id": "computer-and-information-sciences-genera",
+    "name": "Computer and Information Sciences, General.",
+    "category": "Computer Science & IT",
+    "cipCode": "1101"
+  },
+  {
+    "id": "special-education-and-teaching",
+    "name": "Special Education and Teaching.",
+    "category": "Education",
+    "cipCode": "1310"
+  },
+  {
+    "id": "teacher-education-and-professional-devel",
+    "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+    "category": "Education",
+    "cipCode": "1312"
+  },
+  {
+    "id": "civil-engineering",
+    "name": "Civil Engineering.",
+    "category": "Engineering",
+    "cipCode": "1408"
+  },
+  {
+    "id": "electrical-electronics-and-communication",
+    "name": "Electrical, Electronics and Communications Engineering.",
+    "category": "Engineering",
+    "cipCode": "1410"
+  },
+  {
+    "id": "mechanical-engineering",
+    "name": "Mechanical Engineering.",
+    "category": "Engineering",
+    "cipCode": "1419"
+  },
+  {
+    "id": "electrical-engineering-technologies-tech",
+    "name": "Electrical Engineering Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1503"
+  },
+  {
+    "id": "industrial-production-technologies-techn",
+    "name": "Industrial Production Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1506"
+  },
+  {
+    "id": "mechanical-engineering-related-technolog",
+    "name": "Mechanical Engineering Related Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1508"
+  },
+  {
+    "id": "construction-engineering-technologies",
+    "name": "Construction Engineering Technologies.",
+    "category": "Engineering Technologies",
+    "cipCode": "1510"
+  },
+  {
+    "id": "family-and-consumer-sciences-human-scien",
+    "name": "Family and Consumer Sciences/Human Sciences, General.",
+    "category": "Family & Consumer Sciences",
+    "cipCode": "1901"
+  },
+  {
+    "id": "english-language-and-literature-general",
+    "name": "English Language and Literature, General.",
+    "category": "English Language & Literature",
+    "cipCode": "2301"
+  },
+  {
+    "id": "liberal-arts-and-sciences-general-studie",
+    "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+    "category": "Liberal Arts & General Studies",
+    "cipCode": "2401"
+  },
+  {
+    "id": "biology-general",
+    "name": "Biology, General.",
+    "category": "Biological Sciences",
+    "cipCode": "2601"
+  },
+  {
+    "id": "mathematics",
+    "name": "Mathematics.",
+    "category": "Mathematics & Statistics",
+    "cipCode": "2701"
+  },
+  {
+    "id": "health-and-physical-education-fitness",
+    "name": "Health and Physical Education/Fitness.",
+    "category": "Parks & Recreation",
+    "cipCode": "3105"
+  },
+  {
+    "id": "chemistry",
+    "name": "Chemistry.",
     "category": "Physical Sciences",
-    "cipCode": "40.0501"
+    "cipCode": "4005"
   },
   {
-    "id": "psych",
-    "name": "Psychology",
+    "id": "physics",
+    "name": "Physics.",
+    "category": "Physical Sciences",
+    "cipCode": "4008"
+  },
+  {
+    "id": "psychology-general",
+    "name": "Psychology, General.",
+    "category": "Psychology",
+    "cipCode": "4201"
+  },
+  {
+    "id": "criminal-justice-and-corrections",
+    "name": "Criminal Justice and Corrections.",
+    "category": "Homeland Security & Criminal Justice",
+    "cipCode": "4301"
+  },
+  {
+    "id": "social-work",
+    "name": "Social Work.",
+    "category": "Public Administration & Social Services",
+    "cipCode": "4407"
+  },
+  {
+    "id": "political-science-and-government",
+    "name": "Political Science and Government.",
     "category": "Social Sciences",
-    "cipCode": "42.0101"
+    "cipCode": "4510"
   },
   {
-    "id": "polisci",
-    "name": "Political Science",
+    "id": "sociology",
+    "name": "Sociology.",
     "category": "Social Sciences",
-    "cipCode": "45.1001"
+    "cipCode": "4511"
   },
   {
-    "id": "english",
-    "name": "English",
-    "category": "Humanities",
-    "cipCode": "23.0101"
+    "id": "fine-and-studio-arts",
+    "name": "Fine and Studio Arts.",
+    "category": "Visual & Performing Arts",
+    "cipCode": "5007"
   },
   {
-    "id": "nursing",
-    "name": "Nursing",
-    "category": "Health Sciences",
-    "cipCode": "51.3801"
+    "id": "music",
+    "name": "Music.",
+    "category": "Visual & Performing Arts",
+    "cipCode": "5009"
+  },
+  {
+    "id": "business-administration-management-and-o",
+    "name": "Business Administration, Management and Operations.",
+    "category": "Business",
+    "cipCode": "5202"
+  },
+  {
+    "id": "accounting-and-related-services",
+    "name": "Accounting and Related Services.",
+    "category": "Business",
+    "cipCode": "5203"
+  },
+  {
+    "id": "entrepreneurial-and-small-business-opera",
+    "name": "Entrepreneurial and Small Business Operations.",
+    "category": "Business",
+    "cipCode": "5207"
+  },
+  {
+    "id": "finance-and-financial-management-service",
+    "name": "Finance and Financial Management Services.",
+    "category": "Business",
+    "cipCode": "5208"
+  },
+  {
+    "id": "marketing",
+    "name": "Marketing.",
+    "category": "Business",
+    "cipCode": "5214"
+  },
+  {
+    "id": "communication-and-media-studies",
+    "name": "Communication and Media Studies.",
+    "category": "Communication & Journalism",
+    "cipCode": "0901"
+  },
+  {
+    "id": "engineering-general",
+    "name": "Engineering, General.",
+    "category": "Engineering",
+    "cipCode": "1401"
+  },
+  {
+    "id": "biomedical-medical-engineering",
+    "name": "Biomedical/Medical Engineering.",
+    "category": "Engineering",
+    "cipCode": "1405"
+  },
+  {
+    "id": "materials-engineering",
+    "name": "Materials Engineering",
+    "category": "Engineering",
+    "cipCode": "1418"
+  },
+  {
+    "id": "linguistic-comparative-and-related-langu",
+    "name": "Linguistic, Comparative, and Related Language Studies and Services.",
+    "category": "Foreign Languages",
+    "cipCode": "1601"
+  },
+  {
+    "id": "romance-languages-literatures-and-lingui",
+    "name": "Romance Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1609"
+  },
+  {
+    "id": "microbiological-sciences-and-immunology",
+    "name": "Microbiological Sciences and Immunology.",
+    "category": "Biological Sciences",
+    "cipCode": "2605"
+  },
+  {
+    "id": "genetics",
+    "name": "Genetics.",
+    "category": "Biological Sciences",
+    "cipCode": "2608"
+  },
+  {
+    "id": "biomathematics-bioinformatics-and-comput",
+    "name": "Biomathematics, Bioinformatics, and Computational Biology.",
+    "category": "Biological Sciences",
+    "cipCode": "2611"
+  },
+  {
+    "id": "neurobiology-and-neurosciences",
+    "name": "Neurobiology and Neurosciences.",
+    "category": "Biological Sciences",
+    "cipCode": "2615"
+  },
+  {
+    "id": "philosophy",
+    "name": "Philosophy.",
+    "category": "Philosophy & Religious Studies",
+    "cipCode": "3801"
+  },
+  {
+    "id": "security-science-and-technology",
+    "name": "Security Science and Technology.",
+    "category": "Homeland Security & Criminal Justice",
+    "cipCode": "4304"
+  },
+  {
+    "id": "anthropology",
+    "name": "Anthropology.",
+    "category": "Social Sciences",
+    "cipCode": "4502"
+  },
+  {
+    "id": "social-sciences-other",
+    "name": "Social Sciences, Other.",
+    "category": "Social Sciences",
+    "cipCode": "4599"
+  },
+  {
+    "id": "drama-theatre-arts-and-stagecraft",
+    "name": "Drama/Theatre Arts and Stagecraft.",
+    "category": "Visual & Performing Arts",
+    "cipCode": "5005"
+  },
+  {
+    "id": "health-services-allied-health-health-sci",
+    "name": "Health Services/Allied Health/Health Sciences, General.",
+    "category": "Health Professions",
+    "cipCode": "5100"
+  },
+  {
+    "id": "health-and-medical-administrative-servic",
+    "name": "Health and Medical Administrative Services.",
+    "category": "Health Professions",
+    "cipCode": "5107"
+  },
+  {
+    "id": "allied-health-diagnostic-intervention-an",
+    "name": "Allied Health Diagnostic, Intervention, and Treatment Professions.",
+    "category": "Health Professions",
+    "cipCode": "5109"
+  },
+  {
+    "id": "clinical-medical-laboratory-science-rese",
+    "name": "Clinical/Medical Laboratory Science/Research and Allied Professions.",
+    "category": "Health Professions",
+    "cipCode": "5110"
+  },
+  {
+    "id": "public-health",
+    "name": "Public Health.",
+    "category": "Health Professions",
+    "cipCode": "5122"
+  },
+  {
+    "id": "registered-nursing-nursing-administratio",
+    "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+    "category": "Health Professions",
+    "cipCode": "5138"
+  },
+  {
+    "id": "business-managerial-economics",
+    "name": "Business/Managerial Economics.",
+    "category": "Business",
+    "cipCode": "5206"
+  },
+  {
+    "id": "human-resources-management-and-services",
+    "name": "Human Resources Management and Services.",
+    "category": "Business",
+    "cipCode": "5210"
+  },
+  {
+    "id": "management-information-systems-and-servi",
+    "name": "Management Information Systems and Services.",
+    "category": "Business",
+    "cipCode": "5212"
+  },
+  {
+    "id": "general-sales-merchandising-and-related-",
+    "name": "General Sales, Merchandising and Related Marketing Operations.",
+    "category": "Business",
+    "cipCode": "5218"
+  },
+  {
+    "id": "history",
+    "name": "History.",
+    "category": "History",
+    "cipCode": "5401"
+  },
+  {
+    "id": "human-development-family-studies-and-rel",
+    "name": "Human Development, Family Studies, and Related Services.",
+    "category": "Family & Consumer Sciences",
+    "cipCode": "1907"
+  },
+  {
+    "id": "bible-biblical-studies",
+    "name": "Bible/Biblical Studies.",
+    "category": "Other",
+    "cipCode": "3902"
+  },
+  {
+    "id": "pastoral-counseling-and-specialized-mini",
+    "name": "Pastoral Counseling and Specialized Ministries.",
+    "category": "Other",
+    "cipCode": "3907"
+  },
+  {
+    "id": "business-corporate-communications",
+    "name": "Business/Corporate Communications.",
+    "category": "Business",
+    "cipCode": "5205"
+  },
+  {
+    "id": "computer-information-technology-administ",
+    "name": "Computer/Information Technology Administration and Management.",
+    "category": "Computer Science & IT",
+    "cipCode": "1110"
+  },
+  {
+    "id": "education-general",
+    "name": "Education, General.",
+    "category": "Education",
+    "cipCode": "1301"
+  },
+  {
+    "id": "aerospace-aeronautical-and-astronautical",
+    "name": "Aerospace, Aeronautical and Astronautical Engineering.",
+    "category": "Engineering",
+    "cipCode": "1402"
+  },
+  {
+    "id": "chemical-engineering",
+    "name": "Chemical Engineering.",
+    "category": "Engineering",
+    "cipCode": "1407"
+  },
+  {
+    "id": "computer-engineering",
+    "name": "Computer Engineering.",
+    "category": "Engineering",
+    "cipCode": "1409"
+  },
+  {
+    "id": "industrial-engineering",
+    "name": "Industrial Engineering.",
+    "category": "Engineering",
+    "cipCode": "1435"
+  },
+  {
+    "id": "engineering-other",
+    "name": "Engineering, Other.",
+    "category": "Engineering",
+    "cipCode": "1499"
+  },
+  {
+    "id": "rhetoric-and-composition-writing-studies",
+    "name": "Rhetoric and Composition/Writing Studies.",
+    "category": "English Language & Literature",
+    "cipCode": "2313"
+  },
+  {
+    "id": "multi-interdisciplinary-studies-other",
+    "name": "Multi/Interdisciplinary Studies, Other.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3099"
+  },
+  {
+    "id": "physical-sciences-other",
+    "name": "Physical Sciences, Other.",
+    "category": "Physical Sciences",
+    "cipCode": "4099"
+  },
+  {
+    "id": "information-science-studies",
+    "name": "Information Science/Studies.",
+    "category": "Computer Science & IT",
+    "cipCode": "1104"
+  },
+  {
+    "id": "computer-science",
+    "name": "Computer Science.",
+    "category": "Computer Science & IT",
+    "cipCode": "1107"
+  },
+  {
+    "id": "ecology-evolution-systematics-and-popula",
+    "name": "Ecology, Evolution, Systematics, and Population Biology.",
+    "category": "Biological Sciences",
+    "cipCode": "2613"
+  },
+  {
+    "id": "parks-recreation-and-leisure-facilities-",
+    "name": "Parks, Recreation and Leisure Facilities Management.",
+    "category": "Parks & Recreation",
+    "cipCode": "3103"
+  },
+  {
+    "id": "dance",
+    "name": "Dance.",
+    "category": "Visual & Performing Arts",
+    "cipCode": "5003"
+  },
+  {
+    "id": "rehabilitation-and-therapeutic-professio",
+    "name": "Rehabilitation and Therapeutic Professions.",
+    "category": "Health Professions",
+    "cipCode": "5123"
+  },
+  {
+    "id": "natural-resources-conservation-and-resea",
+    "name": "Natural Resources Conservation and Research.",
+    "category": "Natural Resources & Conservation",
+    "cipCode": "0301"
+  },
+  {
+    "id": "area-studies",
+    "name": "Area Studies.",
+    "category": "Area Studies",
+    "cipCode": "0501"
+  },
+  {
+    "id": "journalism",
+    "name": "Journalism.",
+    "category": "Communication & Journalism",
+    "cipCode": "0904"
+  },
+  {
+    "id": "radio-television-and-digital-communicati",
+    "name": "Radio, Television, and Digital Communication.",
+    "category": "Communication & Journalism",
+    "cipCode": "0907"
+  },
+  {
+    "id": "public-relations-advertising-and-applied",
+    "name": "Public Relations, Advertising, and Applied Communication.",
+    "category": "Communication & Journalism",
+    "cipCode": "0909"
+  },
+  {
+    "id": "educational-assessment-evaluation-and-re",
+    "name": "Educational Assessment, Evaluation, and Research.",
+    "category": "Education",
+    "cipCode": "1306"
+  },
+  {
+    "id": "architectural-engineering",
+    "name": "Architectural Engineering.",
+    "category": "Engineering",
+    "cipCode": "1404"
+  },
+  {
+    "id": "environmental-environmental-health-engin",
+    "name": "Environmental/Environmental Health Engineering.",
+    "category": "Engineering",
+    "cipCode": "1414"
+  },
+  {
+    "id": "metallurgical-engineering",
+    "name": "Metallurgical Engineering.",
+    "category": "Engineering",
+    "cipCode": "1420"
+  },
+  {
+    "id": "construction-engineering",
+    "name": "Construction Engineering.",
+    "category": "Engineering",
+    "cipCode": "1433"
+  },
+  {
+    "id": "manufacturing-engineering",
+    "name": "Manufacturing Engineering.",
+    "category": "Engineering",
+    "cipCode": "1436"
+  },
+  {
+    "id": "germanic-languages-literatures-and-lingu",
+    "name": "Germanic Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1605"
+  },
+  {
+    "id": "family-and-consumer-economics-and-relate",
+    "name": "Family and Consumer Economics and Related Studies.",
+    "category": "Family & Consumer Sciences",
+    "cipCode": "1904"
+  },
+  {
+    "id": "foods-nutrition-and-related-services",
+    "name": "Foods, Nutrition, and Related Services.",
+    "category": "Family & Consumer Sciences",
+    "cipCode": "1905"
+  },
+  {
+    "id": "apparel-and-textiles",
+    "name": "Apparel and Textiles.",
+    "category": "Family & Consumer Sciences",
+    "cipCode": "1909"
+  },
+  {
+    "id": "multi-interdisciplinary-studies-general",
+    "name": "Multi-/Interdisciplinary Studies, General.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3000"
+  },
+  {
+    "id": "religion-religious-studies",
+    "name": "Religion/Religious Studies.",
+    "category": "Philosophy & Religious Studies",
+    "cipCode": "3802"
+  },
+  {
+    "id": "geological-and-earth-sciences-geoscience",
+    "name": "Geological and Earth Sciences/Geosciences.",
+    "category": "Physical Sciences",
+    "cipCode": "4006"
+  },
+  {
+    "id": "criminology",
+    "name": "Criminology.",
+    "category": "Social Sciences",
+    "cipCode": "4504"
+  },
+  {
+    "id": "geography-and-cartography",
+    "name": "Geography and Cartography.",
+    "category": "Social Sciences",
+    "cipCode": "4507"
+  },
+  {
+    "id": "international-relations-and-national-sec",
+    "name": "International Relations and National Security Studies.",
+    "category": "Social Sciences",
+    "cipCode": "4509"
+  },
+  {
+    "id": "design-and-applied-arts",
+    "name": "Design and Applied Arts.",
+    "category": "Visual & Performing Arts",
+    "cipCode": "5004"
+  },
+  {
+    "id": "communication-disorders-sciences-and-ser",
+    "name": "Communication Disorders Sciences and Services.",
+    "category": "Health Professions",
+    "cipCode": "5102"
+  },
+  {
+    "id": "dietetics-and-clinical-nutrition-service",
+    "name": "Dietetics and Clinical Nutrition Services.",
+    "category": "Health Professions",
+    "cipCode": "5131"
+  },
+  {
+    "id": "health-professions-and-related-clinical-",
+    "name": "Health Professions and Related Clinical Sciences, Other.",
+    "category": "Health Professions",
+    "cipCode": "5199"
+  },
+  {
+    "id": "hospitality-administration-management",
+    "name": "Hospitality Administration/Management.",
+    "category": "Business",
+    "cipCode": "5209"
+  },
+  {
+    "id": "management-sciences-and-quantitative-met",
+    "name": "Management Sciences and Quantitative Methods.",
+    "category": "Business",
+    "cipCode": "5213"
+  },
+  {
+    "id": "education-other",
+    "name": "Education, Other.",
+    "category": "Education",
+    "cipCode": "1399"
+  },
+  {
+    "id": "behavioral-sciences",
+    "name": "Behavioral Sciences.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3017"
+  },
+  {
+    "id": "fire-protection",
+    "name": "Fire Protection.",
+    "category": "Homeland Security & Criminal Justice",
+    "cipCode": "4302"
+  },
+  {
+    "id": "homeland-security",
+    "name": "Homeland Security.",
+    "category": "Homeland Security & Criminal Justice",
+    "cipCode": "4303"
+  },
+  {
+    "id": "social-sciences-general",
+    "name": "Social Sciences, General.",
+    "category": "Social Sciences",
+    "cipCode": "4501"
+  },
+  {
+    "id": "business-management-marketing-and-relate",
+    "name": "Business, Management, Marketing, and Related Support Services, Other.",
+    "category": "Business",
+    "cipCode": "5299"
+  },
+  {
+    "id": "physical-sciences",
+    "name": "Physical Sciences.",
+    "category": "Physical Sciences",
+    "cipCode": "4001"
+  },
+  {
+    "id": "economics",
+    "name": "Economics.",
+    "category": "Social Sciences",
+    "cipCode": "4506"
+  },
+  {
+    "id": "business-commerce-general",
+    "name": "Business/Commerce, General.",
+    "category": "Business",
+    "cipCode": "5201"
+  },
+  {
+    "id": "international-business",
+    "name": "International Business.",
+    "category": "Business",
+    "cipCode": "5211"
+  },
+  {
+    "id": "agricultural-production-operations",
+    "name": "Agricultural Production Operations.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0103"
+  },
+  {
+    "id": "agricultural-public-services",
+    "name": "Agricultural Public Services.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0108"
+  },
+  {
+    "id": "natural-resources-management-and-policy",
+    "name": "Natural Resources Management and Policy.",
+    "category": "Natural Resources & Conservation",
+    "cipCode": "0302"
+  },
+  {
+    "id": "wildlife-and-wildlands-science-and-manag",
+    "name": "Wildlife and Wildlands Science and Management.",
+    "category": "Natural Resources & Conservation",
+    "cipCode": "0306"
+  },
+  {
+    "id": "architecture",
+    "name": "Architecture.",
+    "category": "Architecture",
+    "cipCode": "0402"
+  },
+  {
+    "id": "environmental-design",
+    "name": "Environmental Design.",
+    "category": "Architecture",
+    "cipCode": "0404"
+  },
+  {
+    "id": "interior-architecture",
+    "name": "Interior Architecture.",
+    "category": "Architecture",
+    "cipCode": "0405"
+  },
+  {
+    "id": "polymer-plastics-engineering",
+    "name": "Polymer/Plastics Engineering.",
+    "category": "Engineering",
+    "cipCode": "1432"
+  },
+  {
+    "id": "biological-biosystems-engineering",
+    "name": "Biological/Biosystems Engineering.",
+    "category": "Engineering",
+    "cipCode": "1445"
+  },
+  {
+    "id": "non-professional-general-legal-studies-u",
+    "name": "Non-Professional General Legal Studies (Undergraduate).",
+    "category": "Legal Studies",
+    "cipCode": "2200"
+  },
+  {
+    "id": "zoology-animal-biology",
+    "name": "Zoology/Animal Biology.",
+    "category": "Biological Sciences",
+    "cipCode": "2607"
+  },
+  {
+    "id": "physiology-pathology-and-related-science",
+    "name": "Physiology, Pathology and Related Sciences.",
+    "category": "Biological Sciences",
+    "cipCode": "2609"
+  },
+  {
+    "id": "biotechnology",
+    "name": "Biotechnology.",
+    "category": "Biological Sciences",
+    "cipCode": "2612"
+  },
+  {
+    "id": "applied-mathematics",
+    "name": "Applied Mathematics.",
+    "category": "Mathematics & Statistics",
+    "cipCode": "2703"
+  },
+  {
+    "id": "nutrition-sciences",
+    "name": "Nutrition Sciences.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3019"
+  },
+  {
+    "id": "public-administration",
+    "name": "Public Administration.",
+    "category": "Public Administration & Social Services",
+    "cipCode": "4404"
+  },
+  {
+    "id": "air-transportation",
+    "name": "Air Transportation.",
+    "category": "Transportation",
+    "cipCode": "4901"
+  },
+  {
+    "id": "architecture-and-related-services-other",
+    "name": "Architecture and Related Services, Other.",
+    "category": "Architecture",
+    "cipCode": "0499"
+  },
+  {
+    "id": "international-global-studies",
+    "name": "International/Global Studies.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3020"
+  },
+  {
+    "id": "legal-support-services",
+    "name": "Legal Support Services.",
+    "category": "Legal Studies",
+    "cipCode": "2203"
+  },
+  {
+    "id": "agriculture-veterinary-preparatory-progr",
+    "name": "Agriculture/Veterinary Preparatory Programs.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0113"
+  },
+  {
+    "id": "veterinary-biomedical-and-clinical-scien",
+    "name": "Veterinary Biomedical and Clinical Sciences.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0181"
+  },
+  {
+    "id": "biochemistry-biophysics-and-molecular-bi",
+    "name": "Biochemistry, Biophysics and Molecular Biology.",
+    "category": "Biological Sciences",
+    "cipCode": "2602"
+  },
+  {
+    "id": "missions-missionary-studies-and-missiolo",
+    "name": "Missions/Missionary Studies and Missiology.",
+    "category": "Other",
+    "cipCode": "3903"
+  },
+  {
+    "id": "theological-and-ministerial-studies",
+    "name": "Theological and Ministerial Studies.",
+    "category": "Other",
+    "cipCode": "3906"
+  },
+  {
+    "id": "clinical-counseling-and-applied-psycholo",
+    "name": "Clinical, Counseling and Applied Psychology.",
+    "category": "Psychology",
+    "cipCode": "4228"
+  },
+  {
+    "id": "psychology-other",
+    "name": "Psychology, Other.",
+    "category": "Psychology",
+    "cipCode": "4299"
+  },
+  {
+    "id": "health-medical-preparatory-programs",
+    "name": "Health/Medical Preparatory Programs.",
+    "category": "Health Professions",
+    "cipCode": "5111"
+  },
+  {
+    "id": "mental-and-social-health-services-and-al",
+    "name": "Mental and Social Health Services and Allied Professions.",
+    "category": "Health Professions",
+    "cipCode": "5115"
+  },
+  {
+    "id": "computer-programming",
+    "name": "Computer Programming.",
+    "category": "Computer Science & IT",
+    "cipCode": "1102"
+  },
+  {
+    "id": "cell-cellular-biology-and-anatomical-sci",
+    "name": "Cell/Cellular Biology and Anatomical Sciences.",
+    "category": "Biological Sciences",
+    "cipCode": "2604"
+  },
+  {
+    "id": "religious-education",
+    "name": "Religious Education.",
+    "category": "Other",
+    "cipCode": "3904"
+  },
+  {
+    "id": "quality-control-and-safety-technologies-",
+    "name": "Quality Control and Safety Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1507"
+  },
+  {
+    "id": "engineering-technologies-technicians-oth",
+    "name": "Engineering Technologies/Technicians, Other.",
+    "category": "Engineering Technologies",
+    "cipCode": "1599"
+  },
+  {
+    "id": "parks-recreation-and-leisure-studies",
+    "name": "Parks, Recreation and Leisure Studies.",
+    "category": "Parks & Recreation",
+    "cipCode": "3101"
+  },
+  {
+    "id": "public-administration-and-social-service",
+    "name": "Public Administration and Social Service Professions, Other.",
+    "category": "Public Administration & Social Services",
+    "cipCode": "4499"
+  },
+  {
+    "id": "agricultural-and-domestic-animal-service",
+    "name": "Agricultural and Domestic Animal Services.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0105"
+  },
+  {
+    "id": "engineering-technology-general",
+    "name": "Engineering Technology, General.",
+    "category": "Engineering Technologies",
+    "cipCode": "1500"
+  },
+  {
+    "id": "biological-and-physical-sciences",
+    "name": "Biological and Physical Sciences.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3001"
+  },
+  {
+    "id": "homeland-security-law-enforcement-firefi",
+    "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",
+    "category": "Homeland Security & Criminal Justice",
+    "cipCode": "4399"
+  },
+  {
+    "id": "communication-journalism-and-related-pro",
+    "name": "Communication, Journalism, and Related Programs, Other.",
+    "category": "Communication & Journalism",
+    "cipCode": "0999"
+  },
+  {
+    "id": "computer-systems-networking-and-telecomm",
+    "name": "Computer Systems Networking and Telecommunications.",
+    "category": "Computer Science & IT",
+    "cipCode": "1109"
+  },
+  {
+    "id": "visual-and-performing-arts-general",
+    "name": "Visual and Performing Arts, General.",
+    "category": "Visual & Performing Arts",
+    "cipCode": "5001"
+  },
+  {
+    "id": "intercultural-multicultural-and-diversit",
+    "name": "Intercultural/Multicultural and Diversity Studies.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3023"
+  },
+  {
+    "id": "leisure-and-recreational-activities",
+    "name": "Leisure and Recreational Activities.",
+    "category": "Other",
+    "cipCode": "3601"
+  },
+  {
+    "id": "religious-sacred-music",
+    "name": "Religious/Sacred Music.",
+    "category": "Other",
+    "cipCode": "3905"
+  },
+  {
+    "id": "culinary-arts-and-related-services",
+    "name": "Culinary Arts and Related Services.",
+    "category": "Personal & Culinary Services",
+    "cipCode": "1205"
+  },
+  {
+    "id": "sustainability-studies",
+    "name": "Sustainability Studies.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3033"
+  },
+  {
+    "id": "parks-recreation-leisure-and-fitness-stu",
+    "name": "Parks, Recreation, Leisure, and Fitness Studies, Other.",
+    "category": "Parks & Recreation",
+    "cipCode": "3199"
+  },
+  {
+    "id": "research-and-experimental-psychology",
+    "name": "Research and Experimental Psychology.",
+    "category": "Psychology",
+    "cipCode": "4227"
+  },
+  {
+    "id": "arts-entertainment-and-media-management",
+    "name": "Arts, Entertainment,and Media Management.",
+    "category": "Visual & Performing Arts",
+    "cipCode": "5010"
+  },
+  {
+    "id": "public-policy-analysis",
+    "name": "Public Policy Analysis.",
+    "category": "Public Administration & Social Services",
+    "cipCode": "4405"
+  },
+  {
+    "id": "practical-nursing-vocational-nursing-and",
+    "name": "Practical Nursing, Vocational Nursing and Nursing Assistants.",
+    "category": "Health Professions",
+    "cipCode": "5139"
+  },
+  {
+    "id": "student-counseling-and-personnel-service",
+    "name": "Student Counseling and Personnel Services.",
+    "category": "Education",
+    "cipCode": "1311"
+  },
+  {
+    "id": "engineering-physics",
+    "name": "Engineering Physics.",
+    "category": "Engineering",
+    "cipCode": "1412"
+  },
+  {
+    "id": "classics-and-classical-languages-literat",
+    "name": "Classics and Classical Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1612"
+  },
+  {
+    "id": "cultural-studies-critical-theory-and-ana",
+    "name": "Cultural Studies/Critical Theory and Analysis.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3026"
+  },
+  {
+    "id": "philosophy-and-religious-studies-general",
+    "name": "Philosophy and Religious Studies, General.",
+    "category": "Philosophy & Religious Studies",
+    "cipCode": "3800"
+  },
+  {
+    "id": "philosophy-and-religious-studies-other",
+    "name": "Philosophy and Religious Studies, Other.",
+    "category": "Philosophy & Religious Studies",
+    "cipCode": "3899"
+  },
+  {
+    "id": "human-services-general",
+    "name": "Human Services, General.",
+    "category": "Public Administration & Social Services",
+    "cipCode": "4400"
+  },
+  {
+    "id": "visual-and-performing-arts-other",
+    "name": "Visual and Performing Arts, Other.",
+    "category": "Visual & Performing Arts",
+    "cipCode": "5099"
+  },
+  {
+    "id": "pharmacy-pharmaceutical-sciences-and-adm",
+    "name": "Pharmacy, Pharmaceutical Sciences, and Administration.",
+    "category": "Health Professions",
+    "cipCode": "5120"
+  },
+  {
+    "id": "statistics",
+    "name": "Statistics.",
+    "category": "Mathematics & Statistics",
+    "cipCode": "2705"
+  },
+  {
+    "id": "atmospheric-sciences-and-meteorology",
+    "name": "Atmospheric Sciences and Meteorology.",
+    "category": "Physical Sciences",
+    "cipCode": "4004"
+  },
+  {
+    "id": "medical-illustration-and-informatics",
+    "name": "Medical Illustration and Informatics.",
+    "category": "Health Professions",
+    "cipCode": "5127"
+  },
+  {
+    "id": "biopsychology",
+    "name": "Biopsychology.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3010"
+  },
+  {
+    "id": "computer-and-information-sciences-and-su",
+    "name": "Computer and Information Sciences and Support Services, Other.",
+    "category": "Computer Science & IT",
+    "cipCode": "1199"
+  },
+  {
+    "id": "engineering-related-technologies",
+    "name": "Engineering-Related Technologies.",
+    "category": "Engineering Technologies",
+    "cipCode": "1511"
+  },
+  {
+    "id": "american-sign-language",
+    "name": "American Sign Language.",
+    "category": "Foreign Languages",
+    "cipCode": "1616"
+  },
+  {
+    "id": "science-technology-and-society",
+    "name": "Science, Technology and Society.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3015"
+  },
+  {
+    "id": "soil-sciences",
+    "name": "Soil Sciences.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0112"
+  },
+  {
+    "id": "architectural-sciences-and-technology",
+    "name": "Architectural Sciences and Technology.",
+    "category": "Architecture",
+    "cipCode": "0409"
+  },
+  {
+    "id": "building-construction-finishing-manageme",
+    "name": "Building/Construction Finishing, Management, and Inspection.",
+    "category": "Construction Trades",
+    "cipCode": "4604"
+  },
+  {
+    "id": "construction-management",
+    "name": "Construction Management.",
+    "category": "Business",
+    "cipCode": "5220"
+  },
+  {
+    "id": "personal-and-culinary-services-other",
+    "name": "Personal and Culinary Services, Other.",
+    "category": "Personal & Culinary Services",
+    "cipCode": "1299"
+  },
+  {
+    "id": "legal-research-and-advanced-professional",
+    "name": "Legal Research and Advanced Professional Studies.",
+    "category": "Legal Studies",
+    "cipCode": "2202"
+  },
+  {
+    "id": "science-technologies-technicians-other",
+    "name": "Science Technologies/Technicians, Other.",
+    "category": "Other",
+    "cipCode": "4199"
+  },
+  {
+    "id": "dental-support-services-and-allied-profe",
+    "name": "Dental Support Services and Allied Professions.",
+    "category": "Health Professions",
+    "cipCode": "5106"
+  },
+  {
+    "id": "allied-health-and-medical-assisting-serv",
+    "name": "Allied Health and Medical Assisting Services.",
+    "category": "Health Professions",
+    "cipCode": "5108"
+  },
+  {
+    "id": "fishing-and-fisheries-sciences-and-manag",
+    "name": "Fishing and Fisheries Sciences and Management.",
+    "category": "Natural Resources & Conservation",
+    "cipCode": "0303"
+  },
+  {
+    "id": "natural-resources-and-conservation-other",
+    "name": "Natural Resources and Conservation, Other.",
+    "category": "Natural Resources & Conservation",
+    "cipCode": "0399"
+  },
+  {
+    "id": "mining-and-mineral-engineering",
+    "name": "Mining and Mineral Engineering.",
+    "category": "Engineering",
+    "cipCode": "1421"
+  },
+  {
+    "id": "petroleum-engineering",
+    "name": "Petroleum Engineering.",
+    "category": "Engineering",
+    "cipCode": "1425"
+  },
+  {
+    "id": "geological-geophysical-engineering",
+    "name": "Geological/Geophysical Engineering.",
+    "category": "Engineering",
+    "cipCode": "1439"
+  },
+  {
+    "id": "east-asian-languages-literatures-and-lin",
+    "name": "East Asian Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1603"
+  },
+  {
+    "id": "american-indian-native-american-language",
+    "name": "American Indian/Native American Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1610"
+  },
+  {
+    "id": "foreign-languages-literatures-and-lingui",
+    "name": "Foreign Languages, Literatures, and Linguistics, Other.",
+    "category": "Foreign Languages",
+    "cipCode": "1699"
+  },
+  {
+    "id": "community-organization-and-advocacy",
+    "name": "Community Organization and Advocacy.",
+    "category": "Public Administration & Social Services",
+    "cipCode": "4402"
+  },
+  {
+    "id": "film-video-and-photographic-arts",
+    "name": "Film/Video and Photographic Arts.",
+    "category": "Visual & Performing Arts",
+    "cipCode": "5006"
+  },
+  {
+    "id": "outdoor-education",
+    "name": "Outdoor Education.",
+    "category": "Parks & Recreation",
+    "cipCode": "3106"
+  },
+  {
+    "id": "landscape-architecture",
+    "name": "Landscape Architecture.",
+    "category": "Architecture",
+    "cipCode": "0406"
+  },
+  {
+    "id": "graphic-communications",
+    "name": "Graphic Communications.",
+    "category": "Communications Technologies",
+    "cipCode": "1003"
+  },
+  {
+    "id": "computer-systems-analysis",
+    "name": "Computer Systems Analysis.",
+    "category": "Computer Science & IT",
+    "cipCode": "1105"
+  },
+  {
+    "id": "engineering-science",
+    "name": "Engineering Science.",
+    "category": "Engineering",
+    "cipCode": "1413"
+  },
+  {
+    "id": "computer-engineering-technologies-techni",
+    "name": "Computer Engineering Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1512"
+  },
+  {
+    "id": "engineering-related-fields",
+    "name": "Engineering-Related Fields.",
+    "category": "Engineering Technologies",
+    "cipCode": "1515"
+  },
+  {
+    "id": "slavic-baltic-and-albanian-languages-lit",
+    "name": "Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1604"
+  },
+  {
+    "id": "pharmacology-and-toxicology",
+    "name": "Pharmacology and Toxicology.",
+    "category": "Biological Sciences",
+    "cipCode": "2610"
+  },
+  {
+    "id": "dispute-resolution",
+    "name": "Dispute Resolution.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3028"
+  },
+  {
+    "id": "human-computer-interaction",
+    "name": "Human Computer Interaction.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3031"
+  },
+  {
+    "id": "earth-systems-science",
+    "name": "Earth Systems Science.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3038"
   },
   {
     "id": "data-science",
-    "name": "Data Science",
-    "category": "Engineering & Technology",
-    "cipCode": "30.7001"
+    "name": "Data Science.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3070"
+  },
+  {
+    "id": "science-technologies-technicians-general",
+    "name": "Science Technologies/Technicians, General.",
+    "category": "Other",
+    "cipCode": "4100"
+  },
+  {
+    "id": "urban-studies-affairs",
+    "name": "Urban Studies/Affairs.",
+    "category": "Social Sciences",
+    "cipCode": "4512"
+  },
+  {
+    "id": "medicine",
+    "name": "Medicine.",
+    "category": "Health Professions",
+    "cipCode": "5112"
+  },
+  {
+    "id": "computer-software-and-media-applications",
+    "name": "Computer Software and Media Applications.",
+    "category": "Computer Science & IT",
+    "cipCode": "1108"
+  },
+  {
+    "id": "educational-administration-and-supervisi",
+    "name": "Educational Administration and Supervision.",
+    "category": "Education",
+    "cipCode": "1304"
+  },
+  {
+    "id": "systems-engineering",
+    "name": "Systems Engineering.",
+    "category": "Engineering",
+    "cipCode": "1427"
+  },
+  {
+    "id": "middle-near-eastern-and-semitic-language",
+    "name": "Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1611"
+  },
+  {
+    "id": "law",
+    "name": "Law.",
+    "category": "Legal Studies",
+    "cipCode": "2201"
+  },
+  {
+    "id": "legal-professions-and-studies-other",
+    "name": "Legal Professions and Studies, Other.",
+    "category": "Legal Studies",
+    "cipCode": "2299"
+  },
+  {
+    "id": "biological-and-biomedical-sciences-other",
+    "name": "Biological and Biomedical Sciences, Other.",
+    "category": "Biological Sciences",
+    "cipCode": "2699"
+  },
+  {
+    "id": "intelligence-command-control-and-informa",
+    "name": "Intelligence, Command Control and Information Operations.",
+    "category": "Military Technologies",
+    "cipCode": "2902"
+  },
+  {
+    "id": "natural-sciences",
+    "name": "Natural Sciences.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3018"
+  },
+  {
+    "id": "philosophy-politics-and-economics",
+    "name": "Philosophy, Politics, and Economics.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3051"
+  },
+  {
+    "id": "astronomy-and-astrophysics",
+    "name": "Astronomy and Astrophysics.",
+    "category": "Physical Sciences",
+    "cipCode": "4002"
+  },
+  {
+    "id": "materials-sciences",
+    "name": "Materials Sciences.",
+    "category": "Physical Sciences",
+    "cipCode": "4010"
+  },
+  {
+    "id": "literature",
+    "name": "Literature.",
+    "category": "English Language & Literature",
+    "cipCode": "2314"
+  },
+  {
+    "id": "human-biology",
+    "name": "Human Biology.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3027"
+  },
+  {
+    "id": "bilingual-multilingual-and-multicultural",
+    "name": "Bilingual, Multilingual, and Multicultural Education.",
+    "category": "Education",
+    "cipCode": "1302"
+  },
+  {
+    "id": "computational-science",
+    "name": "Computational Science.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3030"
+  },
+  {
+    "id": "specialized-sales-merchandising-and-mark",
+    "name": "Specialized Sales, Merchandising and  Marketing Operations.",
+    "category": "Business",
+    "cipCode": "5219"
+  },
+  {
+    "id": "theology-and-religious-vocations-other",
+    "name": "Theology and Religious Vocations, Other.",
+    "category": "Other",
+    "cipCode": "3999"
+  },
+  {
+    "id": "mechatronics-robotics-and-automation-eng",
+    "name": "Mechatronics, Robotics, and Automation Engineering.",
+    "category": "Engineering",
+    "cipCode": "1442"
+  },
+  {
+    "id": "ophthalmic-and-optometric-support-servic",
+    "name": "Ophthalmic and Optometric Support Services and Allied Professions.",
+    "category": "Health Professions",
+    "cipCode": "5118"
+  },
+  {
+    "id": "applied-horticulture-and-horticultural-b",
+    "name": "Applied Horticulture and Horticultural Business Services.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0106"
+  },
+  {
+    "id": "data-processing",
+    "name": "Data Processing.",
+    "category": "Computer Science & IT",
+    "cipCode": "1103"
+  },
+  {
+    "id": "insurance",
+    "name": "Insurance.",
+    "category": "Business",
+    "cipCode": "5217"
+  },
+  {
+    "id": "communications-technology-technician",
+    "name": "Communications Technology/Technician.",
+    "category": "Communications Technologies",
+    "cipCode": "1001"
+  },
+  {
+    "id": "housing-and-human-environments",
+    "name": "Housing and Human Environments.",
+    "category": "Family & Consumer Sciences",
+    "cipCode": "1906"
+  },
+  {
+    "id": "educational-instructional-media-design",
+    "name": "Educational/Instructional Media Design.",
+    "category": "Education",
+    "cipCode": "1305"
+  },
+  {
+    "id": "drafting-design-engineering-technologies",
+    "name": "Drafting/Design Engineering Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1513"
+  },
+  {
+    "id": "vehicle-maintenance-and-repair-technolog",
+    "name": "Vehicle Maintenance and Repair Technologies.",
+    "category": "Mechanic & Repair Technologies",
+    "cipCode": "4706"
+  },
+  {
+    "id": "electromechanical-instrumentation-and-ma",
+    "name": "Electromechanical Instrumentation and Maintenance Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1504"
+  },
+  {
+    "id": "electrical-and-computer-engineering",
+    "name": "Electrical and Computer Engineering.",
+    "category": "Engineering",
+    "cipCode": "1447"
+  },
+  {
+    "id": "applied-statistics",
+    "name": "Applied Statistics.",
+    "category": "Mathematics & Statistics",
+    "cipCode": "2706"
+  },
+  {
+    "id": "data-analytics",
+    "name": "Data Analytics.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3071"
+  },
+  {
+    "id": "woodworking",
+    "name": "Woodworking.",
+    "category": "Precision Production",
+    "cipCode": "4807"
+  },
+  {
+    "id": "crafts-craft-design-folk-art-and-artisan",
+    "name": "Crafts/Craft Design, Folk Art and Artisanry.",
+    "category": "Visual & Performing Arts",
+    "cipCode": "5002"
+  },
+  {
+    "id": "agricultural-engineering",
+    "name": "Agricultural Engineering.",
+    "category": "Engineering",
+    "cipCode": "1403"
+  },
+  {
+    "id": "agricultural-mechanization",
+    "name": "Agricultural Mechanization.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0102"
+  },
+  {
+    "id": "marine-sciences",
+    "name": "Marine Sciences.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3032"
+  },
+  {
+    "id": "cognitive-science",
+    "name": "Cognitive Science.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3025"
+  },
+  {
+    "id": "accounting-and-computer-science",
+    "name": "Accounting and Computer Science.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3016"
+  },
+  {
+    "id": "real-estate",
+    "name": "Real Estate.",
+    "category": "Business",
+    "cipCode": "5215"
+  },
+  {
+    "id": "veterinary-animal-health-technologies-te",
+    "name": "Veterinary/Animal Health Technologies/Technicians.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0183"
+  },
+  {
+    "id": "botany-plant-biology",
+    "name": "Botany/Plant Biology.",
+    "category": "Biological Sciences",
+    "cipCode": "2603"
+  },
+  {
+    "id": "mathematics-and-computer-science",
+    "name": "Mathematics and Computer Science.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3008"
+  },
+  {
+    "id": "english-language-and-literature-letters-",
+    "name": "English Language and Literature/Letters, Other.",
+    "category": "English Language & Literature",
+    "cipCode": "2399"
+  },
+  {
+    "id": "peace-studies-and-conflict-resolution",
+    "name": "Peace Studies and Conflict Resolution.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3005"
+  },
+  {
+    "id": "operations-research",
+    "name": "Operations Research.",
+    "category": "Engineering",
+    "cipCode": "1437"
+  },
+  {
+    "id": "gerontology",
+    "name": "Gerontology.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3011"
+  },
+  {
+    "id": "nuclear-engineering",
+    "name": "Nuclear Engineering.",
+    "category": "Engineering",
+    "cipCode": "1423"
+  },
+  {
+    "id": "celtic-languages-literatures-and-linguis",
+    "name": "Celtic Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1613"
+  },
+  {
+    "id": "classical-and-ancient-studies",
+    "name": "Classical and Ancient Studies.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3022"
+  },
+  {
+    "id": "international-agriculture",
+    "name": "International Agriculture.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0107"
+  },
+  {
+    "id": "social-and-philosophical-foundations-of-",
+    "name": "Social and Philosophical Foundations of Education.",
+    "category": "Education",
+    "cipCode": "1309"
+  },
+  {
+    "id": "real-estate-development",
+    "name": "Real Estate Development.",
+    "category": "Architecture",
+    "cipCode": "0410"
+  },
+  {
+    "id": "medieval-and-renaissance-studies",
+    "name": "Medieval and Renaissance Studies.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3013"
+  },
+  {
+    "id": "archeology",
+    "name": "Archeology.",
+    "category": "Social Sciences",
+    "cipCode": "4503"
+  },
+  {
+    "id": "marine-transportation",
+    "name": "Marine Transportation.",
+    "category": "Transportation",
+    "cipCode": "4903"
+  },
+  {
+    "id": "systems-science-and-theory",
+    "name": "Systems Science and Theory.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3006"
+  },
+  {
+    "id": "funeral-service-and-mortuary-science",
+    "name": "Funeral Service and Mortuary Science.",
+    "category": "Personal & Culinary Services",
+    "cipCode": "1203"
+  },
+  {
+    "id": "telecommunications-management",
+    "name": "Telecommunications Management.",
+    "category": "Business",
+    "cipCode": "5221"
+  },
+  {
+    "id": "bioethics-medical-ethics",
+    "name": "Bioethics/Medical Ethics.",
+    "category": "Health Professions",
+    "cipCode": "5132"
+  },
+  {
+    "id": "publishing",
+    "name": "Publishing.",
+    "category": "Communication & Journalism",
+    "cipCode": "0910"
+  },
+  {
+    "id": "sociology-and-anthropology",
+    "name": "Sociology and Anthropology.",
+    "category": "Social Sciences",
+    "cipCode": "4513"
+  },
+  {
+    "id": "biology-technician-biotechnology-laborat",
+    "name": "Biology Technician/Biotechnology Laboratory Technician.",
+    "category": "Other",
+    "cipCode": "4101"
+  },
+  {
+    "id": "environmental-geosciences",
+    "name": "Environmental Geosciences.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3041"
+  },
+  {
+    "id": "demography-and-population-studies",
+    "name": "Demography and Population Studies.",
+    "category": "Social Sciences",
+    "cipCode": "4505"
+  },
+  {
+    "id": "linguistics-and-anthropology",
+    "name": "Linguistics and Anthropology.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3047"
+  },
+  {
+    "id": "architectural-history-and-criticism",
+    "name": "Architectural History and Criticism.",
+    "category": "Architecture",
+    "cipCode": "0408"
+  },
+  {
+    "id": "health-related-knowledge-and-skills",
+    "name": "Health-Related Knowledge and Skills.",
+    "category": "Other",
+    "cipCode": "3401"
+  },
+  {
+    "id": "international-and-comparative-education",
+    "name": "International and Comparative Education.",
+    "category": "Education",
+    "cipCode": "1307"
+  },
+  {
+    "id": "mathematics-and-statistics-other",
+    "name": "Mathematics and Statistics, Other.",
+    "category": "Mathematics & Statistics",
+    "cipCode": "2799"
+  },
+  {
+    "id": "curriculum-and-instruction",
+    "name": "Curriculum and Instruction.",
+    "category": "Education",
+    "cipCode": "1303"
+  },
+  {
+    "id": "museology-museum-studies",
+    "name": "Museology/Museum Studies.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3014"
+  },
+  {
+    "id": "biochemical-engineering",
+    "name": "Biochemical Engineering.",
+    "category": "Engineering",
+    "cipCode": "1443"
+  },
+  {
+    "id": "cosmetology-and-related-personal-groomin",
+    "name": "Cosmetology and Related Personal Grooming Services.",
+    "category": "Personal & Culinary Services",
+    "cipCode": "1204"
+  },
+  {
+    "id": "civil-engineering-technologies-technicia",
+    "name": "Civil Engineering Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1502"
+  },
+  {
+    "id": "alternative-and-complementary-medicine-a",
+    "name": "Alternative and Complementary Medicine and Medical Systems.",
+    "category": "Health Professions",
+    "cipCode": "5133"
+  },
+  {
+    "id": "movement-and-mind-body-therapies-and-edu",
+    "name": "Movement and Mind-Body Therapies and Education.",
+    "category": "Health Professions",
+    "cipCode": "5136"
+  },
+  {
+    "id": "environmental-control-technologies-techn",
+    "name": "Environmental Control Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1505"
+  },
+  {
+    "id": "engineering-chemistry",
+    "name": "Engineering Chemistry.",
+    "category": "Engineering",
+    "cipCode": "1444"
+  },
+  {
+    "id": "military-applied-sciences",
+    "name": "Military Applied Sciences.",
+    "category": "Military Technologies",
+    "cipCode": "2903"
+  },
+  {
+    "id": "military-systems-and-maintenance-technol",
+    "name": "Military Systems and Maintenance Technology.",
+    "category": "Military Technologies",
+    "cipCode": "2904"
+  },
+  {
+    "id": "architectural-engineering-technologies-t",
+    "name": "Architectural Engineering Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1501"
+  },
+  {
+    "id": "library-science-and-administration",
+    "name": "Library Science and Administration.",
+    "category": "Library Science",
+    "cipCode": "2501"
+  },
+  {
+    "id": "naval-architecture-and-marine-engineerin",
+    "name": "Naval Architecture and Marine Engineering.",
+    "category": "Engineering",
+    "cipCode": "1422"
+  },
+  {
+    "id": "teaching-english-or-french-as-a-second-o",
+    "name": "Teaching English or French as a Second or Foreign Language.",
+    "category": "Education",
+    "cipCode": "1314"
+  },
+  {
+    "id": "historic-preservation-and-conservation",
+    "name": "Historic Preservation and Conservation.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3012"
+  },
+  {
+    "id": "clinical-psychology",
+    "name": "Clinical Psychology.",
+    "category": "Psychology",
+    "cipCode": "4202"
+  },
+  {
+    "id": "advanced-graduate-dentistry-and-oral-sci",
+    "name": "Advanced/Graduate Dentistry and Oral Sciences.",
+    "category": "Health Professions",
+    "cipCode": "5105"
+  },
+  {
+    "id": "ocean-engineering",
+    "name": "Ocean Engineering.",
+    "category": "Engineering",
+    "cipCode": "1424"
+  },
+  {
+    "id": "surveying-engineering",
+    "name": "Surveying Engineering.",
+    "category": "Engineering",
+    "cipCode": "1438"
+  },
+  {
+    "id": "agricultural-and-food-products-processin",
+    "name": "Agricultural and Food Products Processing.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0104"
+  },
+  {
+    "id": "geography-and-environmental-studies",
+    "name": "Geography and Environmental Studies.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3044"
+  },
+  {
+    "id": "nursing",
+    "name": "Nursing.",
+    "category": "Health Professions",
+    "cipCode": "5116"
+  },
+  {
+    "id": "energy-systems-technologies-technicians",
+    "name": "Energy Systems Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1517"
+  },
+  {
+    "id": "business-operations-support-and-assistan",
+    "name": "Business Operations Support and Assistant Services.",
+    "category": "Business",
+    "cipCode": "5204"
+  },
+  {
+    "id": "history-and-political-science",
+    "name": "History and Political Science.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3046"
+  },
+  {
+    "id": "textile-sciences-and-engineering",
+    "name": "Textile Sciences and Engineering.",
+    "category": "Engineering",
+    "cipCode": "1428"
+  },
+  {
+    "id": "southeast-asian-and-australasian-pacific",
+    "name": "Southeast Asian and Australasian/Pacific Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1614"
+  },
+  {
+    "id": "digital-humanities-and-textual-studies",
+    "name": "Digital Humanities and Textual Studies.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3052"
+  },
+  {
+    "id": "nuclear-engineering-technologies-technic",
+    "name": "Nuclear Engineering Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1514"
+  },
+  {
+    "id": "electrical-and-power-transmission-instal",
+    "name": "Electrical and Power Transmission Installers.",
+    "category": "Construction Trades",
+    "cipCode": "4603"
+  },
+  {
+    "id": "electrical-electronics-maintenance-and-r",
+    "name": "Electrical/Electronics Maintenance and Repair Technology.",
+    "category": "Mechanic & Repair Technologies",
+    "cipCode": "4701"
+  },
+  {
+    "id": "precision-metal-working",
+    "name": "Precision Metal Working.",
+    "category": "Precision Production",
+    "cipCode": "4805"
+  },
+  {
+    "id": "heating-air-conditioning-ventilation-and",
+    "name": "Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",
+    "category": "Mechanic & Repair Technologies",
+    "cipCode": "4702"
+  },
+  {
+    "id": "heavy-industrial-equipment-maintenance-t",
+    "name": "Heavy/Industrial Equipment Maintenance Technologies.",
+    "category": "Mechanic & Repair Technologies",
+    "cipCode": "4703"
+  },
+  {
+    "id": "chiropractic",
+    "name": "Chiropractic.",
+    "category": "Health Professions",
+    "cipCode": "5101"
+  },
+  {
+    "id": "teaching-assistants-aides",
+    "name": "Teaching Assistants/Aides.",
+    "category": "Education",
+    "cipCode": "1315"
+  },
+  {
+    "id": "south-asian-languages-literatures-and-li",
+    "name": "South Asian Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1607"
+  },
+  {
+    "id": "communications-technologies-technicians-",
+    "name": "Communications Technologies/Technicians and Support Services, Other.",
+    "category": "Communications Technologies",
+    "cipCode": "1099"
+  },
+  {
+    "id": "engineering-mechanics",
+    "name": "Engineering Mechanics.",
+    "category": "Engineering",
+    "cipCode": "1411"
+  },
+  {
+    "id": "transportation-and-materials-moving-othe",
+    "name": "Transportation and Materials Moving, Other.",
+    "category": "Transportation",
+    "cipCode": "4999"
+  },
+  {
+    "id": "air-force-rotc-air-science-and-operation",
+    "name": "Air Force ROTC, Air Science and Operations.",
+    "category": "Other",
+    "cipCode": "2801"
+  },
+  {
+    "id": "community-environmental-socially-engaged",
+    "name": "Community/Environmental/Socially-Engaged Art.",
+    "category": "Visual & Performing Arts",
+    "cipCode": "5011"
+  },
+  {
+    "id": "energy-systems-engineering",
+    "name": "Energy Systems Engineering.",
+    "category": "Engineering",
+    "cipCode": "1448"
+  },
+  {
+    "id": "economics-and-computer-science",
+    "name": "Economics and Computer Science.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3039"
+  },
+  {
+    "id": "physics-and-astronomy",
+    "name": "Physics and Astronomy.",
+    "category": "Physical Sciences",
+    "cipCode": "4011"
+  },
+  {
+    "id": "army-rotc-military-science-and-operation",
+    "name": "Army ROTC, Military Science and Operations.",
+    "category": "Other",
+    "cipCode": "2803"
+  },
+  {
+    "id": "veterinary-medicine",
+    "name": "Veterinary Medicine.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0180"
+  },
+  {
+    "id": "mining-and-petroleum-technologies-techni",
+    "name": "Mining and Petroleum Technologies/Technicians.",
+    "category": "Engineering Technologies",
+    "cipCode": "1509"
+  },
+  {
+    "id": "basic-skills-and-developmental-remedial-",
+    "name": "Basic Skills and Developmental/Remedial Education.",
+    "category": "Other",
+    "cipCode": "3201"
+  },
+  {
+    "id": "maritime-studies",
+    "name": "Maritime Studies.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3029"
+  },
+  {
+    "id": "iranian-persian-languages-literatures-an",
+    "name": "Iranian/Persian Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1608"
+  },
+  {
+    "id": "high-school-secondary-certificate-progra",
+    "name": "High School/Secondary Certificate Programs.",
+    "category": "Other",
+    "cipCode": "5302"
+  },
+  {
+    "id": "counseling-psychology",
+    "name": "Counseling Psychology.",
+    "category": "Psychology",
+    "cipCode": "4206"
+  },
+  {
+    "id": "african-languages-literatures-and-lingui",
+    "name": "African Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1602"
+  },
+  {
+    "id": "turkic-uralic-altaic-caucasian-and-centr",
+    "name": "Turkic, Uralic-Altaic, Caucasian, and Central Asian Languages, Literatures, and Linguistics.",
+    "category": "Foreign Languages",
+    "cipCode": "1615"
+  },
+  {
+    "id": "high-school-secondary-diploma-programs",
+    "name": "High School/Secondary Diploma Programs.",
+    "category": "Other",
+    "cipCode": "5301"
+  },
+  {
+    "id": "citizenship-activities",
+    "name": "Citizenship Activities.",
+    "category": "Other",
+    "cipCode": "3301"
+  },
+  {
+    "id": "electromechanical-engineering",
+    "name": "Electromechanical Engineering.",
+    "category": "Engineering",
+    "cipCode": "1441"
+  },
+  {
+    "id": "taxation",
+    "name": "Taxation.",
+    "category": "Business",
+    "cipCode": "5216"
+  },
+  {
+    "id": "area-ethnic-cultural-and-gender-studies-",
+    "name": "Area, Ethnic, Cultural, and Gender Studies, Other.",
+    "category": "Area Studies",
+    "cipCode": "0599"
+  },
+  {
+    "id": "modern-greek-language-and-literature",
+    "name": "Modern Greek Language and Literature.",
+    "category": "Foreign Languages",
+    "cipCode": "1606"
+  },
+  {
+    "id": "nuclear-and-industrial-radiologic-techno",
+    "name": "Nuclear and Industrial Radiologic Technologies/Technicians.",
+    "category": "Other",
+    "cipCode": "4102"
+  },
+  {
+    "id": "somatic-bodywork-and-related-therapeutic",
+    "name": "Somatic Bodywork and Related Therapeutic Services.",
+    "category": "Health Professions",
+    "cipCode": "5135"
+  },
+  {
+    "id": "paper-science-and-engineering",
+    "name": "Paper Science and Engineering.",
+    "category": "Engineering",
+    "cipCode": "1440"
+  },
+  {
+    "id": "cultural-studies-and-comparative-literat",
+    "name": "Cultural Studies and Comparative Literature.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3036"
+  },
+  {
+    "id": "military-technologies-and-applied-scienc",
+    "name": "Military Technologies and Applied Sciences, Other.",
+    "category": "Military Technologies",
+    "cipCode": "2999"
+  },
+  {
+    "id": "ceramic-sciences-and-engineering",
+    "name": "Ceramic Sciences and Engineering.",
+    "category": "Engineering",
+    "cipCode": "1406"
+  },
+  {
+    "id": "optometry",
+    "name": "Optometry.",
+    "category": "Health Professions",
+    "cipCode": "5117"
+  },
+  {
+    "id": "religious-institution-administration-and",
+    "name": "Religious Institution Administration and Law.",
+    "category": "Other",
+    "cipCode": "3908"
+  },
+  {
+    "id": "construction-trades-general",
+    "name": "Construction Trades, General.",
+    "category": "Construction Trades",
+    "cipCode": "4600"
+  },
+  {
+    "id": "holocaust-and-related-studies",
+    "name": "Holocaust and Related Studies.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3021"
+  },
+  {
+    "id": "mathematical-economics",
+    "name": "Mathematical Economics.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3049"
+  },
+  {
+    "id": "mechanic-and-repair-technologies-technic",
+    "name": "Mechanic and Repair Technologies/Technicians, Other.",
+    "category": "Mechanic & Repair Technologies",
+    "cipCode": "4799"
+  },
+  {
+    "id": "physical-science-technologies-technician",
+    "name": "Physical Science Technologies/Technicians.",
+    "category": "Other",
+    "cipCode": "4103"
+  },
+  {
+    "id": "veterinary-administrative-services",
+    "name": "Veterinary Administrative Services.",
+    "category": "Agriculture & Natural Resources",
+    "cipCode": "0182"
+  },
+  {
+    "id": "construction-trades-other",
+    "name": "Construction Trades, Other.",
+    "category": "Construction Trades",
+    "cipCode": "4699"
+  },
+  {
+    "id": "nanotechnology",
+    "name": "Nanotechnology.",
+    "category": "Engineering Technologies",
+    "cipCode": "1516"
+  },
+  {
+    "id": "military-science-and-operational-studies",
+    "name": "Military Science and Operational Studies.",
+    "category": "Other",
+    "cipCode": "2805"
+  },
+  {
+    "id": "security-policy-and-strategy",
+    "name": "Security Policy and Strategy.",
+    "category": "Other",
+    "cipCode": "2806"
+  },
+  {
+    "id": "military-technology-and-applied-sciences",
+    "name": "Military Technology and Applied Sciences Management.",
+    "category": "Military Technologies",
+    "cipCode": "2906"
+  },
+  {
+    "id": "forest-engineering",
+    "name": "Forest Engineering.",
+    "category": "Engineering",
+    "cipCode": "1434"
+  },
+  {
+    "id": "creative-writing",
+    "name": "Creative Writing.",
+    "category": "English Language & Literature",
+    "cipCode": "2305"
+  },
+  {
+    "id": "history-and-language-literature",
+    "name": "History and Language/Literature.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3045"
+  },
+  {
+    "id": "energy-and-biologically-based-therapies",
+    "name": "Energy and Biologically Based Therapies.",
+    "category": "Health Professions",
+    "cipCode": "5137"
+  },
+  {
+    "id": "work-and-family-studies",
+    "name": "Work and Family Studies.",
+    "category": "Family & Consumer Sciences",
+    "cipCode": "1910"
+  },
+  {
+    "id": "anthrozoology",
+    "name": "Anthrozoology.",
+    "category": "Interdisciplinary Studies",
+    "cipCode": "3034"
+  },
+  {
+    "id": "alternative-and-complementary-medical-su",
+    "name": "Alternative and Complementary Medical Support Services.",
+    "category": "Health Professions",
+    "cipCode": "5134"
+  },
+  {
+    "id": "interpersonal-and-social-skills",
+    "name": "Interpersonal and Social Skills.",
+    "category": "Other",
+    "cipCode": "3501"
+  },
+  {
+    "id": "dentistry",
+    "name": "Dentistry.",
+    "category": "Health Professions",
+    "cipCode": "5104"
+  },
+  {
+    "id": "medical-clinical-sciences-graduate-medic",
+    "name": "Medical Clinical Sciences/Graduate Medical Studies.",
+    "category": "Health Professions",
+    "cipCode": "5114"
+  },
+  {
+    "id": "library-and-archives-assisting",
+    "name": "Library and Archives Assisting.",
+    "category": "Library Science",
+    "cipCode": "2503"
   }
 ]
-

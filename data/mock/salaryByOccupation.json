@@ -1,0 +1,8312 @@
+[
+  {
+    "code": "11-1011",
+    "title": "Chief Executives",
+    "totalEmployment": 211850,
+    "p10": 73710,
+    "p25": 126080,
+    "p50": 206420,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "11-1021",
+    "title": "General and Operations Managers",
+    "totalEmployment": 3584420,
+    "p10": 47420,
+    "p25": 67160,
+    "p50": 102950,
+    "p75": 164130,
+    "p90": null
+  },
+  {
+    "code": "11-1031",
+    "title": "Legislators",
+    "totalEmployment": 26510,
+    "p10": 20380,
+    "p25": 29120,
+    "p50": 44810,
+    "p75": 80350,
+    "p90": 137820
+  },
+  {
+    "code": "11-2011",
+    "title": "Advertising and Promotions Managers",
+    "totalEmployment": 21100,
+    "p10": 63000,
+    "p25": 85990,
+    "p50": 126960,
+    "p75": 178570,
+    "p90": null
+  },
+  {
+    "code": "11-2021",
+    "title": "Marketing Managers",
+    "totalEmployment": 384980,
+    "p10": 81900,
+    "p25": 111210,
+    "p50": 161030,
+    "p75": 211080,
+    "p90": null
+  },
+  {
+    "code": "11-2022",
+    "title": "Sales Managers",
+    "totalEmployment": 603710,
+    "p10": 66910,
+    "p25": 95910,
+    "p50": 138060,
+    "p75": 201490,
+    "p90": null
+  },
+  {
+    "code": "11-2032",
+    "title": "Public Relations Managers",
+    "totalEmployment": 76060,
+    "p10": 78880,
+    "p25": 102300,
+    "p50": 138520,
+    "p75": 198000,
+    "p90": null
+  },
+  {
+    "code": "11-2033",
+    "title": "Fundraising Managers",
+    "totalEmployment": 36920,
+    "p10": 73700,
+    "p25": 92880,
+    "p50": 123480,
+    "p75": 166420,
+    "p90": 216660
+  },
+  {
+    "code": "11-3012",
+    "title": "Administrative Services Managers",
+    "totalEmployment": 254140,
+    "p10": 64740,
+    "p25": 83660,
+    "p50": 108390,
+    "p75": 147150,
+    "p90": 200010
+  },
+  {
+    "code": "11-3013",
+    "title": "Facilities Managers",
+    "totalEmployment": 141090,
+    "p10": 62550,
+    "p25": 80150,
+    "p50": 104690,
+    "p75": 135650,
+    "p90": 173080
+  },
+  {
+    "code": "11-3021",
+    "title": "Computer and Information Systems Managers",
+    "totalEmployment": 645970,
+    "p10": 104450,
+    "p25": 134350,
+    "p50": 171200,
+    "p75": 216220,
+    "p90": null
+  },
+  {
+    "code": "11-3031",
+    "title": "Financial Managers",
+    "totalEmployment": 818620,
+    "p10": 86490,
+    "p25": 118360,
+    "p50": 161700,
+    "p75": 214210,
+    "p90": null
+  },
+  {
+    "code": "11-3051",
+    "title": "Industrial Production Managers",
+    "totalEmployment": 234380,
+    "p10": 74900,
+    "p25": 94620,
+    "p50": 121440,
+    "p75": 156330,
+    "p90": 197310
+  },
+  {
+    "code": "11-3061",
+    "title": "Purchasing Managers",
+    "totalEmployment": 81240,
+    "p10": 85500,
+    "p25": 107430,
+    "p50": 139510,
+    "p75": 175460,
+    "p90": 219140
+  },
+  {
+    "code": "11-3071",
+    "title": "Transportation, Storage, and Distribution Managers",
+    "totalEmployment": 213000,
+    "p10": 61200,
+    "p25": 78360,
+    "p50": 102010,
+    "p75": 136050,
+    "p90": 180590
+  },
+  {
+    "code": "11-3111",
+    "title": "Compensation and Benefits Managers",
+    "totalEmployment": 20070,
+    "p10": 81660,
+    "p25": 105210,
+    "p50": 140360,
+    "p75": 190890,
+    "p90": null
+  },
+  {
+    "code": "11-3121",
+    "title": "Human Resources Managers",
+    "totalEmployment": 215520,
+    "p10": 83790,
+    "p25": 105590,
+    "p50": 140030,
+    "p75": 189960,
+    "p90": null
+  },
+  {
+    "code": "11-3131",
+    "title": "Training and Development Managers",
+    "totalEmployment": 44960,
+    "p10": 75810,
+    "p25": 96110,
+    "p50": 127090,
+    "p75": 169310,
+    "p90": 219990
+  },
+  {
+    "code": "11-9013",
+    "title": "Farmers, Ranchers, and Other Agricultural Managers",
+    "totalEmployment": 5910,
+    "p10": 51700,
+    "p25": 67970,
+    "p50": 87980,
+    "p75": 115200,
+    "p90": 156530
+  },
+  {
+    "code": "11-9021",
+    "title": "Construction Managers",
+    "totalEmployment": 348330,
+    "p10": 65160,
+    "p25": 83480,
+    "p50": 106980,
+    "p75": 139330,
+    "p90": 176990
+  },
+  {
+    "code": "11-9031",
+    "title": "Education and Childcare Administrators, Preschool and Daycare",
+    "totalEmployment": 71620,
+    "p10": 37060,
+    "p25": 45310,
+    "p50": 56270,
+    "p75": 72690,
+    "p90": 96400
+  },
+  {
+    "code": "11-9032",
+    "title": "Education Administrators, Kindergarten through Secondary",
+    "totalEmployment": 319630,
+    "p10": 72400,
+    "p25": 83840,
+    "p50": 104070,
+    "p75": 132550,
+    "p90": 165820
+  },
+  {
+    "code": "11-9033",
+    "title": "Education Administrators, Postsecondary",
+    "totalEmployment": 176420,
+    "p10": 63820,
+    "p25": 79880,
+    "p50": 103960,
+    "p75": 140940,
+    "p90": 212420
+  },
+  {
+    "code": "11-9039",
+    "title": "Education Administrators, All Other",
+    "totalEmployment": 53330,
+    "p10": 49490,
+    "p25": 65180,
+    "p50": 89040,
+    "p75": 121720,
+    "p90": 158050
+  },
+  {
+    "code": "11-9041",
+    "title": "Architectural and Engineering Managers",
+    "totalEmployment": 210340,
+    "p10": 111450,
+    "p25": 134930,
+    "p50": 167740,
+    "p75": 207210,
+    "p90": null
+  },
+  {
+    "code": "11-9051",
+    "title": "Food Service Managers",
+    "totalEmployment": 244230,
+    "p10": 42380,
+    "p25": 53090,
+    "p50": 65310,
+    "p75": 82300,
+    "p90": 105420
+  },
+  {
+    "code": "11-9071",
+    "title": "Gambling Managers",
+    "totalEmployment": 4620,
+    "p10": 51670,
+    "p25": 70190,
+    "p50": 85580,
+    "p75": 120490,
+    "p90": 165220
+  },
+  {
+    "code": "11-9072",
+    "title": "Entertainment and Recreation Managers, Except Gambling",
+    "totalEmployment": 36700,
+    "p10": 45320,
+    "p25": 58380,
+    "p50": 77180,
+    "p75": 101750,
+    "p90": 134680
+  },
+  {
+    "code": "11-9081",
+    "title": "Lodging Managers",
+    "totalEmployment": 41350,
+    "p10": 39490,
+    "p25": 50040,
+    "p50": 68130,
+    "p75": 90670,
+    "p90": 126990
+  },
+  {
+    "code": "11-9111",
+    "title": "Medical and Health Services Managers",
+    "totalEmployment": 565840,
+    "p10": 69680,
+    "p25": 88560,
+    "p50": 117960,
+    "p75": 162420,
+    "p90": 219080
+  },
+  {
+    "code": "11-9121",
+    "title": "Natural Sciences Managers",
+    "totalEmployment": 100870,
+    "p10": 79830,
+    "p25": 114110,
+    "p50": 161180,
+    "p75": 214820,
+    "p90": null
+  },
+  {
+    "code": "11-9131",
+    "title": "Postmasters and Mail Superintendents",
+    "totalEmployment": 13810,
+    "p10": 81430,
+    "p25": 87150,
+    "p50": 92730,
+    "p75": 99590,
+    "p90": 109140
+  },
+  {
+    "code": "11-9141",
+    "title": "Property, Real Estate, and Community Association Managers",
+    "totalEmployment": 296640,
+    "p10": 39360,
+    "p25": 49530,
+    "p50": 66700,
+    "p75": 95760,
+    "p90": 141040
+  },
+  {
+    "code": "11-9151",
+    "title": "Social and Community Service Managers",
+    "totalEmployment": 195490,
+    "p10": 50020,
+    "p25": 62420,
+    "p50": 78240,
+    "p75": 100600,
+    "p90": 129820
+  },
+  {
+    "code": "11-9161",
+    "title": "Emergency Management Directors",
+    "totalEmployment": 12570,
+    "p10": 51260,
+    "p25": 64470,
+    "p50": 86130,
+    "p75": 119690,
+    "p90": 160420
+  },
+  {
+    "code": "11-9171",
+    "title": "Funeral Home Managers",
+    "totalEmployment": 13120,
+    "p10": 45820,
+    "p25": 59780,
+    "p50": 76830,
+    "p75": 99330,
+    "p90": 132470
+  },
+  {
+    "code": "11-9179",
+    "title": "Personal Service Managers, All Other",
+    "totalEmployment": 10490,
+    "p10": 36880,
+    "p25": 47670,
+    "p50": 61340,
+    "p75": 82890,
+    "p90": 111130
+  },
+  {
+    "code": "11-9199",
+    "title": "Managers, All Other",
+    "totalEmployment": 630980,
+    "p10": 68860,
+    "p25": 100010,
+    "p50": 136550,
+    "p75": 179190,
+    "p90": 227590
+  },
+  {
+    "code": "13-1011",
+    "title": "Agents and Business Managers of Artists, Performers, and Athletes",
+    "totalEmployment": 14220,
+    "p10": 48530,
+    "p25": 63100,
+    "p50": 96310,
+    "p75": 168850,
+    "p90": null
+  },
+  {
+    "code": "13-1020",
+    "title": "Buyers and Purchasing Agents",
+    "totalEmployment": 486900,
+    "p10": 46460,
+    "p25": 58670,
+    "p50": 75650,
+    "p75": 99190,
+    "p90": 127520
+  },
+  {
+    "code": "13-1031",
+    "title": "Claims Adjusters, Examiners, and Investigators",
+    "totalEmployment": 305020,
+    "p10": 47810,
+    "p25": 60100,
+    "p50": 76790,
+    "p75": 95990,
+    "p90": 112150
+  },
+  {
+    "code": "13-1032",
+    "title": "Insurance Appraisers, Auto Damage",
+    "totalEmployment": 7790,
+    "p10": 56690,
+    "p25": 64280,
+    "p50": 76650,
+    "p75": 86430,
+    "p90": 101800
+  },
+  {
+    "code": "13-1041",
+    "title": "Compliance Officers",
+    "totalEmployment": 397770,
+    "p10": 46230,
+    "p25": 59130,
+    "p50": 78420,
+    "p75": 104800,
+    "p90": 130030
+  },
+  {
+    "code": "13-1051",
+    "title": "Cost Estimators",
+    "totalEmployment": 219530,
+    "p10": 46330,
+    "p25": 59830,
+    "p50": 77070,
+    "p75": 99630,
+    "p90": 128640
+  },
+  {
+    "code": "13-1071",
+    "title": "Human Resources Specialists",
+    "totalEmployment": 917460,
+    "p10": 45440,
+    "p25": 55870,
+    "p50": 72910,
+    "p75": 97270,
+    "p90": 126540
+  },
+  {
+    "code": "13-1074",
+    "title": "Farm Labor Contractors",
+    "totalEmployment": 410,
+    "p10": 29800,
+    "p25": 32860,
+    "p50": 48690,
+    "p75": 58250,
+    "p90": 86860
+  },
+  {
+    "code": "13-1075",
+    "title": "Labor Relations Specialists",
+    "totalEmployment": 64590,
+    "p10": 49880,
+    "p25": 67670,
+    "p50": 93500,
+    "p75": 123090,
+    "p90": 153440
+  },
+  {
+    "code": "13-1081",
+    "title": "Logisticians",
+    "totalEmployment": 235640,
+    "p10": 49260,
+    "p25": 62920,
+    "p50": 80880,
+    "p75": 104330,
+    "p90": 132110
+  },
+  {
+    "code": "13-1082",
+    "title": "Project Management Specialists",
+    "totalEmployment": 1006160,
+    "p10": 59830,
+    "p25": 76950,
+    "p50": 100750,
+    "p75": 131660,
+    "p90": 165790
+  },
+  {
+    "code": "13-1111",
+    "title": "Management Analysts",
+    "totalEmployment": 893900,
+    "p10": 59720,
+    "p25": 76770,
+    "p50": 101190,
+    "p75": 133140,
+    "p90": 174140
+  },
+  {
+    "code": "13-1121",
+    "title": "Meeting, Convention, and Event Planners",
+    "totalEmployment": 134670,
+    "p10": 35990,
+    "p25": 45610,
+    "p50": 59440,
+    "p75": 77150,
+    "p90": 101310
+  },
+  {
+    "code": "13-1131",
+    "title": "Fundraisers",
+    "totalEmployment": 105930,
+    "p10": 43200,
+    "p25": 52590,
+    "p50": 66490,
+    "p75": 85280,
+    "p90": 106960
+  },
+  {
+    "code": "13-1141",
+    "title": "Compensation, Benefits, and Job Analysis Specialists",
+    "totalEmployment": 102370,
+    "p10": 48300,
+    "p25": 59700,
+    "p50": 77020,
+    "p75": 99210,
+    "p90": 128830
+  },
+  {
+    "code": "13-1151",
+    "title": "Training and Development Specialists",
+    "totalEmployment": 436610,
+    "p10": 37510,
+    "p25": 48900,
+    "p50": 65850,
+    "p75": 91550,
+    "p90": 120190
+  },
+  {
+    "code": "13-1161",
+    "title": "Market Research Analysts and Marketing Specialists",
+    "totalEmployment": 861140,
+    "p10": 42070,
+    "p25": 56220,
+    "p50": 76950,
+    "p75": 104870,
+    "p90": 144610
+  },
+  {
+    "code": "13-1199",
+    "title": "Business Operations Specialists, All Other",
+    "totalEmployment": 1128200,
+    "p10": 46230,
+    "p25": 60820,
+    "p50": 81270,
+    "p75": 110030,
+    "p90": 147830
+  },
+  {
+    "code": "13-2011",
+    "title": "Accountants and Auditors",
+    "totalEmployment": 1448290,
+    "p10": 52780,
+    "p25": 64660,
+    "p50": 81680,
+    "p75": 106450,
+    "p90": 141420
+  },
+  {
+    "code": "13-2020",
+    "title": "Property Appraisers and Assessors",
+    "totalEmployment": 59070,
+    "p10": 38480,
+    "p25": 49310,
+    "p50": 65420,
+    "p75": 90810,
+    "p90": 122760
+  },
+  {
+    "code": "13-2031",
+    "title": "Budget Analysts",
+    "totalEmployment": 47170,
+    "p10": 60510,
+    "p25": 72240,
+    "p50": 87930,
+    "p75": 110380,
+    "p90": 134640
+  },
+  {
+    "code": "13-2041",
+    "title": "Credit Analysts",
+    "totalEmployment": 67370,
+    "p10": 52930,
+    "p25": 63850,
+    "p50": 80970,
+    "p75": 113850,
+    "p90": 168840
+  },
+  {
+    "code": "13-2051",
+    "title": "Financial and Investment Analysts",
+    "totalEmployment": 340580,
+    "p10": 62410,
+    "p25": 78300,
+    "p50": 101350,
+    "p75": 132050,
+    "p90": 180550
+  },
+  {
+    "code": "13-2052",
+    "title": "Personal Financial Advisors",
+    "totalEmployment": 270480,
+    "p10": 49990,
+    "p25": 70620,
+    "p50": 102140,
+    "p75": 172540,
+    "p90": null
+  },
+  {
+    "code": "13-2053",
+    "title": "Insurance Underwriters",
+    "totalEmployment": 107820,
+    "p10": 51640,
+    "p25": 63070,
+    "p50": 79880,
+    "p75": 104820,
+    "p90": 138020
+  },
+  {
+    "code": "13-2054",
+    "title": "Financial Risk Specialists",
+    "totalEmployment": 56320,
+    "p10": 62270,
+    "p25": 80280,
+    "p50": 106000,
+    "p75": 145020,
+    "p90": 182310
+  },
+  {
+    "code": "13-2061",
+    "title": "Financial Examiners",
+    "totalEmployment": 62830,
+    "p10": 53420,
+    "p25": 66800,
+    "p50": 90400,
+    "p75": 127210,
+    "p90": 171540
+  },
+  {
+    "code": "13-2071",
+    "title": "Credit Counselors",
+    "totalEmployment": 28110,
+    "p10": 38980,
+    "p25": 45420,
+    "p50": 50480,
+    "p75": 61760,
+    "p90": 77920
+  },
+  {
+    "code": "13-2072",
+    "title": "Loan Officers",
+    "totalEmployment": 290530,
+    "p10": 38490,
+    "p25": 50460,
+    "p50": 74180,
+    "p75": 101920,
+    "p90": 145780
+  },
+  {
+    "code": "13-2081",
+    "title": "Tax Examiners and Collectors, and Revenue Agents",
+    "totalEmployment": 53530,
+    "p10": 40020,
+    "p25": 46820,
+    "p50": 59740,
+    "p75": 79330,
+    "p90": 110300
+  },
+  {
+    "code": "13-2082",
+    "title": "Tax Preparers",
+    "totalEmployment": 73570,
+    "p10": 30500,
+    "p25": 37750,
+    "p50": 50560,
+    "p75": 75590,
+    "p90": 96240
+  },
+  {
+    "code": "13-2099",
+    "title": "Financial Specialists, All Other",
+    "totalEmployment": 127450,
+    "p10": 46420,
+    "p25": 60140,
+    "p50": 80190,
+    "p75": 109120,
+    "p90": 151780
+  },
+  {
+    "code": "15-1211",
+    "title": "Computer Systems Analysts",
+    "totalEmployment": 497800,
+    "p10": 63160,
+    "p25": 80900,
+    "p50": 103790,
+    "p75": 132360,
+    "p90": 166030
+  },
+  {
+    "code": "15-1212",
+    "title": "Information Security Analysts",
+    "totalEmployment": 179430,
+    "p10": 69660,
+    "p25": 92160,
+    "p50": 124910,
+    "p75": 159600,
+    "p90": 186420
+  },
+  {
+    "code": "15-1221",
+    "title": "Computer and Information Research Scientists",
+    "totalEmployment": 38480,
+    "p10": 80670,
+    "p25": 102710,
+    "p50": 140910,
+    "p75": 181210,
+    "p90": 232120
+  },
+  {
+    "code": "15-1231",
+    "title": "Computer Network Support Specialists",
+    "totalEmployment": 146450,
+    "p10": 46010,
+    "p25": 56720,
+    "p50": 73340,
+    "p75": 95710,
+    "p90": 124470
+  },
+  {
+    "code": "15-1232",
+    "title": "Computer User Support Specialists",
+    "totalEmployment": 697210,
+    "p10": 38780,
+    "p25": 47580,
+    "p50": 60340,
+    "p75": 77010,
+    "p90": 98010
+  },
+  {
+    "code": "15-1241",
+    "title": "Computer Network Architects",
+    "totalEmployment": 177010,
+    "p10": 79520,
+    "p25": 102120,
+    "p50": 130390,
+    "p75": 164440,
+    "p90": 198030
+  },
+  {
+    "code": "15-1242",
+    "title": "Database Administrators",
+    "totalEmployment": 73180,
+    "p10": 56820,
+    "p25": 76100,
+    "p50": 104620,
+    "p75": 132850,
+    "p90": 160890
+  },
+  {
+    "code": "15-1243",
+    "title": "Database Architects",
+    "totalEmployment": 64770,
+    "p10": 81630,
+    "p25": 107900,
+    "p50": 135980,
+    "p75": 169480,
+    "p90": 209990
+  },
+  {
+    "code": "15-1244",
+    "title": "Network and Computer Systems Administrators",
+    "totalEmployment": 318570,
+    "p10": 60320,
+    "p25": 75860,
+    "p50": 96800,
+    "p75": 123390,
+    "p90": 150320
+  },
+  {
+    "code": "15-1251",
+    "title": "Computer Programmers",
+    "totalEmployment": 109870,
+    "p10": 52190,
+    "p25": 71860,
+    "p50": 98670,
+    "p75": 128960,
+    "p90": 162090
+  },
+  {
+    "code": "15-1252",
+    "title": "Software Developers",
+    "totalEmployment": 1654440,
+    "p10": 79850,
+    "p25": 103050,
+    "p50": 133080,
+    "p75": 169000,
+    "p90": 211450
+  },
+  {
+    "code": "15-1253",
+    "title": "Software Quality Assurance Analysts and Testers",
+    "totalEmployment": 199800,
+    "p10": 60690,
+    "p25": 79520,
+    "p50": 102610,
+    "p75": 131870,
+    "p90": 166960
+  },
+  {
+    "code": "15-1254",
+    "title": "Web Developers",
+    "totalEmployment": 78860,
+    "p10": 48560,
+    "p25": 63140,
+    "p50": 90930,
+    "p75": 124300,
+    "p90": 162870
+  },
+  {
+    "code": "15-1255",
+    "title": "Web and Digital Interface Designers",
+    "totalEmployment": 111400,
+    "p10": 47840,
+    "p25": 64990,
+    "p50": 98090,
+    "p75": 141860,
+    "p90": 192180
+  },
+  {
+    "code": "15-1299",
+    "title": "Computer Occupations, All Other",
+    "totalEmployment": 439380,
+    "p10": 52650,
+    "p25": 76360,
+    "p50": 108970,
+    "p75": 147530,
+    "p90": 176800
+  },
+  {
+    "code": "15-2011",
+    "title": "Actuaries",
+    "totalEmployment": 28340,
+    "p10": 75240,
+    "p25": 90970,
+    "p50": 125770,
+    "p75": 164860,
+    "p90": 206430
+  },
+  {
+    "code": "15-2021",
+    "title": "Mathematicians",
+    "totalEmployment": 2220,
+    "p10": 63430,
+    "p25": 85720,
+    "p50": 121680,
+    "p75": 153340,
+    "p90": 187660
+  },
+  {
+    "code": "15-2031",
+    "title": "Operations Research Analysts",
+    "totalEmployment": 107760,
+    "p10": 53910,
+    "p25": 66910,
+    "p50": 91290,
+    "p75": 124120,
+    "p90": 159280
+  },
+  {
+    "code": "15-2041",
+    "title": "Statisticians",
+    "totalEmployment": 29800,
+    "p10": 60390,
+    "p25": 79210,
+    "p50": 103300,
+    "p75": 137610,
+    "p90": 170700
+  },
+  {
+    "code": "15-2051",
+    "title": "Data Scientists",
+    "totalEmployment": 233440,
+    "p10": 63650,
+    "p25": 82630,
+    "p50": 112590,
+    "p75": 155810,
+    "p90": 194410
+  },
+  {
+    "code": "15-2099",
+    "title": "Mathematical Science Occupations, All Other",
+    "totalEmployment": 4660,
+    "p10": 40330,
+    "p25": 52440,
+    "p50": 71490,
+    "p75": 101920,
+    "p90": 154140
+  },
+  {
+    "code": "17-1011",
+    "title": "Architects, Except Landscape and Naval",
+    "totalEmployment": 111140,
+    "p10": 60510,
+    "p25": 76110,
+    "p50": 96690,
+    "p75": 123300,
+    "p90": 159800
+  },
+  {
+    "code": "17-1012",
+    "title": "Landscape Architects",
+    "totalEmployment": 19580,
+    "p10": 51990,
+    "p25": 62650,
+    "p50": 79660,
+    "p75": 101580,
+    "p90": 132250
+  },
+  {
+    "code": "17-1021",
+    "title": "Cartographers and Photogrammetrists",
+    "totalEmployment": 12790,
+    "p10": 50500,
+    "p25": 62860,
+    "p50": 78380,
+    "p75": 99650,
+    "p90": 121440
+  },
+  {
+    "code": "17-1022",
+    "title": "Surveyors",
+    "totalEmployment": 53080,
+    "p10": 43680,
+    "p25": 53590,
+    "p50": 72740,
+    "p75": 94550,
+    "p90": 116330
+  },
+  {
+    "code": "17-2011",
+    "title": "Aerospace Engineers",
+    "totalEmployment": 68440,
+    "p10": 85350,
+    "p25": 104740,
+    "p50": 134830,
+    "p75": 174480,
+    "p90": 205850
+  },
+  {
+    "code": "17-2021",
+    "title": "Agricultural Engineers",
+    "totalEmployment": 1680,
+    "p10": 43020,
+    "p25": 49930,
+    "p50": 84630,
+    "p75": 103940,
+    "p90": 132700
+  },
+  {
+    "code": "17-2031",
+    "title": "Bioengineers and Biomedical Engineers",
+    "totalEmployment": 21860,
+    "p10": 71860,
+    "p25": 86630,
+    "p50": 106950,
+    "p75": 133570,
+    "p90": 165060
+  },
+  {
+    "code": "17-2041",
+    "title": "Chemical Engineers",
+    "totalEmployment": 20330,
+    "p10": 78520,
+    "p25": 96040,
+    "p50": 121860,
+    "p75": 152290,
+    "p90": 182150
+  },
+  {
+    "code": "17-2051",
+    "title": "Civil Engineers",
+    "totalEmployment": 355410,
+    "p10": 65920,
+    "p25": 78790,
+    "p50": 99590,
+    "p75": 128290,
+    "p90": 160990
+  },
+  {
+    "code": "17-2061",
+    "title": "Computer Hardware Engineers",
+    "totalEmployment": 75710,
+    "p10": 85430,
+    "p25": 115500,
+    "p50": 155020,
+    "p75": 185380,
+    "p90": 223820
+  },
+  {
+    "code": "17-2071",
+    "title": "Electrical Engineers",
+    "totalEmployment": 188790,
+    "p10": 74670,
+    "p25": 87590,
+    "p50": 111910,
+    "p75": 141630,
+    "p90": 175460
+  },
+  {
+    "code": "17-2072",
+    "title": "Electronics Engineers, Except Computer",
+    "totalEmployment": 93940,
+    "p10": 79390,
+    "p25": 98920,
+    "p50": 127590,
+    "p75": 164000,
+    "p90": 199060
+  },
+  {
+    "code": "17-2081",
+    "title": "Environmental Engineers",
+    "totalEmployment": 37950,
+    "p10": 64950,
+    "p25": 80510,
+    "p50": 104170,
+    "p75": 130830,
+    "p90": 161910
+  },
+  {
+    "code": "17-2111",
+    "title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+    "totalEmployment": 23220,
+    "p10": 62050,
+    "p25": 85400,
+    "p50": 109660,
+    "p75": 136150,
+    "p90": 166670
+  },
+  {
+    "code": "17-2112",
+    "title": "Industrial Engineers",
+    "totalEmployment": 350230,
+    "p10": 70000,
+    "p25": 81910,
+    "p50": 101140,
+    "p75": 127480,
+    "p90": 157140
+  },
+  {
+    "code": "17-2121",
+    "title": "Marine Engineers and Naval Architects",
+    "totalEmployment": 8440,
+    "p10": 79700,
+    "p25": 88480,
+    "p50": 105670,
+    "p75": 133780,
+    "p90": 167660
+  },
+  {
+    "code": "17-2131",
+    "title": "Materials Engineers",
+    "totalEmployment": 22770,
+    "p10": 68040,
+    "p25": 85820,
+    "p50": 108310,
+    "p75": 138370,
+    "p90": 172000
+  },
+  {
+    "code": "17-2141",
+    "title": "Mechanical Engineers",
+    "totalEmployment": 286760,
+    "p10": 68740,
+    "p25": 81800,
+    "p50": 102320,
+    "p75": 130290,
+    "p90": 161240
+  },
+  {
+    "code": "17-2151",
+    "title": "Mining and Geological Engineers, Including Mining Safety Engineers",
+    "totalEmployment": 6770,
+    "p10": 62500,
+    "p25": 81040,
+    "p50": 101020,
+    "p75": 129860,
+    "p90": 163740
+  },
+  {
+    "code": "17-2161",
+    "title": "Nuclear Engineers",
+    "totalEmployment": 14740,
+    "p10": 88290,
+    "p25": 103010,
+    "p50": 127520,
+    "p75": 157600,
+    "p90": 187430
+  },
+  {
+    "code": "17-2171",
+    "title": "Petroleum Engineers",
+    "totalEmployment": 18970,
+    "p10": 78840,
+    "p25": 107330,
+    "p50": 141280,
+    "p75": 191100,
+    "p90": 228790
+  },
+  {
+    "code": "17-2199",
+    "title": "Engineers, All Other",
+    "totalEmployment": 150750,
+    "p10": 62840,
+    "p25": 85750,
+    "p50": 117750,
+    "p75": 152670,
+    "p90": 183510
+  },
+  {
+    "code": "17-3011",
+    "title": "Architectural and Civil Drafters",
+    "totalEmployment": 109550,
+    "p10": 44040,
+    "p25": 52880,
+    "p50": 64280,
+    "p75": 79510,
+    "p90": 98190
+  },
+  {
+    "code": "17-3012",
+    "title": "Electrical and Electronics Drafters",
+    "totalEmployment": 20020,
+    "p10": 48680,
+    "p25": 58800,
+    "p50": 73720,
+    "p75": 91780,
+    "p90": 110180
+  },
+  {
+    "code": "17-3013",
+    "title": "Mechanical Drafters",
+    "totalEmployment": 39900,
+    "p10": 46500,
+    "p25": 56470,
+    "p50": 68510,
+    "p75": 85580,
+    "p90": 107600
+  },
+  {
+    "code": "17-3019",
+    "title": "Drafters, All Other",
+    "totalEmployment": 16010,
+    "p10": 42170,
+    "p25": 50970,
+    "p50": 62010,
+    "p75": 77750,
+    "p90": 96620
+  },
+  {
+    "code": "17-3021",
+    "title": "Aerospace Engineering and Operations Technologists and Technicians",
+    "totalEmployment": 9060,
+    "p10": 53730,
+    "p25": 64570,
+    "p50": 79830,
+    "p75": 102220,
+    "p90": 120440
+  },
+  {
+    "code": "17-3022",
+    "title": "Civil Engineering Technologists and Technicians",
+    "totalEmployment": 62130,
+    "p10": 43550,
+    "p25": 51730,
+    "p50": 64200,
+    "p75": 79550,
+    "p90": 97840
+  },
+  {
+    "code": "17-3023",
+    "title": "Electrical and Electronic Engineering Technologists and Technicians",
+    "totalEmployment": 92710,
+    "p10": 48250,
+    "p25": 60610,
+    "p50": 77180,
+    "p75": 94810,
+    "p90": 111790
+  },
+  {
+    "code": "17-3024",
+    "title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+    "totalEmployment": 14680,
+    "p10": 47770,
+    "p25": 58570,
+    "p50": 70760,
+    "p75": 87320,
+    "p90": 109580
+  },
+  {
+    "code": "17-3025",
+    "title": "Environmental Engineering Technologists and Technicians",
+    "totalEmployment": 12500,
+    "p10": 39670,
+    "p25": 48250,
+    "p50": 58890,
+    "p75": 75290,
+    "p90": 92280
+  },
+  {
+    "code": "17-3026",
+    "title": "Industrial Engineering Technologists and Technicians",
+    "totalEmployment": 73410,
+    "p10": 46370,
+    "p25": 53230,
+    "p50": 64790,
+    "p75": 79040,
+    "p90": 97670
+  },
+  {
+    "code": "17-3027",
+    "title": "Mechanical Engineering Technologists and Technicians",
+    "totalEmployment": 37450,
+    "p10": 46940,
+    "p25": 57330,
+    "p50": 68730,
+    "p75": 82980,
+    "p90": 100890
+  },
+  {
+    "code": "17-3028",
+    "title": "Calibration Technologists and Technicians",
+    "totalEmployment": 15320,
+    "p10": 44730,
+    "p25": 52250,
+    "p50": 65040,
+    "p75": 83600,
+    "p90": 105440
+  },
+  {
+    "code": "17-3029",
+    "title": "Engineering Technologists and Technicians, Except Drafters, All Other",
+    "totalEmployment": 64410,
+    "p10": 47010,
+    "p25": 59700,
+    "p50": 77390,
+    "p75": 97760,
+    "p90": 114630
+  },
+  {
+    "code": "17-3031",
+    "title": "Surveying and Mapping Technicians",
+    "totalEmployment": 56720,
+    "p10": 36910,
+    "p25": 44180,
+    "p50": 51940,
+    "p75": 65240,
+    "p90": 80870
+  },
+  {
+    "code": "19-1011",
+    "title": "Animal Scientists",
+    "totalEmployment": 2470,
+    "p10": 48440,
+    "p25": 59610,
+    "p50": 79120,
+    "p75": 128450,
+    "p90": 235750
+  },
+  {
+    "code": "19-1012",
+    "title": "Food Scientists and Technologists",
+    "totalEmployment": 14370,
+    "p10": 49580,
+    "p25": 65240,
+    "p50": 85310,
+    "p75": 111700,
+    "p90": 141860
+  },
+  {
+    "code": "19-1013",
+    "title": "Soil and Plant Scientists",
+    "totalEmployment": 16600,
+    "p10": 45320,
+    "p25": 57950,
+    "p50": 71410,
+    "p75": 98110,
+    "p90": 131440
+  },
+  {
+    "code": "19-1021",
+    "title": "Biochemists and Biophysicists",
+    "totalEmployment": 34520,
+    "p10": 64890,
+    "p25": 78730,
+    "p50": 103650,
+    "p75": 134460,
+    "p90": 168900
+  },
+  {
+    "code": "19-1022",
+    "title": "Microbiologists",
+    "totalEmployment": 19760,
+    "p10": 51220,
+    "p25": 63920,
+    "p50": 87330,
+    "p75": 120750,
+    "p90": 150650
+  },
+  {
+    "code": "19-1023",
+    "title": "Zoologists and Wildlife Biologists",
+    "totalEmployment": 16920,
+    "p10": 48240,
+    "p25": 58360,
+    "p50": 72860,
+    "p75": 90590,
+    "p90": 113350
+  },
+  {
+    "code": "19-1029",
+    "title": "Biological Scientists, All Other",
+    "totalEmployment": 59710,
+    "p10": 54500,
+    "p25": 67950,
+    "p50": 93330,
+    "p75": 121350,
+    "p90": 159780
+  },
+  {
+    "code": "19-1031",
+    "title": "Conservation Scientists",
+    "totalEmployment": 25590,
+    "p10": 45260,
+    "p25": 53190,
+    "p50": 67950,
+    "p75": 87980,
+    "p90": 107720
+  },
+  {
+    "code": "19-1032",
+    "title": "Foresters",
+    "totalEmployment": 9650,
+    "p10": 49240,
+    "p25": 58810,
+    "p50": 70660,
+    "p75": 85450,
+    "p90": 103220
+  },
+  {
+    "code": "19-1041",
+    "title": "Epidemiologists",
+    "totalEmployment": 11460,
+    "p10": 56950,
+    "p25": 68040,
+    "p50": 83980,
+    "p75": 106040,
+    "p90": 134860
+  },
+  {
+    "code": "19-1042",
+    "title": "Medical Scientists, Except Epidemiologists",
+    "totalEmployment": 156300,
+    "p10": 61860,
+    "p25": 77260,
+    "p50": 100590,
+    "p75": 133870,
+    "p90": 168210
+  },
+  {
+    "code": "19-1099",
+    "title": "Life Scientists, All Other",
+    "totalEmployment": 7320,
+    "p10": 52360,
+    "p25": 66340,
+    "p50": 87800,
+    "p75": 123720,
+    "p90": 168860
+  },
+  {
+    "code": "19-2011",
+    "title": "Astronomers",
+    "totalEmployment": 1560,
+    "p10": 70730,
+    "p25": 94990,
+    "p50": 132170,
+    "p75": 177690,
+    "p90": 191880
+  },
+  {
+    "code": "19-2012",
+    "title": "Physicists",
+    "totalEmployment": 21340,
+    "p10": 80020,
+    "p25": 117450,
+    "p50": 166290,
+    "p75": 210260,
+    "p90": null
+  },
+  {
+    "code": "19-2021",
+    "title": "Atmospheric and Space Scientists",
+    "totalEmployment": 8780,
+    "p10": 49990,
+    "p25": 69440,
+    "p50": 97450,
+    "p75": 128940,
+    "p90": 160710
+  },
+  {
+    "code": "19-2031",
+    "title": "Chemists",
+    "totalEmployment": 83250,
+    "p10": 53210,
+    "p25": 63930,
+    "p50": 84150,
+    "p75": 120210,
+    "p90": 154430
+  },
+  {
+    "code": "19-2032",
+    "title": "Materials Scientists",
+    "totalEmployment": 8330,
+    "p10": 61460,
+    "p25": 79980,
+    "p50": 104160,
+    "p75": 134140,
+    "p90": 168500
+  },
+  {
+    "code": "19-2041",
+    "title": "Environmental Scientists and Specialists, Including Health",
+    "totalEmployment": 84930,
+    "p10": 50130,
+    "p25": 62090,
+    "p50": 80060,
+    "p75": 103730,
+    "p90": 134830
+  },
+  {
+    "code": "19-2042",
+    "title": "Geoscientists, Except Hydrologists and Geographers",
+    "totalEmployment": 22510,
+    "p10": 58790,
+    "p25": 72440,
+    "p50": 99240,
+    "p75": 134350,
+    "p90": 178880
+  },
+  {
+    "code": "19-2043",
+    "title": "Hydrologists",
+    "totalEmployment": 5720,
+    "p10": 60010,
+    "p25": 73330,
+    "p50": 92060,
+    "p75": 114940,
+    "p90": 139420
+  },
+  {
+    "code": "19-2099",
+    "title": "Physical Scientists, All Other",
+    "totalEmployment": 22580,
+    "p10": 61990,
+    "p25": 82450,
+    "p50": 117960,
+    "p75": 154900,
+    "p90": 191880
+  },
+  {
+    "code": "19-3011",
+    "title": "Economists",
+    "totalEmployment": 15880,
+    "p10": 62340,
+    "p25": 82260,
+    "p50": 115440,
+    "p75": 166030,
+    "p90": 212710
+  },
+  {
+    "code": "19-3022",
+    "title": "Survey Researchers",
+    "totalEmployment": 7720,
+    "p10": 36950,
+    "p25": 46110,
+    "p50": 63380,
+    "p75": 85370,
+    "p90": 118730
+  },
+  {
+    "code": "19-3032",
+    "title": "Industrial-Organizational Psychologists",
+    "totalEmployment": 1050,
+    "p10": 51880,
+    "p25": 80790,
+    "p50": 109840,
+    "p75": 198170,
+    "p90": 224590
+  },
+  {
+    "code": "19-3033",
+    "title": "Clinical and Counseling Psychologists",
+    "totalEmployment": 72190,
+    "p10": 50470,
+    "p25": 67470,
+    "p50": 95830,
+    "p75": 131510,
+    "p90": 170150
+  },
+  {
+    "code": "19-3034",
+    "title": "School Psychologists",
+    "totalEmployment": 63830,
+    "p10": 60880,
+    "p25": 73240,
+    "p50": 86930,
+    "p75": 108210,
+    "p90": 132320
+  },
+  {
+    "code": "19-3039",
+    "title": "Psychologists, All Other",
+    "totalEmployment": 17790,
+    "p10": 51410,
+    "p25": 73820,
+    "p50": 117580,
+    "p75": 145200,
+    "p90": 163570
+  },
+  {
+    "code": "19-3041",
+    "title": "Sociologists",
+    "totalEmployment": 2950,
+    "p10": 60710,
+    "p25": 78150,
+    "p50": 101690,
+    "p75": 134780,
+    "p90": 168590
+  },
+  {
+    "code": "19-3051",
+    "title": "Urban and Regional Planners",
+    "totalEmployment": 43040,
+    "p10": 55590,
+    "p25": 66210,
+    "p50": 83720,
+    "p75": 104450,
+    "p90": 128550
+  },
+  {
+    "code": "19-3091",
+    "title": "Anthropologists and Archeologists",
+    "totalEmployment": 8070,
+    "p10": 44510,
+    "p25": 51240,
+    "p50": 64910,
+    "p75": 83080,
+    "p90": 104510
+  },
+  {
+    "code": "19-3092",
+    "title": "Geographers",
+    "totalEmployment": 1380,
+    "p10": 62390,
+    "p25": 75590,
+    "p50": 97200,
+    "p75": 117190,
+    "p90": 133680
+  },
+  {
+    "code": "19-3093",
+    "title": "Historians",
+    "totalEmployment": 3140,
+    "p10": 38630,
+    "p25": 55190,
+    "p50": 74050,
+    "p75": 96330,
+    "p90": 128500
+  },
+  {
+    "code": "19-3094",
+    "title": "Political Scientists",
+    "totalEmployment": 5950,
+    "p10": 74750,
+    "p25": 103030,
+    "p50": 139380,
+    "p75": 172050,
+    "p90": 191880
+  },
+  {
+    "code": "19-3099",
+    "title": "Social Scientists and Related Workers, All Other",
+    "totalEmployment": 36970,
+    "p10": 62570,
+    "p25": 79210,
+    "p50": 100340,
+    "p75": 127880,
+    "p90": 160810
+  },
+  {
+    "code": "19-4012",
+    "title": "Agricultural Technicians",
+    "totalEmployment": 14340,
+    "p10": 32860,
+    "p25": 38480,
+    "p50": 46790,
+    "p75": 59370,
+    "p90": 69010
+  },
+  {
+    "code": "19-4013",
+    "title": "Food Science Technicians",
+    "totalEmployment": 14200,
+    "p10": 37760,
+    "p25": 43990,
+    "p50": 49430,
+    "p75": 60940,
+    "p90": 75100
+  },
+  {
+    "code": "19-4021",
+    "title": "Biological Technicians",
+    "totalEmployment": 76190,
+    "p10": 38060,
+    "p25": 45380,
+    "p50": 52000,
+    "p75": 66410,
+    "p90": 81990
+  },
+  {
+    "code": "19-4031",
+    "title": "Chemical Technicians",
+    "totalEmployment": 55640,
+    "p10": 39030,
+    "p25": 46680,
+    "p50": 57790,
+    "p75": 72940,
+    "p90": 90990
+  },
+  {
+    "code": "19-4042",
+    "title": "Environmental Science and Protection Technicians, Including Health",
+    "totalEmployment": 39390,
+    "p10": 36130,
+    "p25": 38050,
+    "p50": 49490,
+    "p75": 64170,
+    "p90": 85630
+  },
+  {
+    "code": "19-4043",
+    "title": "Geological Technicians, Except Hydrologic Technicians",
+    "totalEmployment": 9710,
+    "p10": 32830,
+    "p25": 39200,
+    "p50": 48390,
+    "p75": 64470,
+    "p90": 92210
+  },
+  {
+    "code": "19-4044",
+    "title": "Hydrologic Technicians",
+    "totalEmployment": 2940,
+    "p10": 40330,
+    "p25": 47450,
+    "p50": 58570,
+    "p75": 79790,
+    "p90": 94310
+  },
+  {
+    "code": "19-4051",
+    "title": "Nuclear Technicians",
+    "totalEmployment": 5990,
+    "p10": 64370,
+    "p25": 83330,
+    "p50": 104240,
+    "p75": 113710,
+    "p90": 126890
+  },
+  {
+    "code": "19-4061",
+    "title": "Social Science Research Assistants",
+    "totalEmployment": 32940,
+    "p10": 36410,
+    "p25": 46190,
+    "p50": 58040,
+    "p75": 73060,
+    "p90": 100620
+  },
+  {
+    "code": "19-4071",
+    "title": "Forest and Conservation Technicians",
+    "totalEmployment": 31080,
+    "p10": 36190,
+    "p25": 42560,
+    "p50": 54310,
+    "p75": 66020,
+    "p90": 80790
+  },
+  {
+    "code": "19-4092",
+    "title": "Forensic Science Technicians",
+    "totalEmployment": 19450,
+    "p10": 45560,
+    "p25": 53310,
+    "p50": 67440,
+    "p75": 88710,
+    "p90": 110710
+  },
+  {
+    "code": "19-4099",
+    "title": "Life, Physical, and Social Science Technicians, All Other",
+    "totalEmployment": 71400,
+    "p10": 37310,
+    "p25": 46270,
+    "p50": 60130,
+    "p75": 77990,
+    "p90": 101870
+  },
+  {
+    "code": "19-5011",
+    "title": "Occupational Health and Safety Specialists",
+    "totalEmployment": 128430,
+    "p10": 50610,
+    "p25": 64410,
+    "p50": 83910,
+    "p75": 105390,
+    "p90": 130460
+  },
+  {
+    "code": "19-5012",
+    "title": "Occupational Health and Safety Technicians",
+    "totalEmployment": 31450,
+    "p10": 40550,
+    "p25": 49510,
+    "p50": 58440,
+    "p75": 74810,
+    "p90": 94670
+  },
+  {
+    "code": "21-1012",
+    "title": "Educational, Guidance, and Career Counselors and Advisors",
+    "totalEmployment": 342350,
+    "p10": 43580,
+    "p25": 51690,
+    "p50": 65140,
+    "p75": 83490,
+    "p90": 105870
+  },
+  {
+    "code": "21-1013",
+    "title": "Marriage and Family Therapists",
+    "totalEmployment": 65870,
+    "p10": 42610,
+    "p25": 48600,
+    "p50": 63780,
+    "p75": 85020,
+    "p90": 111610
+  },
+  {
+    "code": "21-1015",
+    "title": "Rehabilitation Counselors",
+    "totalEmployment": 88930,
+    "p10": 34480,
+    "p25": 38700,
+    "p50": 46110,
+    "p75": 59040,
+    "p90": 77200
+  },
+  {
+    "code": "21-1018",
+    "title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors",
+    "totalEmployment": 440380,
+    "p10": 39090,
+    "p25": 47170,
+    "p50": 59190,
+    "p75": 76230,
+    "p90": 98210
+  },
+  {
+    "code": "21-1019",
+    "title": "Counselors, All Other",
+    "totalEmployment": 33340,
+    "p10": 36160,
+    "p25": 42760,
+    "p50": 49830,
+    "p75": 66510,
+    "p90": 91420
+  },
+  {
+    "code": "21-1021",
+    "title": "Child, Family, and School Social Workers",
+    "totalEmployment": 382960,
+    "p10": 40580,
+    "p25": 47480,
+    "p50": 58570,
+    "p75": 74060,
+    "p90": 94030
+  },
+  {
+    "code": "21-1022",
+    "title": "Healthcare Social Workers",
+    "totalEmployment": 185940,
+    "p10": 45030,
+    "p25": 55360,
+    "p50": 68090,
+    "p75": 83410,
+    "p90": 100870
+  },
+  {
+    "code": "21-1023",
+    "title": "Mental Health and Substance Abuse Social Workers",
+    "totalEmployment": 125910,
+    "p10": 39620,
+    "p25": 46550,
+    "p50": 60060,
+    "p75": 78980,
+    "p90": 104130
+  },
+  {
+    "code": "21-1029",
+    "title": "Social Workers, All Other",
+    "totalEmployment": 64940,
+    "p10": 44530,
+    "p25": 52010,
+    "p50": 69480,
+    "p75": 95390,
+    "p90": 112740
+  },
+  {
+    "code": "21-1091",
+    "title": "Health Education Specialists",
+    "totalEmployment": 65150,
+    "p10": 42210,
+    "p25": 49880,
+    "p50": 63000,
+    "p75": 84460,
+    "p90": 112900
+  },
+  {
+    "code": "21-1092",
+    "title": "Probation Officers and Correctional Treatment Specialists",
+    "totalEmployment": 86820,
+    "p10": 45390,
+    "p25": 52580,
+    "p50": 64520,
+    "p75": 84030,
+    "p90": 106290
+  },
+  {
+    "code": "21-1093",
+    "title": "Social and Human Service Assistants",
+    "totalEmployment": 424220,
+    "p10": 33280,
+    "p25": 37770,
+    "p50": 45120,
+    "p75": 53040,
+    "p90": 63850
+  },
+  {
+    "code": "21-1094",
+    "title": "Community Health Workers",
+    "totalEmployment": 60730,
+    "p10": 37930,
+    "p25": 44370,
+    "p50": 51030,
+    "p75": 63150,
+    "p90": 78560
+  },
+  {
+    "code": "21-1099",
+    "title": "Community and Social Service Specialists, All Other",
+    "totalEmployment": 110390,
+    "p10": 36470,
+    "p25": 45420,
+    "p50": 54940,
+    "p75": 67590,
+    "p90": 83210
+  },
+  {
+    "code": "21-2011",
+    "title": "Clergy",
+    "totalEmployment": 58080,
+    "p10": 37140,
+    "p25": 47220,
+    "p50": 60820,
+    "p75": 76340,
+    "p90": 99720
+  },
+  {
+    "code": "21-2021",
+    "title": "Directors, Religious Activities and Education",
+    "totalEmployment": 21460,
+    "p10": 33990,
+    "p25": 42210,
+    "p50": 54840,
+    "p75": 74990,
+    "p90": 106530
+  },
+  {
+    "code": "21-2099",
+    "title": "Religious Workers, All Other",
+    "totalEmployment": 12170,
+    "p10": 29120,
+    "p25": 34700,
+    "p50": 45120,
+    "p75": 60310,
+    "p90": 75920
+  },
+  {
+    "code": "23-1011",
+    "title": "Lawyers",
+    "totalEmployment": 747750,
+    "p10": 72780,
+    "p25": 99760,
+    "p50": 151160,
+    "p75": 215420,
+    "p90": null
+  },
+  {
+    "code": "23-1012",
+    "title": "Judicial Law Clerks",
+    "totalEmployment": 13220,
+    "p10": 42000,
+    "p25": 49840,
+    "p50": 60400,
+    "p75": 78060,
+    "p90": 113150
+  },
+  {
+    "code": "23-1021",
+    "title": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+    "totalEmployment": 16230,
+    "p10": 56970,
+    "p25": 76920,
+    "p50": 115230,
+    "p75": 161290,
+    "p90": 203990
+  },
+  {
+    "code": "23-1022",
+    "title": "Arbitrators, Mediators, and Conciliators",
+    "totalEmployment": 7860,
+    "p10": 46200,
+    "p25": 60030,
+    "p50": 67710,
+    "p75": 101010,
+    "p90": 133480
+  },
+  {
+    "code": "23-1023",
+    "title": "Judges, Magistrate Judges, and Magistrates",
+    "totalEmployment": 25580,
+    "p10": 46520,
+    "p25": 86060,
+    "p50": 156210,
+    "p75": 189890,
+    "p90": 216540
+  },
+  {
+    "code": "23-2011",
+    "title": "Paralegals and Legal Assistants",
+    "totalEmployment": 367220,
+    "p10": 39710,
+    "p25": 48190,
+    "p50": 61010,
+    "p75": 78280,
+    "p90": 98990
+  },
+  {
+    "code": "23-2093",
+    "title": "Title Examiners, Abstractors, and Searchers",
+    "totalEmployment": 48170,
+    "p10": 36710,
+    "p25": 45020,
+    "p50": 54980,
+    "p75": 70290,
+    "p90": 87240
+  },
+  {
+    "code": "23-2099",
+    "title": "Legal Support Workers, All Other",
+    "totalEmployment": 47380,
+    "p10": 41510,
+    "p25": 50960,
+    "p50": 68760,
+    "p75": 103460,
+    "p90": 176950
+  },
+  {
+    "code": "25-1011",
+    "title": "Business Teachers, Postsecondary",
+    "totalEmployment": 81780,
+    "p10": 46460,
+    "p25": 63040,
+    "p50": 97270,
+    "p75": 140360,
+    "p90": 210530
+  },
+  {
+    "code": "25-1021",
+    "title": "Computer Science Teachers, Postsecondary",
+    "totalEmployment": 36240,
+    "p10": 48910,
+    "p25": 65200,
+    "p50": 96690,
+    "p75": 132200,
+    "p90": 172380
+  },
+  {
+    "code": "25-1022",
+    "title": "Mathematical Science Teachers, Postsecondary",
+    "totalEmployment": 48820,
+    "p10": 48150,
+    "p25": 60880,
+    "p50": 79350,
+    "p75": 106270,
+    "p90": 161020
+  },
+  {
+    "code": "25-1031",
+    "title": "Architecture Teachers, Postsecondary",
+    "totalEmployment": 9120,
+    "p10": 59590,
+    "p25": 78090,
+    "p50": 101480,
+    "p75": 129310,
+    "p90": 166720
+  },
+  {
+    "code": "25-1032",
+    "title": "Engineering Teachers, Postsecondary",
+    "totalEmployment": 39910,
+    "p10": 59790,
+    "p25": 80060,
+    "p50": 106120,
+    "p75": 136400,
+    "p90": 200650
+  },
+  {
+    "code": "25-1041",
+    "title": "Agricultural Sciences Teachers, Postsecondary",
+    "totalEmployment": 8700,
+    "p10": 49080,
+    "p25": 63980,
+    "p50": 86350,
+    "p75": 123290,
+    "p90": 160870
+  },
+  {
+    "code": "25-1042",
+    "title": "Biological Science Teachers, Postsecondary",
+    "totalEmployment": 53250,
+    "p10": 50760,
+    "p25": 64010,
+    "p50": 83460,
+    "p75": 125310,
+    "p90": 169560
+  },
+  {
+    "code": "25-1043",
+    "title": "Forestry and Conservation Science Teachers, Postsecondary",
+    "totalEmployment": 1310,
+    "p10": 58670,
+    "p25": 81380,
+    "p50": 100830,
+    "p75": 125080,
+    "p90": 154630
+  },
+  {
+    "code": "25-1051",
+    "title": "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+    "totalEmployment": 11480,
+    "p10": 53310,
+    "p25": 66620,
+    "p50": 101390,
+    "p75": 135500,
+    "p90": 199260
+  },
+  {
+    "code": "25-1052",
+    "title": "Chemistry Teachers, Postsecondary",
+    "totalEmployment": 20390,
+    "p10": 52870,
+    "p25": 64980,
+    "p50": 86220,
+    "p75": 125920,
+    "p90": 171600
+  },
+  {
+    "code": "25-1053",
+    "title": "Environmental Science Teachers, Postsecondary",
+    "totalEmployment": 7130,
+    "p10": 50670,
+    "p25": 64360,
+    "p50": 87710,
+    "p75": 124680,
+    "p90": 164290
+  },
+  {
+    "code": "25-1054",
+    "title": "Physics Teachers, Postsecondary",
+    "totalEmployment": 13590,
+    "p10": 54880,
+    "p25": 66730,
+    "p50": 97360,
+    "p75": 130150,
+    "p90": 169740
+  },
+  {
+    "code": "25-1061",
+    "title": "Anthropology and Archeology Teachers, Postsecondary",
+    "totalEmployment": 5260,
+    "p10": 51380,
+    "p25": 67410,
+    "p50": 95770,
+    "p75": 122870,
+    "p90": 169090
+  },
+  {
+    "code": "25-1062",
+    "title": "Area, Ethnic, and Cultural Studies Teachers, Postsecondary",
+    "totalEmployment": 11430,
+    "p10": 51130,
+    "p25": 64320,
+    "p50": 84290,
+    "p75": 107810,
+    "p90": 164650
+  },
+  {
+    "code": "25-1063",
+    "title": "Economics Teachers, Postsecondary",
+    "totalEmployment": 12420,
+    "p10": 57550,
+    "p25": 80850,
+    "p50": 119980,
+    "p75": 166600,
+    "p90": 217160
+  },
+  {
+    "code": "25-1064",
+    "title": "Geography Teachers, Postsecondary",
+    "totalEmployment": 3290,
+    "p10": 49990,
+    "p25": 66400,
+    "p50": 86730,
+    "p75": 120220,
+    "p90": 164350
+  },
+  {
+    "code": "25-1065",
+    "title": "Political Science Teachers, Postsecondary",
+    "totalEmployment": 17170,
+    "p10": 50490,
+    "p25": 65330,
+    "p50": 94680,
+    "p75": 127480,
+    "p90": 173380
+  },
+  {
+    "code": "25-1066",
+    "title": "Psychology Teachers, Postsecondary",
+    "totalEmployment": 41610,
+    "p10": 47870,
+    "p25": 62290,
+    "p50": 80330,
+    "p75": 106640,
+    "p90": 158900
+  },
+  {
+    "code": "25-1067",
+    "title": "Sociology Teachers, Postsecondary",
+    "totalEmployment": 12380,
+    "p10": 49330,
+    "p25": 64130,
+    "p50": 82540,
+    "p75": 113000,
+    "p90": 167240
+  },
+  {
+    "code": "25-1069",
+    "title": "Social Sciences Teachers, Postsecondary, All Other",
+    "totalEmployment": 17540,
+    "p10": 45280,
+    "p25": 59550,
+    "p50": 75040,
+    "p75": 105390,
+    "p90": 176350
+  },
+  {
+    "code": "25-1071",
+    "title": "Health Specialties Teachers, Postsecondary",
+    "totalEmployment": 229720,
+    "p10": 51760,
+    "p25": 74400,
+    "p50": 105620,
+    "p75": 176090,
+    "p90": null
+  },
+  {
+    "code": "25-1072",
+    "title": "Nursing Instructors and Teachers, Postsecondary",
+    "totalEmployment": 74250,
+    "p10": 47950,
+    "p25": 62210,
+    "p50": 79940,
+    "p75": 102020,
+    "p90": 130040
+  },
+  {
+    "code": "25-1081",
+    "title": "Education Teachers, Postsecondary",
+    "totalEmployment": 59090,
+    "p10": 38650,
+    "p25": 50630,
+    "p50": 72090,
+    "p75": 96260,
+    "p90": 126450
+  },
+  {
+    "code": "25-1082",
+    "title": "Library Science Teachers, Postsecondary",
+    "totalEmployment": 4100,
+    "p10": 53590,
+    "p25": 62130,
+    "p50": 78630,
+    "p75": 97020,
+    "p90": 126200
+  },
+  {
+    "code": "25-1111",
+    "title": "Criminal Justice and Law Enforcement Teachers, Postsecondary",
+    "totalEmployment": 13560,
+    "p10": 45640,
+    "p25": 56100,
+    "p50": 71470,
+    "p75": 99730,
+    "p90": 143130
+  },
+  {
+    "code": "25-1112",
+    "title": "Law Teachers, Postsecondary",
+    "totalEmployment": 22800,
+    "p10": 58330,
+    "p25": 84540,
+    "p50": 126650,
+    "p75": 173580,
+    "p90": null
+  },
+  {
+    "code": "25-1113",
+    "title": "Social Work Teachers, Postsecondary",
+    "totalEmployment": 13350,
+    "p10": 45370,
+    "p25": 57080,
+    "p50": 76210,
+    "p75": 98570,
+    "p90": 129280
+  },
+  {
+    "code": "25-1121",
+    "title": "Art, Drama, and Music Teachers, Postsecondary",
+    "totalEmployment": 97890,
+    "p10": 47040,
+    "p25": 60730,
+    "p50": 80190,
+    "p75": 121600,
+    "p90": 194530
+  },
+  {
+    "code": "25-1122",
+    "title": "Communications Teachers, Postsecondary",
+    "totalEmployment": 29260,
+    "p10": 47100,
+    "p25": 60060,
+    "p50": 77800,
+    "p75": 103230,
+    "p90": 160210
+  },
+  {
+    "code": "25-1123",
+    "title": "English Language and Literature Teachers, Postsecondary",
+    "totalEmployment": 59590,
+    "p10": 47540,
+    "p25": 59780,
+    "p50": 78270,
+    "p75": 103730,
+    "p90": 154800
+  },
+  {
+    "code": "25-1124",
+    "title": "Foreign Language and Literature Teachers, Postsecondary",
+    "totalEmployment": 21170,
+    "p10": 47090,
+    "p25": 59790,
+    "p50": 77010,
+    "p75": 101680,
+    "p90": 134960
+  },
+  {
+    "code": "25-1125",
+    "title": "History Teachers, Postsecondary",
+    "totalEmployment": 19860,
+    "p10": 47730,
+    "p25": 62370,
+    "p50": 81500,
+    "p75": 106770,
+    "p90": 158140
+  },
+  {
+    "code": "25-1126",
+    "title": "Philosophy and Religion Teachers, Postsecondary",
+    "totalEmployment": 20840,
+    "p10": 47550,
+    "p25": 60980,
+    "p50": 78050,
+    "p75": 101680,
+    "p90": 134910
+  },
+  {
+    "code": "25-1192",
+    "title": "Family and Consumer Sciences Teachers, Postsecondary",
+    "totalEmployment": 2630,
+    "p10": 47580,
+    "p25": 56870,
+    "p50": 77280,
+    "p75": 99530,
+    "p90": 133180
+  },
+  {
+    "code": "25-1193",
+    "title": "Recreation and Fitness Studies Teachers, Postsecondary",
+    "totalEmployment": 12680,
+    "p10": 44150,
+    "p25": 57290,
+    "p50": 75890,
+    "p75": 101420,
+    "p90": 158240
+  },
+  {
+    "code": "25-1194",
+    "title": "Career/Technical Education Teachers, Postsecondary",
+    "totalEmployment": 111150,
+    "p10": 38680,
+    "p25": 48030,
+    "p50": 61490,
+    "p75": 80070,
+    "p90": 106580
+  },
+  {
+    "code": "25-1199",
+    "title": "Postsecondary Teachers, All Other",
+    "totalEmployment": 151530,
+    "p10": 39720,
+    "p25": 55500,
+    "p50": 78490,
+    "p75": 122510,
+    "p90": 172850
+  },
+  {
+    "code": "25-2011",
+    "title": "Preschool Teachers, Except Special Education",
+    "totalEmployment": 445080,
+    "p10": 28300,
+    "p25": 31250,
+    "p50": 37120,
+    "p75": 46550,
+    "p90": 60070
+  },
+  {
+    "code": "25-2012",
+    "title": "Kindergarten Teachers, Except Special Education",
+    "totalEmployment": 114410,
+    "p10": 45750,
+    "p25": 50290,
+    "p50": 61430,
+    "p75": 77720,
+    "p90": 99360
+  },
+  {
+    "code": "25-2021",
+    "title": "Elementary School Teachers, Except Special Education",
+    "totalEmployment": 1393310,
+    "p10": 46440,
+    "p25": 50680,
+    "p50": 62340,
+    "p75": 79410,
+    "p90": 102010
+  },
+  {
+    "code": "25-2022",
+    "title": "Middle School Teachers, Except Special and Career/Technical Education",
+    "totalEmployment": 620370,
+    "p10": 47050,
+    "p25": 53540,
+    "p50": 62970,
+    "p75": 79380,
+    "p90": 100980
+  },
+  {
+    "code": "25-2023",
+    "title": "Career/Technical Education Teachers, Middle School",
+    "totalEmployment": 14200,
+    "p10": 47090,
+    "p25": 55920,
+    "p50": 63620,
+    "p75": 78270,
+    "p90": 98430
+  },
+  {
+    "code": "25-2031",
+    "title": "Secondary School Teachers, Except Special and Career/Technical Education",
+    "totalEmployment": 1072540,
+    "p10": 47330,
+    "p25": 57800,
+    "p50": 64580,
+    "p75": 83010,
+    "p90": 104670
+  },
+  {
+    "code": "25-2032",
+    "title": "Career/Technical Education Teachers, Secondary School",
+    "totalEmployment": 104450,
+    "p10": 48840,
+    "p25": 58840,
+    "p50": 63910,
+    "p75": 78650,
+    "p90": 98720
+  },
+  {
+    "code": "25-2051",
+    "title": "Special Education Teachers, Preschool",
+    "totalEmployment": 28200,
+    "p10": 38740,
+    "p25": 49370,
+    "p50": 62190,
+    "p75": 81330,
+    "p90": 132530
+  },
+  {
+    "code": "25-2052",
+    "title": "Special Education Teachers, Kindergarten and Elementary School",
+    "totalEmployment": 231570,
+    "p10": 47590,
+    "p25": 57050,
+    "p50": 63000,
+    "p75": 79320,
+    "p90": 100620
+  },
+  {
+    "code": "25-2057",
+    "title": "Special Education Teachers, Middle School",
+    "totalEmployment": 95330,
+    "p10": 48070,
+    "p25": 58590,
+    "p50": 64880,
+    "p75": 81940,
+    "p90": 102730
+  },
+  {
+    "code": "25-2058",
+    "title": "Special Education Teachers, Secondary School",
+    "totalEmployment": 162780,
+    "p10": 47930,
+    "p25": 58180,
+    "p50": 69590,
+    "p75": 87140,
+    "p90": 106050
+  },
+  {
+    "code": "25-2059",
+    "title": "Special Education Teachers, All Other",
+    "totalEmployment": 39350,
+    "p10": 43220,
+    "p25": 53470,
+    "p50": 67430,
+    "p75": 87890,
+    "p90": 109360
+  },
+  {
+    "code": "25-3011",
+    "title": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
+    "totalEmployment": 36260,
+    "p10": 39750,
+    "p25": 47950,
+    "p50": 59950,
+    "p75": 76580,
+    "p90": 95750
+  },
+  {
+    "code": "25-3021",
+    "title": "Self-Enrichment Teachers",
+    "totalEmployment": 308520,
+    "p10": 28980,
+    "p25": 35410,
+    "p50": 45590,
+    "p75": 62180,
+    "p90": 90780
+  },
+  {
+    "code": "25-3031",
+    "title": "Substitute Teachers, Short-Term",
+    "totalEmployment": 481300,
+    "p10": 26240,
+    "p25": 31310,
+    "p50": 38470,
+    "p75": 51930,
+    "p90": 63460
+  },
+  {
+    "code": "25-3041",
+    "title": "Tutors",
+    "totalEmployment": 174660,
+    "p10": 28430,
+    "p25": 33410,
+    "p50": 40090,
+    "p75": 55380,
+    "p90": 78810
+  },
+  {
+    "code": "25-3099",
+    "title": "Teachers and Instructors, All Other",
+    "totalEmployment": 125010,
+    "p10": 33280,
+    "p25": 46700,
+    "p50": 64690,
+    "p75": 93180,
+    "p90": 116690
+  },
+  {
+    "code": "25-4011",
+    "title": "Archivists",
+    "totalEmployment": 7050,
+    "p10": 39330,
+    "p25": 47890,
+    "p50": 61570,
+    "p75": 79850,
+    "p90": 104780
+  },
+  {
+    "code": "25-4012",
+    "title": "Curators",
+    "totalEmployment": 12280,
+    "p10": 37110,
+    "p25": 47270,
+    "p50": 61770,
+    "p75": 81350,
+    "p90": 105520
+  },
+  {
+    "code": "25-4013",
+    "title": "Museum Technicians and Conservators",
+    "totalEmployment": 13070,
+    "p10": 30720,
+    "p25": 37460,
+    "p50": 47460,
+    "p75": 62990,
+    "p90": 82790
+  },
+  {
+    "code": "25-4022",
+    "title": "Librarians and Media Collections Specialists",
+    "totalEmployment": 131830,
+    "p10": 38920,
+    "p25": 50920,
+    "p50": 64320,
+    "p75": 80640,
+    "p90": 100880
+  },
+  {
+    "code": "25-4031",
+    "title": "Library Technicians",
+    "totalEmployment": 73770,
+    "p10": 27890,
+    "p25": 33510,
+    "p50": 39970,
+    "p75": 49740,
+    "p90": 60960
+  },
+  {
+    "code": "25-9021",
+    "title": "Farm and Home Management Educators",
+    "totalEmployment": 10260,
+    "p10": 36780,
+    "p25": 46010,
+    "p50": 58120,
+    "p75": 69110,
+    "p90": 85230
+  },
+  {
+    "code": "25-9031",
+    "title": "Instructional Coordinators",
+    "totalEmployment": 210850,
+    "p10": 46560,
+    "p25": 59120,
+    "p50": 74720,
+    "p75": 94780,
+    "p90": 115410
+  },
+  {
+    "code": "25-9044",
+    "title": "Teaching Assistants, Postsecondary",
+    "totalEmployment": 155010,
+    "p10": 28020,
+    "p25": 32640,
+    "p50": 44930,
+    "p75": 60410,
+    "p90": 73560
+  },
+  {
+    "code": "25-9045",
+    "title": "Teaching Assistants, Except Postsecondary",
+    "totalEmployment": 1375300,
+    "p10": 23710,
+    "p25": 29120,
+    "p50": 35240,
+    "p75": 40400,
+    "p90": 48140
+  },
+  {
+    "code": "25-9099",
+    "title": "Educational Instruction and Library Workers, All Other",
+    "totalEmployment": 114640,
+    "p10": 24160,
+    "p25": 33280,
+    "p50": 48400,
+    "p75": 68800,
+    "p90": 95310
+  },
+  {
+    "code": "27-1011",
+    "title": "Art Directors",
+    "totalEmployment": 50370,
+    "p10": 61060,
+    "p25": 80130,
+    "p50": 111040,
+    "p75": 160460,
+    "p90": 211410
+  },
+  {
+    "code": "27-1012",
+    "title": "Craft Artists",
+    "totalEmployment": 4370,
+    "p10": 22620,
+    "p25": 31350,
+    "p50": 38480,
+    "p75": 52070,
+    "p90": 65850
+  },
+  {
+    "code": "27-1013",
+    "title": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+    "totalEmployment": 10000,
+    "p10": 26420,
+    "p25": 39740,
+    "p50": 60560,
+    "p75": 89630,
+    "p90": 140660
+  },
+  {
+    "code": "27-1014",
+    "title": "Special Effects Artists and Animators",
+    "totalEmployment": 21280,
+    "p10": 57220,
+    "p25": 73030,
+    "p50": 99800,
+    "p75": 135600,
+    "p90": 174630
+  },
+  {
+    "code": "27-1019",
+    "title": "Artists and Related Workers, All Other",
+    "totalEmployment": 7370,
+    "p10": 33720,
+    "p25": 44760,
+    "p50": 72760,
+    "p75": 112420,
+    "p90": 133180
+  },
+  {
+    "code": "27-1021",
+    "title": "Commercial and Industrial Designers",
+    "totalEmployment": 30250,
+    "p10": 49390,
+    "p25": 62040,
+    "p50": 79450,
+    "p75": 103170,
+    "p90": 134840
+  },
+  {
+    "code": "27-1022",
+    "title": "Fashion Designers",
+    "totalEmployment": 20910,
+    "p10": 35970,
+    "p25": 53730,
+    "p50": 80690,
+    "p75": 107990,
+    "p90": 169620
+  },
+  {
+    "code": "27-1023",
+    "title": "Floral Designers",
+    "totalEmployment": 40160,
+    "p10": 27260,
+    "p25": 30200,
+    "p50": 36120,
+    "p75": 43420,
+    "p90": 48690
+  },
+  {
+    "code": "27-1024",
+    "title": "Graphic Designers",
+    "totalEmployment": 214260,
+    "p10": 37600,
+    "p25": 47200,
+    "p50": 61300,
+    "p75": 79000,
+    "p90": 103030
+  },
+  {
+    "code": "27-1025",
+    "title": "Interior Designers",
+    "totalEmployment": 69580,
+    "p10": 38480,
+    "p25": 49770,
+    "p50": 63490,
+    "p75": 80830,
+    "p90": 106090
+  },
+  {
+    "code": "27-1026",
+    "title": "Merchandise Displayers and Window Trimmers",
+    "totalEmployment": 192480,
+    "p10": 30050,
+    "p25": 33580,
+    "p50": 37350,
+    "p75": 44750,
+    "p90": 53800
+  },
+  {
+    "code": "27-1027",
+    "title": "Set and Exhibit Designers",
+    "totalEmployment": 10850,
+    "p10": 35990,
+    "p25": 48920,
+    "p50": 66280,
+    "p75": 100020,
+    "p90": 129420
+  },
+  {
+    "code": "27-1029",
+    "title": "Designers, All Other",
+    "totalEmployment": 9680,
+    "p10": 36530,
+    "p25": 46850,
+    "p50": 66220,
+    "p75": 95330,
+    "p90": 131950
+  },
+  {
+    "code": "27-2011",
+    "title": "Actors",
+    "totalEmployment": 38800,
+    "p10": null,
+    "p25": null,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "27-2012",
+    "title": "Producers and Directors",
+    "totalEmployment": 145270,
+    "p10": 43060,
+    "p25": 59810,
+    "p50": 83480,
+    "p75": 131160,
+    "p90": 198530
+  },
+  {
+    "code": "27-2021",
+    "title": "Athletes and Sports Competitors",
+    "totalEmployment": 14370,
+    "p10": 24960,
+    "p25": 36750,
+    "p50": 62360,
+    "p75": 130770,
+    "p90": null
+  },
+  {
+    "code": "27-2022",
+    "title": "Coaches and Scouts",
+    "totalEmployment": 250940,
+    "p10": 27490,
+    "p25": 33960,
+    "p50": 45920,
+    "p75": 61930,
+    "p90": 93980
+  },
+  {
+    "code": "27-2023",
+    "title": "Umpires, Referees, and Other Sports Officials",
+    "totalEmployment": 15080,
+    "p10": 25070,
+    "p25": 30920,
+    "p50": 38820,
+    "p75": 53560,
+    "p90": 93180
+  },
+  {
+    "code": "27-2031",
+    "title": "Dancers",
+    "totalEmployment": 9060,
+    "p10": null,
+    "p25": null,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "27-2032",
+    "title": "Choreographers",
+    "totalEmployment": 3430,
+    "p10": 33080,
+    "p25": 39600,
+    "p50": 55600,
+    "p75": 71190,
+    "p90": 94090
+  },
+  {
+    "code": "27-2041",
+    "title": "Music Directors and Composers",
+    "totalEmployment": 12330,
+    "p10": 34990,
+    "p25": 47330,
+    "p50": 63670,
+    "p75": 96590,
+    "p90": 157010
+  },
+  {
+    "code": "27-2042",
+    "title": "Musicians and Singers",
+    "totalEmployment": 38350,
+    "p10": null,
+    "p25": null,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "27-2091",
+    "title": "Disc Jockeys, Except Radio",
+    "totalEmployment": 8170,
+    "p10": null,
+    "p25": null,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "27-2099",
+    "title": "Entertainers and Performers, Sports and Related Workers, All Other",
+    "totalEmployment": 15040,
+    "p10": null,
+    "p25": null,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "27-3011",
+    "title": "Broadcast Announcers and Radio Disc Jockeys",
+    "totalEmployment": 23880,
+    "p10": 26000,
+    "p25": 33280,
+    "p50": 45680,
+    "p75": 72080,
+    "p90": 131780
+  },
+  {
+    "code": "27-3023",
+    "title": "News Analysts, Reporters, and Journalists",
+    "totalEmployment": 41550,
+    "p10": 34590,
+    "p25": 40420,
+    "p50": 60280,
+    "p75": 97460,
+    "p90": 162430
+  },
+  {
+    "code": "27-3031",
+    "title": "Public Relations Specialists",
+    "totalEmployment": 280590,
+    "p10": 40750,
+    "p25": 51970,
+    "p50": 69780,
+    "p75": 95940,
+    "p90": 129480
+  },
+  {
+    "code": "27-3041",
+    "title": "Editors",
+    "totalEmployment": 95480,
+    "p10": 36200,
+    "p25": 50210,
+    "p50": 75260,
+    "p75": 101210,
+    "p90": 140840
+  },
+  {
+    "code": "27-3042",
+    "title": "Technical Writers",
+    "totalEmployment": 55530,
+    "p10": 54400,
+    "p25": 68640,
+    "p50": 91670,
+    "p75": 102740,
+    "p90": 130430
+  },
+  {
+    "code": "27-3043",
+    "title": "Writers and Authors",
+    "totalEmployment": 47800,
+    "p10": 41080,
+    "p25": 52890,
+    "p50": 72270,
+    "p75": 98320,
+    "p90": 133680
+  },
+  {
+    "code": "27-3091",
+    "title": "Interpreters and Translators",
+    "totalEmployment": 53360,
+    "p10": 35630,
+    "p25": 45020,
+    "p50": 59440,
+    "p75": 80020,
+    "p90": 99830
+  },
+  {
+    "code": "27-3092",
+    "title": "Court Reporters and Simultaneous Captioners",
+    "totalEmployment": 12630,
+    "p10": 39100,
+    "p25": 50210,
+    "p50": 67310,
+    "p75": 92710,
+    "p90": 127020
+  },
+  {
+    "code": "27-3099",
+    "title": "Media and Communication Workers, All Other",
+    "totalEmployment": 23590,
+    "p10": 38530,
+    "p25": 52690,
+    "p50": 71770,
+    "p75": 99520,
+    "p90": 148070
+  },
+  {
+    "code": "27-4011",
+    "title": "Audio and Video Technicians",
+    "totalEmployment": 70080,
+    "p10": 35290,
+    "p25": 43860,
+    "p50": 54830,
+    "p75": 73590,
+    "p90": 98190
+  },
+  {
+    "code": "27-4012",
+    "title": "Broadcast Technicians",
+    "totalEmployment": 21080,
+    "p10": 29190,
+    "p25": 36900,
+    "p50": 53920,
+    "p75": 80390,
+    "p90": 115400
+  },
+  {
+    "code": "27-4014",
+    "title": "Sound Engineering Technicians",
+    "totalEmployment": 13050,
+    "p10": 36600,
+    "p25": 47680,
+    "p50": 66430,
+    "p75": 99950,
+    "p90": 134980
+  },
+  {
+    "code": "27-4015",
+    "title": "Lighting Technicians",
+    "totalEmployment": 10130,
+    "p10": 36340,
+    "p25": 47100,
+    "p50": 60560,
+    "p75": 83340,
+    "p90": 117690
+  },
+  {
+    "code": "27-4021",
+    "title": "Photographers",
+    "totalEmployment": 51230,
+    "p10": 29610,
+    "p25": 34790,
+    "p50": 42520,
+    "p75": 62370,
+    "p90": 94760
+  },
+  {
+    "code": "27-4031",
+    "title": "Camera Operators, Television, Video, and Film",
+    "totalEmployment": 24460,
+    "p10": 36240,
+    "p25": 48060,
+    "p50": 68810,
+    "p75": 102400,
+    "p90": 131420
+  },
+  {
+    "code": "27-4032",
+    "title": "Film and Video Editors",
+    "totalEmployment": 28860,
+    "p10": 39170,
+    "p25": 50230,
+    "p50": 70980,
+    "p75": 101570,
+    "p90": 145900
+  },
+  {
+    "code": "27-4099",
+    "title": "Media and Communication Equipment Workers, All Other",
+    "totalEmployment": 13020,
+    "p10": 35670,
+    "p25": 48490,
+    "p50": 67190,
+    "p75": 102650,
+    "p90": 133650
+  },
+  {
+    "code": "29-1011",
+    "title": "Chiropractors",
+    "totalEmployment": 37630,
+    "p10": 44780,
+    "p25": 59320,
+    "p50": 79000,
+    "p75": 104000,
+    "p90": 149990
+  },
+  {
+    "code": "29-1021",
+    "title": "Dentists, General",
+    "totalEmployment": 113490,
+    "p10": 83860,
+    "p25": 126090,
+    "p50": 172790,
+    "p75": 220380,
+    "p90": null
+  },
+  {
+    "code": "29-1022",
+    "title": "Oral and Maxillofacial Surgeons",
+    "totalEmployment": 5330,
+    "p10": 82960,
+    "p25": 236780,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1023",
+    "title": "Orthodontists",
+    "totalEmployment": 5150,
+    "p10": 98560,
+    "p25": 137320,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1024",
+    "title": "Prosthodontists",
+    "totalEmployment": 760,
+    "p10": 97370,
+    "p25": 232000,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1029",
+    "title": "Dentists, All Other Specialists",
+    "totalEmployment": 5900,
+    "p10": 75360,
+    "p25": 172780,
+    "p50": 225770,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1031",
+    "title": "Dietitians and Nutritionists",
+    "totalEmployment": 76570,
+    "p10": 48830,
+    "p25": 61260,
+    "p50": 73850,
+    "p75": 85200,
+    "p90": 101760
+  },
+  {
+    "code": "29-1041",
+    "title": "Optometrists",
+    "totalEmployment": 41890,
+    "p10": 70060,
+    "p25": 103310,
+    "p50": 134830,
+    "p75": 163710,
+    "p90": 203210
+  },
+  {
+    "code": "29-1051",
+    "title": "Pharmacists",
+    "totalEmployment": 328870,
+    "p10": 86930,
+    "p25": 127250,
+    "p50": 137480,
+    "p75": 158620,
+    "p90": 172040
+  },
+  {
+    "code": "29-1071",
+    "title": "Physician Assistants",
+    "totalEmployment": 155540,
+    "p10": 95240,
+    "p25": 113770,
+    "p50": 133260,
+    "p75": 160160,
+    "p90": 182200
+  },
+  {
+    "code": "29-1081",
+    "title": "Podiatrists",
+    "totalEmployment": 9520,
+    "p10": 57500,
+    "p25": 91130,
+    "p50": 152800,
+    "p75": 217960,
+    "p90": null
+  },
+  {
+    "code": "29-1122",
+    "title": "Occupational Therapists",
+    "totalEmployment": 152280,
+    "p10": 67090,
+    "p25": 80490,
+    "p50": 98340,
+    "p75": 110460,
+    "p90": 129830
+  },
+  {
+    "code": "29-1123",
+    "title": "Physical Therapists",
+    "totalEmployment": 248630,
+    "p10": 74420,
+    "p25": 83470,
+    "p50": 101020,
+    "p75": 117190,
+    "p90": 132500
+  },
+  {
+    "code": "29-1124",
+    "title": "Radiation Therapists",
+    "totalEmployment": 18700,
+    "p10": 77860,
+    "p25": 86520,
+    "p50": 101990,
+    "p75": 120360,
+    "p90": 141550
+  },
+  {
+    "code": "29-1125",
+    "title": "Recreational Therapists",
+    "totalEmployment": 15060,
+    "p10": 39520,
+    "p25": 48230,
+    "p50": 60280,
+    "p75": 77680,
+    "p90": 96600
+  },
+  {
+    "code": "29-1126",
+    "title": "Respiratory Therapists",
+    "totalEmployment": 136420,
+    "p10": 61900,
+    "p25": 68410,
+    "p50": 80450,
+    "p75": 95530,
+    "p90": 108820
+  },
+  {
+    "code": "29-1127",
+    "title": "Speech-Language Pathologists",
+    "totalEmployment": 178790,
+    "p10": 60480,
+    "p25": 75310,
+    "p50": 95410,
+    "p75": 112510,
+    "p90": 132850
+  },
+  {
+    "code": "29-1128",
+    "title": "Exercise Physiologists",
+    "totalEmployment": 8110,
+    "p10": 40930,
+    "p25": 48650,
+    "p50": 58160,
+    "p75": 65430,
+    "p90": 79830
+  },
+  {
+    "code": "29-1129",
+    "title": "Therapists, All Other",
+    "totalEmployment": 19320,
+    "p10": 38840,
+    "p25": 49510,
+    "p50": 65010,
+    "p75": 85010,
+    "p90": 120050
+  },
+  {
+    "code": "29-1131",
+    "title": "Veterinarians",
+    "totalEmployment": 80630,
+    "p10": 70350,
+    "p25": 98420,
+    "p50": 125510,
+    "p75": 161610,
+    "p90": 212890
+  },
+  {
+    "code": "29-1141",
+    "title": "Registered Nurses",
+    "totalEmployment": 3282010,
+    "p10": 66030,
+    "p25": 78610,
+    "p50": 93600,
+    "p75": 107960,
+    "p90": 135320
+  },
+  {
+    "code": "29-1151",
+    "title": "Nurse Anesthetists",
+    "totalEmployment": 50350,
+    "p10": 137230,
+    "p25": 187110,
+    "p50": 223210,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1161",
+    "title": "Nurse Midwives",
+    "totalEmployment": 8280,
+    "p10": 74670,
+    "p25": 104260,
+    "p50": 128790,
+    "p75": 146520,
+    "p90": 177040
+  },
+  {
+    "code": "29-1171",
+    "title": "Nurse Practitioners",
+    "totalEmployment": 307390,
+    "p10": 97960,
+    "p25": 109940,
+    "p50": 129210,
+    "p75": 149570,
+    "p90": 169950
+  },
+  {
+    "code": "29-1181",
+    "title": "Audiologists",
+    "totalEmployment": 14730,
+    "p10": 61930,
+    "p25": 76440,
+    "p50": 92120,
+    "p75": 109330,
+    "p90": 129830
+  },
+  {
+    "code": "29-1211",
+    "title": "Anesthesiologists",
+    "totalEmployment": 41890,
+    "p10": 124450,
+    "p25": 186680,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1212",
+    "title": "Cardiologists",
+    "totalEmployment": 18020,
+    "p10": 119970,
+    "p25": 230100,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1213",
+    "title": "Dermatologists",
+    "totalEmployment": 10080,
+    "p10": 118540,
+    "p25": 172510,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1214",
+    "title": "Emergency Medicine Physicians",
+    "totalEmployment": 33680,
+    "p10": 114680,
+    "p25": 181070,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1215",
+    "title": "Family Medicine Physicians",
+    "totalEmployment": 107950,
+    "p10": 81330,
+    "p25": 167580,
+    "p50": 238380,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1216",
+    "title": "General Internal Medicine Physicians",
+    "totalEmployment": 66640,
+    "p10": 70100,
+    "p25": 135240,
+    "p50": 236350,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1217",
+    "title": "Neurologists",
+    "totalEmployment": 7700,
+    "p10": 83500,
+    "p25": 140970,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1218",
+    "title": "Obstetricians and Gynecologists",
+    "totalEmployment": 19900,
+    "p10": 94750,
+    "p25": 188130,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1221",
+    "title": "Pediatricians, General",
+    "totalEmployment": 42960,
+    "p10": 96240,
+    "p25": 159510,
+    "p50": 210130,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1222",
+    "title": "Physicians, Pathologists",
+    "totalEmployment": 11800,
+    "p10": 83930,
+    "p25": 165940,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1223",
+    "title": "Psychiatrists",
+    "totalEmployment": 24800,
+    "p10": 77360,
+    "p25": 141290,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1224",
+    "title": "Radiologists",
+    "totalEmployment": 26290,
+    "p10": 82810,
+    "p25": 204330,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1229",
+    "title": "Physicians, All Other",
+    "totalEmployment": 315360,
+    "p10": 66860,
+    "p25": 95080,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1241",
+    "title": "Ophthalmologists, Except Pediatric",
+    "totalEmployment": 12110,
+    "p10": 104240,
+    "p25": 181490,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1242",
+    "title": "Orthopedic Surgeons, Except Pediatric",
+    "totalEmployment": 14160,
+    "p10": 83390,
+    "p25": 209730,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1243",
+    "title": "Pediatric Surgeons",
+    "totalEmployment": 1050,
+    "p10": 189720,
+    "p25": null,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1249",
+    "title": "Surgeons, All Other",
+    "totalEmployment": 24080,
+    "p10": 77290,
+    "p25": 139070,
+    "p50": null,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "29-1291",
+    "title": "Acupuncturists",
+    "totalEmployment": 8440,
+    "p10": 41840,
+    "p25": 54090,
+    "p50": 78140,
+    "p75": 107120,
+    "p90": 158540
+  },
+  {
+    "code": "29-1292",
+    "title": "Dental Hygienists",
+    "totalEmployment": 219070,
+    "p10": 66470,
+    "p25": 80060,
+    "p50": 94260,
+    "p75": 102920,
+    "p90": 120060
+  },
+  {
+    "code": "29-1299",
+    "title": "Healthcare Diagnosing or Treating Practitioners, All Other",
+    "totalEmployment": 30870,
+    "p10": 65210,
+    "p25": 83350,
+    "p50": 113730,
+    "p75": 161350,
+    "p90": 194000
+  },
+  {
+    "code": "29-2010",
+    "title": "Clinical Laboratory Technologists and Technicians",
+    "totalEmployment": 343040,
+    "p10": 38020,
+    "p25": 46580,
+    "p50": 61890,
+    "p75": 80010,
+    "p90": 97990
+  },
+  {
+    "code": "29-2031",
+    "title": "Cardiovascular Technologists and Technicians",
+    "totalEmployment": 61180,
+    "p10": 37890,
+    "p25": 46470,
+    "p50": 67260,
+    "p75": 91430,
+    "p90": 108900
+  },
+  {
+    "code": "29-2032",
+    "title": "Diagnostic Medical Sonographers",
+    "totalEmployment": 86460,
+    "p10": 64760,
+    "p25": 78080,
+    "p50": 89340,
+    "p75": 103630,
+    "p90": 123170
+  },
+  {
+    "code": "29-2033",
+    "title": "Nuclear Medicine Technologists",
+    "totalEmployment": 16960,
+    "p10": 75570,
+    "p25": 83020,
+    "p50": 97020,
+    "p75": 108190,
+    "p90": 128090
+  },
+  {
+    "code": "29-2034",
+    "title": "Radiologic Technologists and Technicians",
+    "totalEmployment": 223460,
+    "p10": 52360,
+    "p25": 62910,
+    "p50": 77660,
+    "p75": 93610,
+    "p90": 106990
+  },
+  {
+    "code": "29-2035",
+    "title": "Magnetic Resonance Imaging Technologists",
+    "totalEmployment": 41530,
+    "p10": 64910,
+    "p25": 78150,
+    "p50": 88180,
+    "p75": 102440,
+    "p90": 121420
+  },
+  {
+    "code": "29-2036",
+    "title": "Medical Dosimetrists",
+    "totalEmployment": 3970,
+    "p10": 103760,
+    "p25": 125600,
+    "p50": 138110,
+    "p75": 157840,
+    "p90": 176360
+  },
+  {
+    "code": "29-2042",
+    "title": "Emergency Medical Technicians",
+    "totalEmployment": 177980,
+    "p10": 31410,
+    "p25": 36730,
+    "p50": 41340,
+    "p75": 48160,
+    "p90": 60780
+  },
+  {
+    "code": "29-2043",
+    "title": "Paramedics",
+    "totalEmployment": 99530,
+    "p10": 40130,
+    "p25": 47920,
+    "p50": 58410,
+    "p75": 68420,
+    "p90": 82420
+  },
+  {
+    "code": "29-2051",
+    "title": "Dietetic Technicians",
+    "totalEmployment": 29950,
+    "p10": 28280,
+    "p25": 32460,
+    "p50": 37040,
+    "p75": 44290,
+    "p90": 53440
+  },
+  {
+    "code": "29-2052",
+    "title": "Pharmacy Technicians",
+    "totalEmployment": 487920,
+    "p10": 35100,
+    "p25": 36920,
+    "p50": 43460,
+    "p75": 48580,
+    "p90": 59450
+  },
+  {
+    "code": "29-2053",
+    "title": "Psychiatric Technicians",
+    "totalEmployment": 136300,
+    "p10": 32980,
+    "p25": 37170,
+    "p50": 42590,
+    "p75": 48910,
+    "p90": 60150
+  },
+  {
+    "code": "29-2055",
+    "title": "Surgical Technologists",
+    "totalEmployment": 113890,
+    "p10": 43290,
+    "p25": 51740,
+    "p50": 62830,
+    "p75": 77140,
+    "p90": 90700
+  },
+  {
+    "code": "29-2056",
+    "title": "Veterinary Technologists and Technicians",
+    "totalEmployment": 131320,
+    "p10": 32120,
+    "p25": 37390,
+    "p50": 45980,
+    "p75": 50960,
+    "p90": 60880
+  },
+  {
+    "code": "29-2057",
+    "title": "Ophthalmic Medical Technicians",
+    "totalEmployment": 76520,
+    "p10": 34210,
+    "p25": 37100,
+    "p50": 44080,
+    "p75": 49730,
+    "p90": 60810
+  },
+  {
+    "code": "29-2061",
+    "title": "Licensed Practical and Licensed Vocational Nurses",
+    "totalEmployment": 632430,
+    "p10": 47960,
+    "p25": 55220,
+    "p50": 62340,
+    "p75": 73160,
+    "p90": 80510
+  },
+  {
+    "code": "29-2072",
+    "title": "Medical Records Specialists",
+    "totalEmployment": 187910,
+    "p10": 35780,
+    "p25": 41600,
+    "p50": 50250,
+    "p75": 64070,
+    "p90": 80950
+  },
+  {
+    "code": "29-2081",
+    "title": "Opticians, Dispensing",
+    "totalEmployment": 79690,
+    "p10": 34470,
+    "p25": 37900,
+    "p50": 46560,
+    "p75": 59680,
+    "p90": 73240
+  },
+  {
+    "code": "29-2091",
+    "title": "Orthotists and Prosthetists",
+    "totalEmployment": 9930,
+    "p10": 46220,
+    "p25": 59990,
+    "p50": 78310,
+    "p75": 98880,
+    "p90": 118730
+  },
+  {
+    "code": "29-2092",
+    "title": "Hearing Aid Specialists",
+    "totalEmployment": 10580,
+    "p10": 36950,
+    "p25": 47150,
+    "p50": 61560,
+    "p75": 78110,
+    "p90": 91000
+  },
+  {
+    "code": "29-2099",
+    "title": "Health Technologists and Technicians, All Other",
+    "totalEmployment": 174060,
+    "p10": 37290,
+    "p25": 40740,
+    "p50": 48790,
+    "p75": 62280,
+    "p90": 81290
+  },
+  {
+    "code": "29-9021",
+    "title": "Health Information Technologists and Medical Registrars",
+    "totalEmployment": 37620,
+    "p10": 39120,
+    "p25": 48400,
+    "p50": 67310,
+    "p75": 92410,
+    "p90": 112130
+  },
+  {
+    "code": "29-9091",
+    "title": "Athletic Trainers",
+    "totalEmployment": 28950,
+    "p10": 45380,
+    "p25": 51590,
+    "p50": 60250,
+    "p75": 70880,
+    "p90": 84100
+  },
+  {
+    "code": "29-9092",
+    "title": "Genetic Counselors",
+    "totalEmployment": 3510,
+    "p10": 78680,
+    "p25": 87060,
+    "p50": 98910,
+    "p75": 113220,
+    "p90": 137780
+  },
+  {
+    "code": "29-9093",
+    "title": "Surgical Assistants",
+    "totalEmployment": 22860,
+    "p10": 39540,
+    "p25": 49140,
+    "p50": 60290,
+    "p75": 80860,
+    "p90": 102390
+  },
+  {
+    "code": "29-9099",
+    "title": "Healthcare Practitioners and Technical Workers, All Other",
+    "totalEmployment": 36970,
+    "p10": 37220,
+    "p25": 45250,
+    "p50": 64030,
+    "p75": 91000,
+    "p90": 127340
+  },
+  {
+    "code": "31-1120",
+    "title": "Home Health and Personal Care Aides",
+    "totalEmployment": 3988140,
+    "p10": 25600,
+    "p25": 30370,
+    "p50": 34900,
+    "p75": 37980,
+    "p90": 44190
+  },
+  {
+    "code": "31-1131",
+    "title": "Nursing Assistants",
+    "totalEmployment": 1388430,
+    "p10": 31390,
+    "p25": 36260,
+    "p50": 39530,
+    "p75": 46070,
+    "p90": 50140
+  },
+  {
+    "code": "31-1132",
+    "title": "Orderlies",
+    "totalEmployment": 53020,
+    "p10": 31610,
+    "p25": 34850,
+    "p50": 37700,
+    "p75": 43160,
+    "p90": 49570
+  },
+  {
+    "code": "31-1133",
+    "title": "Psychiatric Aides",
+    "totalEmployment": 34900,
+    "p10": 30920,
+    "p25": 35930,
+    "p50": 41590,
+    "p75": 48770,
+    "p90": 58530
+  },
+  {
+    "code": "31-2011",
+    "title": "Occupational Therapy Assistants",
+    "totalEmployment": 47910,
+    "p10": 49070,
+    "p25": 59950,
+    "p50": 68340,
+    "p75": 77340,
+    "p90": 86930
+  },
+  {
+    "code": "31-2012",
+    "title": "Occupational Therapy Aides",
+    "totalEmployment": 5000,
+    "p10": 27970,
+    "p25": 34840,
+    "p50": 37370,
+    "p75": 44190,
+    "p90": 65580
+  },
+  {
+    "code": "31-2021",
+    "title": "Physical Therapist Assistants",
+    "totalEmployment": 108010,
+    "p10": 46020,
+    "p25": 58240,
+    "p50": 65510,
+    "p75": 77270,
+    "p90": 87630
+  },
+  {
+    "code": "31-2022",
+    "title": "Physical Therapist Aides",
+    "totalEmployment": 44010,
+    "p10": 24960,
+    "p25": 29710,
+    "p50": 34520,
+    "p75": 38240,
+    "p90": 46930
+  },
+  {
+    "code": "31-9011",
+    "title": "Massage Therapists",
+    "totalEmployment": 96040,
+    "p10": 33280,
+    "p25": 44870,
+    "p50": 57950,
+    "p75": 77170,
+    "p90": 97450
+  },
+  {
+    "code": "31-9091",
+    "title": "Dental Assistants",
+    "totalEmployment": 375430,
+    "p10": 36190,
+    "p25": 39520,
+    "p50": 47300,
+    "p75": 56910,
+    "p90": 61780
+  },
+  {
+    "code": "31-9092",
+    "title": "Medical Assistants",
+    "totalEmployment": 793460,
+    "p10": 35020,
+    "p25": 37610,
+    "p50": 44200,
+    "p75": 48160,
+    "p90": 57830
+  },
+  {
+    "code": "31-9093",
+    "title": "Medical Equipment Preparers",
+    "totalEmployment": 72760,
+    "p10": 35400,
+    "p25": 38910,
+    "p50": 46490,
+    "p75": 56160,
+    "p90": 67070
+  },
+  {
+    "code": "31-9094",
+    "title": "Medical Transcriptionists",
+    "totalEmployment": 43070,
+    "p10": 26370,
+    "p25": 31200,
+    "p50": 37550,
+    "p75": 45680,
+    "p90": 53890
+  },
+  {
+    "code": "31-9095",
+    "title": "Pharmacy Aides",
+    "totalEmployment": 41100,
+    "p10": 29360,
+    "p25": 34450,
+    "p50": 37000,
+    "p75": 42570,
+    "p90": 58660
+  },
+  {
+    "code": "31-9096",
+    "title": "Veterinary Assistants and Laboratory Animal Caretakers",
+    "totalEmployment": 114190,
+    "p10": 29160,
+    "p25": 34320,
+    "p50": 37320,
+    "p75": 44550,
+    "p90": 48150
+  },
+  {
+    "code": "31-9097",
+    "title": "Phlebotomists",
+    "totalEmployment": 138880,
+    "p10": 34860,
+    "p25": 37540,
+    "p50": 43660,
+    "p75": 48170,
+    "p90": 57750
+  },
+  {
+    "code": "31-9099",
+    "title": "Healthcare Support Workers, All Other",
+    "totalEmployment": 103650,
+    "p10": 32450,
+    "p25": 37570,
+    "p50": 46050,
+    "p75": 57650,
+    "p90": 68180
+  },
+  {
+    "code": "33-1011",
+    "title": "First-Line Supervisors of Correctional Officers",
+    "totalEmployment": 53390,
+    "p10": 50340,
+    "p25": 56890,
+    "p50": 76310,
+    "p75": 102190,
+    "p90": 125170
+  },
+  {
+    "code": "33-1012",
+    "title": "First-Line Supervisors of Police and Detectives",
+    "totalEmployment": 153130,
+    "p10": 62370,
+    "p25": 80940,
+    "p50": 105980,
+    "p75": 133520,
+    "p90": 165050
+  },
+  {
+    "code": "33-1021",
+    "title": "First-Line Supervisors of Firefighting and Prevention Workers",
+    "totalEmployment": 93680,
+    "p10": 53970,
+    "p25": 72240,
+    "p50": 92430,
+    "p75": 115990,
+    "p90": 142300
+  },
+  {
+    "code": "33-1091",
+    "title": "First-Line Supervisors of Security Workers",
+    "totalEmployment": 70310,
+    "p10": 37800,
+    "p25": 46070,
+    "p50": 58610,
+    "p75": 74700,
+    "p90": 93930
+  },
+  {
+    "code": "33-1099",
+    "title": "First-Line Supervisors of Protective Service Workers, All Other",
+    "totalEmployment": 20460,
+    "p10": 40750,
+    "p25": 51860,
+    "p50": 74960,
+    "p75": 90600,
+    "p90": 102360
+  },
+  {
+    "code": "33-2011",
+    "title": "Firefighters",
+    "totalEmployment": 332240,
+    "p10": 34490,
+    "p25": 44180,
+    "p50": 59530,
+    "p75": 77410,
+    "p90": 101330
+  },
+  {
+    "code": "33-2021",
+    "title": "Fire Inspectors and Investigators",
+    "totalEmployment": 14050,
+    "p10": 47580,
+    "p25": 60700,
+    "p50": 78060,
+    "p75": 105390,
+    "p90": 149870
+  },
+  {
+    "code": "33-2022",
+    "title": "Forest Fire Inspectors and Prevention Specialists",
+    "totalEmployment": 2780,
+    "p10": 33590,
+    "p25": 41000,
+    "p50": 52380,
+    "p75": 77780,
+    "p90": 100450
+  },
+  {
+    "code": "33-3011",
+    "title": "Bailiffs",
+    "totalEmployment": 16910,
+    "p10": 32950,
+    "p25": 43420,
+    "p50": 57050,
+    "p75": 77880,
+    "p90": 93950
+  },
+  {
+    "code": "33-3012",
+    "title": "Correctional Officers and Jailers",
+    "totalEmployment": 365380,
+    "p10": 41750,
+    "p25": 47520,
+    "p50": 57970,
+    "p75": 75330,
+    "p90": 93000
+  },
+  {
+    "code": "33-3021",
+    "title": "Detectives and Criminal Investigators",
+    "totalEmployment": 110790,
+    "p10": 54160,
+    "p25": 68390,
+    "p50": 93580,
+    "p75": 120080,
+    "p90": 159410
+  },
+  {
+    "code": "33-3031",
+    "title": "Fish and Game Wardens",
+    "totalEmployment": 6420,
+    "p10": 35670,
+    "p25": 53260,
+    "p50": 68180,
+    "p75": 82100,
+    "p90": 94470
+  },
+  {
+    "code": "33-3041",
+    "title": "Parking Enforcement Workers",
+    "totalEmployment": 7770,
+    "p10": 35410,
+    "p25": 39930,
+    "p50": 47150,
+    "p75": 61210,
+    "p90": 76030
+  },
+  {
+    "code": "33-3051",
+    "title": "Police and Sheriff's Patrol Officers",
+    "totalEmployment": 666990,
+    "p10": 47640,
+    "p25": 58980,
+    "p50": 76290,
+    "p75": 97190,
+    "p90": 115280
+  },
+  {
+    "code": "33-3052",
+    "title": "Transit and Railroad Police",
+    "totalEmployment": 3000,
+    "p10": 58370,
+    "p25": 65920,
+    "p50": 82320,
+    "p75": 114040,
+    "p90": 141870
+  },
+  {
+    "code": "33-9011",
+    "title": "Animal Control Workers",
+    "totalEmployment": 11790,
+    "p10": 32880,
+    "p25": 38160,
+    "p50": 45830,
+    "p75": 57110,
+    "p90": 69990
+  },
+  {
+    "code": "33-9021",
+    "title": "Private Detectives and Investigators",
+    "totalEmployment": 38700,
+    "p10": 37250,
+    "p25": 41940,
+    "p50": 52370,
+    "p75": 75310,
+    "p90": 98770
+  },
+  {
+    "code": "33-9031",
+    "title": "Gambling Surveillance Officers and Gambling Investigators",
+    "totalEmployment": 10000,
+    "p10": 34020,
+    "p25": 37410,
+    "p50": 43900,
+    "p75": 50610,
+    "p90": 62360
+  },
+  {
+    "code": "33-9032",
+    "title": "Security Guards",
+    "totalEmployment": 1241770,
+    "p10": 29800,
+    "p25": 35100,
+    "p50": 38370,
+    "p75": 46660,
+    "p90": 59580
+  },
+  {
+    "code": "33-9091",
+    "title": "Crossing Guards and Flaggers",
+    "totalEmployment": 90180,
+    "p10": 29940,
+    "p25": 34280,
+    "p50": 37700,
+    "p75": 46920,
+    "p90": 61440
+  },
+  {
+    "code": "33-9092",
+    "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+    "totalEmployment": 143590,
+    "p10": 24860,
+    "p25": 28840,
+    "p50": 33720,
+    "p75": 37750,
+    "p90": 44600
+  },
+  {
+    "code": "33-9093",
+    "title": "Transportation Security Screeners",
+    "totalEmployment": 46340,
+    "p10": 45010,
+    "p25": 52210,
+    "p50": 63360,
+    "p75": 69990,
+    "p90": 75940
+  },
+  {
+    "code": "33-9094",
+    "title": "School Bus Monitors",
+    "totalEmployment": 72140,
+    "p10": 27250,
+    "p25": 31200,
+    "p50": 34980,
+    "p75": 38840,
+    "p90": 43240
+  },
+  {
+    "code": "33-9099",
+    "title": "Protective Service Workers, All Other",
+    "totalEmployment": 83110,
+    "p10": 30620,
+    "p25": 35540,
+    "p50": 41600,
+    "p75": 54310,
+    "p90": 72670
+  },
+  {
+    "code": "35-1011",
+    "title": "Chefs and Head Cooks",
+    "totalEmployment": 182320,
+    "p10": 36000,
+    "p25": 47710,
+    "p50": 60990,
+    "p75": 76790,
+    "p90": 96030
+  },
+  {
+    "code": "35-1012",
+    "title": "First-Line Supervisors of Food Preparation and Serving Workers",
+    "totalEmployment": 1187460,
+    "p10": 29340,
+    "p25": 35400,
+    "p50": 42010,
+    "p75": 50920,
+    "p90": 63420
+  },
+  {
+    "code": "35-2011",
+    "title": "Cooks, Fast Food",
+    "totalEmployment": 668230,
+    "p10": 22370,
+    "p25": 26540,
+    "p50": 30160,
+    "p75": 35710,
+    "p90": 38980
+  },
+  {
+    "code": "35-2012",
+    "title": "Cooks, Institution and Cafeteria",
+    "totalEmployment": 448260,
+    "p10": 26800,
+    "p25": 30530,
+    "p50": 36450,
+    "p75": 42860,
+    "p90": 48320
+  },
+  {
+    "code": "35-2013",
+    "title": "Cooks, Private Household",
+    "totalEmployment": 900,
+    "p10": 38240,
+    "p25": 42800,
+    "p50": 44530,
+    "p75": 47150,
+    "p90": 92480
+  },
+  {
+    "code": "35-2014",
+    "title": "Cooks, Restaurant",
+    "totalEmployment": 1452130,
+    "p10": 28010,
+    "p25": 31310,
+    "p50": 36830,
+    "p75": 43610,
+    "p90": 47340
+  },
+  {
+    "code": "35-2015",
+    "title": "Cooks, Short Order",
+    "totalEmployment": 150420,
+    "p10": 23770,
+    "p25": 30160,
+    "p50": 35620,
+    "p75": 39990,
+    "p90": 46010
+  },
+  {
+    "code": "35-2019",
+    "title": "Cooks, All Other",
+    "totalEmployment": 23590,
+    "p10": 26430,
+    "p25": 31200,
+    "p50": 36210,
+    "p75": 42230,
+    "p90": 49600
+  },
+  {
+    "code": "35-2021",
+    "title": "Food Preparation Workers",
+    "totalEmployment": 888770,
+    "p10": 23490,
+    "p25": 28740,
+    "p50": 34220,
+    "p75": 37540,
+    "p90": 44260
+  },
+  {
+    "code": "35-3011",
+    "title": "Bartenders",
+    "totalEmployment": 745610,
+    "p10": 19930,
+    "p25": 25790,
+    "p50": 33530,
+    "p75": 46790,
+    "p90": 71920
+  },
+  {
+    "code": "35-3023",
+    "title": "Fast Food and Counter Workers",
+    "totalEmployment": 3780930,
+    "p10": 22620,
+    "p25": 27150,
+    "p50": 30480,
+    "p75": 35440,
+    "p90": 38800
+  },
+  {
+    "code": "35-3031",
+    "title": "Waiters and Waitresses",
+    "totalEmployment": 2302690,
+    "p10": 18500,
+    "p25": 25690,
+    "p50": 33760,
+    "p75": 45350,
+    "p90": 62510
+  },
+  {
+    "code": "35-3041",
+    "title": "Food Servers, Nonrestaurant",
+    "totalEmployment": 271780,
+    "p10": 26590,
+    "p25": 29800,
+    "p50": 34460,
+    "p75": 37550,
+    "p90": 44770
+  },
+  {
+    "code": "35-9011",
+    "title": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+    "totalEmployment": 522010,
+    "p10": 22260,
+    "p25": 27830,
+    "p50": 32670,
+    "p75": 36880,
+    "p90": 46380
+  },
+  {
+    "code": "35-9021",
+    "title": "Dishwashers",
+    "totalEmployment": 471670,
+    "p10": 23960,
+    "p25": 28740,
+    "p50": 33670,
+    "p75": 36750,
+    "p90": 41600
+  },
+  {
+    "code": "35-9031",
+    "title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+    "totalEmployment": 427150,
+    "p10": 22010,
+    "p25": 26630,
+    "p50": 30380,
+    "p75": 35840,
+    "p90": 42600
+  },
+  {
+    "code": "35-9099",
+    "title": "Food Preparation and Serving Related Workers, All Other",
+    "totalEmployment": 89580,
+    "p10": 24040,
+    "p25": 29890,
+    "p50": 34830,
+    "p75": 38860,
+    "p90": 47360
+  },
+  {
+    "code": "37-1011",
+    "title": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+    "totalEmployment": 174660,
+    "p10": 34390,
+    "p25": 38600,
+    "p50": 47520,
+    "p75": 60330,
+    "p90": 74190
+  },
+  {
+    "code": "37-1012",
+    "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+    "totalEmployment": 124130,
+    "p10": 39270,
+    "p25": 46350,
+    "p50": 56170,
+    "p75": 70320,
+    "p90": 83080
+  },
+  {
+    "code": "37-2011",
+    "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+    "totalEmployment": 2199900,
+    "p10": 27570,
+    "p25": 30830,
+    "p50": 35930,
+    "p75": 41650,
+    "p90": 49040
+  },
+  {
+    "code": "37-2012",
+    "title": "Maids and Housekeeping Cleaners",
+    "totalEmployment": 854910,
+    "p10": 26800,
+    "p25": 29630,
+    "p50": 34660,
+    "p75": 38510,
+    "p90": 47590
+  },
+  {
+    "code": "37-2019",
+    "title": "Building Cleaning Workers, All Other",
+    "totalEmployment": 16370,
+    "p10": 30640,
+    "p25": 35610,
+    "p50": 42360,
+    "p75": 48400,
+    "p90": 61640
+  },
+  {
+    "code": "37-2021",
+    "title": "Pest Control Workers",
+    "totalEmployment": 96110,
+    "p10": 32460,
+    "p25": 37060,
+    "p50": 44730,
+    "p75": 49300,
+    "p90": 61410
+  },
+  {
+    "code": "37-3011",
+    "title": "Landscaping and Groundskeeping Workers",
+    "totalEmployment": 943430,
+    "p10": 29990,
+    "p25": 35250,
+    "p50": 38090,
+    "p75": 45870,
+    "p90": 53900
+  },
+  {
+    "code": "37-3012",
+    "title": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+    "totalEmployment": 25200,
+    "p10": 34590,
+    "p25": 38040,
+    "p50": 45200,
+    "p75": 50960,
+    "p90": 58910
+  },
+  {
+    "code": "37-3013",
+    "title": "Tree Trimmers and Pruners",
+    "totalEmployment": 47870,
+    "p10": 37660,
+    "p25": 43690,
+    "p50": 50430,
+    "p75": 63130,
+    "p90": 78900
+  },
+  {
+    "code": "37-3019",
+    "title": "Grounds Maintenance Workers, All Other",
+    "totalEmployment": 13580,
+    "p10": 30790,
+    "p25": 37810,
+    "p50": 43410,
+    "p75": 52830,
+    "p90": 76090
+  },
+  {
+    "code": "39-1013",
+    "title": "First-Line Supervisors of Gambling Services Workers",
+    "totalEmployment": 25530,
+    "p10": 38360,
+    "p25": 49190,
+    "p50": 61590,
+    "p75": 74080,
+    "p90": 82370
+  },
+  {
+    "code": "39-1014",
+    "title": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+    "totalEmployment": 92830,
+    "p10": 32960,
+    "p25": 37960,
+    "p50": 46900,
+    "p75": 60190,
+    "p90": 76430
+  },
+  {
+    "code": "39-1022",
+    "title": "First-Line Supervisors of Personal Service Workers",
+    "totalEmployment": 107060,
+    "p10": 32150,
+    "p25": 37800,
+    "p50": 47080,
+    "p75": 59330,
+    "p90": 73800
+  },
+  {
+    "code": "39-2011",
+    "title": "Animal Trainers",
+    "totalEmployment": 20110,
+    "p10": 29120,
+    "p25": 32870,
+    "p50": 38750,
+    "p75": 48900,
+    "p90": 70800
+  },
+  {
+    "code": "39-2021",
+    "title": "Animal Caretakers",
+    "totalEmployment": 277300,
+    "p10": 24500,
+    "p25": 28870,
+    "p50": 33470,
+    "p75": 37160,
+    "p90": 46480
+  },
+  {
+    "code": "39-3011",
+    "title": "Gambling Dealers",
+    "totalEmployment": 82980,
+    "p10": 22340,
+    "p25": 24480,
+    "p50": 33280,
+    "p75": 45430,
+    "p90": 73530
+  },
+  {
+    "code": "39-3012",
+    "title": "Gambling and Sports Book Writers and Runners",
+    "totalEmployment": 7600,
+    "p10": 22200,
+    "p25": 24960,
+    "p50": 30460,
+    "p75": 36310,
+    "p90": 45900
+  },
+  {
+    "code": "39-3019",
+    "title": "Gambling Service Workers, All Other",
+    "totalEmployment": 14920,
+    "p10": 22880,
+    "p25": 27570,
+    "p50": 34530,
+    "p75": 38950,
+    "p90": 56740
+  },
+  {
+    "code": "39-3021",
+    "title": "Motion Picture Projectionists",
+    "totalEmployment": 1950,
+    "p10": 24160,
+    "p25": 29250,
+    "p50": 38180,
+    "p75": 75380,
+    "p90": 82040
+  },
+  {
+    "code": "39-3031",
+    "title": "Ushers, Lobby Attendants, and Ticket Takers",
+    "totalEmployment": 119210,
+    "p10": 22880,
+    "p25": 27140,
+    "p50": 31150,
+    "p75": 35650,
+    "p90": 40210
+  },
+  {
+    "code": "39-3091",
+    "title": "Amusement and Recreation Attendants",
+    "totalEmployment": 371590,
+    "p10": 21940,
+    "p25": 26430,
+    "p50": 30490,
+    "p75": 35360,
+    "p90": 39940
+  },
+  {
+    "code": "39-3092",
+    "title": "Costume Attendants",
+    "totalEmployment": 6290,
+    "p10": 33610,
+    "p25": 39240,
+    "p50": 54810,
+    "p75": 83090,
+    "p90": 115240
+  },
+  {
+    "code": "39-3093",
+    "title": "Locker Room, Coatroom, and Dressing Room Attendants",
+    "totalEmployment": 14960,
+    "p10": 23530,
+    "p25": 29120,
+    "p50": 34800,
+    "p75": 41530,
+    "p90": 50790
+  },
+  {
+    "code": "39-3099",
+    "title": "Entertainment Attendants and Related Workers, All Other",
+    "totalEmployment": 8060,
+    "p10": 22700,
+    "p25": 28180,
+    "p50": 34550,
+    "p75": 40360,
+    "p90": 52860
+  },
+  {
+    "code": "39-4011",
+    "title": "Embalmers",
+    "totalEmployment": 3420,
+    "p10": 35160,
+    "p25": 46160,
+    "p50": 56280,
+    "p75": 64760,
+    "p90": 78740
+  },
+  {
+    "code": "39-4012",
+    "title": "Crematory Operators",
+    "totalEmployment": 2950,
+    "p10": 31970,
+    "p25": 35890,
+    "p50": 42880,
+    "p75": 49800,
+    "p90": 60260
+  },
+  {
+    "code": "39-4021",
+    "title": "Funeral Attendants",
+    "totalEmployment": 30560,
+    "p10": 26820,
+    "p25": 29420,
+    "p50": 34610,
+    "p75": 39230,
+    "p90": 46690
+  },
+  {
+    "code": "39-4031",
+    "title": "Morticians, Undertakers, and Funeral Arrangers",
+    "totalEmployment": 25700,
+    "p10": 31470,
+    "p25": 38470,
+    "p50": 49800,
+    "p75": 67140,
+    "p90": 85940
+  },
+  {
+    "code": "39-5011",
+    "title": "Barbers",
+    "totalEmployment": 18100,
+    "p10": 27770,
+    "p25": 32050,
+    "p50": 38960,
+    "p75": 59180,
+    "p90": 78440
+  },
+  {
+    "code": "39-5012",
+    "title": "Hairdressers, Hairstylists, and Cosmetologists",
+    "totalEmployment": 295460,
+    "p10": 24580,
+    "p25": 29060,
+    "p50": 35250,
+    "p75": 48300,
+    "p90": 70220
+  },
+  {
+    "code": "39-5091",
+    "title": "Makeup Artists, Theatrical and Performance",
+    "totalEmployment": 3320,
+    "p10": 22010,
+    "p25": 28850,
+    "p50": 50280,
+    "p75": 132530,
+    "p90": 157090
+  },
+  {
+    "code": "39-5092",
+    "title": "Manicurists and Pedicurists",
+    "totalEmployment": 147820,
+    "p10": 27910,
+    "p25": 31510,
+    "p50": 34660,
+    "p75": 37660,
+    "p90": 47990
+  },
+  {
+    "code": "39-5093",
+    "title": "Shampooers",
+    "totalEmployment": 8890,
+    "p10": 22880,
+    "p25": 27390,
+    "p50": 31470,
+    "p75": 35610,
+    "p90": 35970
+  },
+  {
+    "code": "39-5094",
+    "title": "Skincare Specialists",
+    "totalEmployment": 70240,
+    "p10": 27160,
+    "p25": 34130,
+    "p50": 41560,
+    "p75": 55860,
+    "p90": 77330
+  },
+  {
+    "code": "39-6011",
+    "title": "Baggage Porters and Bellhops",
+    "totalEmployment": 31220,
+    "p10": 25480,
+    "p25": 29830,
+    "p50": 36020,
+    "p75": 40780,
+    "p90": 48490
+  },
+  {
+    "code": "39-6012",
+    "title": "Concierges",
+    "totalEmployment": 44200,
+    "p10": 30770,
+    "p25": 33860,
+    "p50": 37320,
+    "p75": 45700,
+    "p90": 58050
+  },
+  {
+    "code": "39-7010",
+    "title": "Tour and Travel Guides",
+    "totalEmployment": 49010,
+    "p10": 26890,
+    "p25": 31250,
+    "p50": 36660,
+    "p75": 45910,
+    "p90": 59930
+  },
+  {
+    "code": "39-9011",
+    "title": "Childcare Workers",
+    "totalEmployment": 520180,
+    "p10": 22900,
+    "p25": 28000,
+    "p50": 32050,
+    "p75": 36960,
+    "p90": 44560
+  },
+  {
+    "code": "39-9031",
+    "title": "Exercise Trainers and Group Fitness Instructors",
+    "totalEmployment": 303620,
+    "p10": 27580,
+    "p25": 34090,
+    "p50": 46180,
+    "p75": 60920,
+    "p90": 82050
+  },
+  {
+    "code": "39-9032",
+    "title": "Recreation Workers",
+    "totalEmployment": 309640,
+    "p10": 25640,
+    "p25": 30460,
+    "p50": 35380,
+    "p75": 41120,
+    "p90": 49460
+  },
+  {
+    "code": "39-9041",
+    "title": "Residential Advisors",
+    "totalEmployment": 82810,
+    "p10": 28490,
+    "p25": 33890,
+    "p50": 39180,
+    "p75": 47590,
+    "p90": 58350
+  },
+  {
+    "code": "39-9099",
+    "title": "Personal Care and Service Workers, All Other",
+    "totalEmployment": 62390,
+    "p10": 24980,
+    "p25": 32450,
+    "p50": 37900,
+    "p75": 39190,
+    "p90": 49300
+  },
+  {
+    "code": "41-1011",
+    "title": "First-Line Supervisors of Retail Sales Workers",
+    "totalEmployment": 1113160,
+    "p10": 31120,
+    "p25": 37580,
+    "p50": 47320,
+    "p75": 60510,
+    "p90": 76560
+  },
+  {
+    "code": "41-1012",
+    "title": "First-Line Supervisors of Non-Retail Sales Workers",
+    "totalEmployment": 219010,
+    "p10": 48880,
+    "p25": 62730,
+    "p50": 84130,
+    "p75": 118190,
+    "p90": 162120
+  },
+  {
+    "code": "41-2011",
+    "title": "Cashiers",
+    "totalEmployment": 3148030,
+    "p10": 23070,
+    "p25": 27780,
+    "p50": 31190,
+    "p75": 35410,
+    "p90": 38220
+  },
+  {
+    "code": "41-2012",
+    "title": "Gambling Change Persons and Booth Cashiers",
+    "totalEmployment": 21930,
+    "p10": 22810,
+    "p25": 28870,
+    "p50": 34810,
+    "p75": 39350,
+    "p90": 49190
+  },
+  {
+    "code": "41-2021",
+    "title": "Counter and Rental Clerks",
+    "totalEmployment": 398620,
+    "p10": 28580,
+    "p25": 34200,
+    "p50": 38540,
+    "p75": 48290,
+    "p90": 62030
+  },
+  {
+    "code": "41-2022",
+    "title": "Parts Salespersons",
+    "totalEmployment": 265060,
+    "p10": 27770,
+    "p25": 30630,
+    "p50": 37440,
+    "p75": 48410,
+    "p90": 61750
+  },
+  {
+    "code": "41-2031",
+    "title": "Retail Salespersons",
+    "totalEmployment": 3800250,
+    "p10": 25600,
+    "p25": 29140,
+    "p50": 34580,
+    "p75": 37850,
+    "p90": 47930
+  },
+  {
+    "code": "41-3011",
+    "title": "Advertising Sales Agents",
+    "totalEmployment": 97470,
+    "p10": 33480,
+    "p25": 44980,
+    "p50": 61460,
+    "p75": 91430,
+    "p90": 133540
+  },
+  {
+    "code": "41-3021",
+    "title": "Insurance Sales Agents",
+    "totalEmployment": 469480,
+    "p10": 36390,
+    "p25": 45520,
+    "p50": 60370,
+    "p75": 91150,
+    "p90": 135660
+  },
+  {
+    "code": "41-3031",
+    "title": "Securities, Commodities, and Financial Services Sales Agents",
+    "totalEmployment": 472300,
+    "p10": 47080,
+    "p25": 51600,
+    "p50": 78140,
+    "p75": 129480,
+    "p90": 215210
+  },
+  {
+    "code": "41-3041",
+    "title": "Travel Agents",
+    "totalEmployment": 59150,
+    "p10": 33280,
+    "p25": 38760,
+    "p50": 48450,
+    "p75": 60880,
+    "p90": 74160
+  },
+  {
+    "code": "41-3091",
+    "title": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",
+    "totalEmployment": 1189330,
+    "p10": 36930,
+    "p25": 47120,
+    "p50": 66260,
+    "p75": 98780,
+    "p90": 142040
+  },
+  {
+    "code": "41-4011",
+    "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+    "totalEmployment": 293930,
+    "p10": 48840,
+    "p25": 65640,
+    "p50": 100070,
+    "p75": 146150,
+    "p90": 194890
+  },
+  {
+    "code": "41-4012",
+    "title": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+    "totalEmployment": 1266860,
+    "p10": 37860,
+    "p25": 49040,
+    "p50": 66780,
+    "p75": 97570,
+    "p90": 134470
+  },
+  {
+    "code": "41-9011",
+    "title": "Demonstrators and Product Promoters",
+    "totalEmployment": 64770,
+    "p10": 30910,
+    "p25": 33860,
+    "p50": 37960,
+    "p75": 50100,
+    "p90": 60320
+  },
+  {
+    "code": "41-9012",
+    "title": "Models",
+    "totalEmployment": 5350,
+    "p10": 38010,
+    "p25": 45760,
+    "p50": 89990,
+    "p75": 89990,
+    "p90": 124380
+  },
+  {
+    "code": "41-9021",
+    "title": "Real Estate Brokers",
+    "totalEmployment": 49590,
+    "p10": 36920,
+    "p25": 48200,
+    "p50": 72280,
+    "p75": 114220,
+    "p90": 166730
+  },
+  {
+    "code": "41-9022",
+    "title": "Real Estate Sales Agents",
+    "totalEmployment": 190600,
+    "p10": 31940,
+    "p25": 38940,
+    "p50": 56320,
+    "p75": 85440,
+    "p90": 125140
+  },
+  {
+    "code": "41-9031",
+    "title": "Sales Engineers",
+    "totalEmployment": 56690,
+    "p10": 70580,
+    "p25": 90690,
+    "p50": 121520,
+    "p75": 159200,
+    "p90": 202670
+  },
+  {
+    "code": "41-9041",
+    "title": "Telemarketers",
+    "totalEmployment": 66430,
+    "p10": 24620,
+    "p25": 29120,
+    "p50": 34410,
+    "p75": 38640,
+    "p90": 48930
+  },
+  {
+    "code": "41-9091",
+    "title": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+    "totalEmployment": 4590,
+    "p10": 23440,
+    "p25": 31200,
+    "p50": 34530,
+    "p75": 42970,
+    "p90": 55970
+  },
+  {
+    "code": "41-9099",
+    "title": "Sales and Related Workers, All Other",
+    "totalEmployment": 99070,
+    "p10": 28060,
+    "p25": 35040,
+    "p50": 46370,
+    "p75": 66240,
+    "p90": 95850
+  },
+  {
+    "code": "43-1011",
+    "title": "First-Line Supervisors of Office and Administrative Support Workers",
+    "totalEmployment": 1495580,
+    "p10": 43920,
+    "p25": 53190,
+    "p50": 66140,
+    "p75": 82340,
+    "p90": 102980
+  },
+  {
+    "code": "43-2011",
+    "title": "Switchboard Operators, Including Answering Service",
+    "totalEmployment": 35730,
+    "p10": 29820,
+    "p25": 34250,
+    "p50": 38370,
+    "p75": 46330,
+    "p90": 60940
+  },
+  {
+    "code": "43-2021",
+    "title": "Telephone Operators",
+    "totalEmployment": 3950,
+    "p10": 31440,
+    "p25": 35860,
+    "p50": 39130,
+    "p75": 48530,
+    "p90": 57510
+  },
+  {
+    "code": "43-2099",
+    "title": "Communications Equipment Operators, All Other",
+    "totalEmployment": 1390,
+    "p10": 35980,
+    "p25": 44620,
+    "p50": 49910,
+    "p75": 64310,
+    "p90": 89110
+  },
+  {
+    "code": "43-3011",
+    "title": "Bill and Account Collectors",
+    "totalEmployment": 165020,
+    "p10": 33960,
+    "p25": 38290,
+    "p50": 46040,
+    "p75": 54990,
+    "p90": 65830
+  },
+  {
+    "code": "43-3021",
+    "title": "Billing and Posting Clerks",
+    "totalEmployment": 417500,
+    "p10": 35760,
+    "p25": 40260,
+    "p50": 47170,
+    "p75": 56350,
+    "p90": 64990
+  },
+  {
+    "code": "43-3031",
+    "title": "Bookkeeping, Accounting, and Auditing Clerks",
+    "totalEmployment": 1455770,
+    "p10": 34600,
+    "p25": 41390,
+    "p50": 49210,
+    "p75": 60220,
+    "p90": 72660
+  },
+  {
+    "code": "43-3041",
+    "title": "Gambling Cage Workers",
+    "totalEmployment": 13490,
+    "p10": 27940,
+    "p25": 31870,
+    "p50": 36990,
+    "p75": 43840,
+    "p90": 49350
+  },
+  {
+    "code": "43-3051",
+    "title": "Payroll and Timekeeping Clerks",
+    "totalEmployment": 156950,
+    "p10": 36670,
+    "p25": 45440,
+    "p50": 55290,
+    "p75": 65750,
+    "p90": 78830
+  },
+  {
+    "code": "43-3061",
+    "title": "Procurement Clerks",
+    "totalEmployment": 59900,
+    "p10": 36810,
+    "p25": 41240,
+    "p50": 48510,
+    "p75": 57680,
+    "p90": 65890
+  },
+  {
+    "code": "43-3071",
+    "title": "Tellers",
+    "totalEmployment": 339340,
+    "p10": 31270,
+    "p25": 36420,
+    "p50": 39340,
+    "p75": 45550,
+    "p90": 48270
+  },
+  {
+    "code": "43-3099",
+    "title": "Financial Clerks, All Other",
+    "totalEmployment": 37030,
+    "p10": 38770,
+    "p25": 46350,
+    "p50": 52150,
+    "p75": 61190,
+    "p90": 75860
+  },
+  {
+    "code": "43-4011",
+    "title": "Brokerage Clerks",
+    "totalEmployment": 40090,
+    "p10": 47730,
+    "p25": 53880,
+    "p50": 62940,
+    "p75": 77400,
+    "p90": 91650
+  },
+  {
+    "code": "43-4021",
+    "title": "Correspondence Clerks",
+    "totalEmployment": 6260,
+    "p10": 33530,
+    "p25": 38510,
+    "p50": 46740,
+    "p75": 52480,
+    "p90": 62200
+  },
+  {
+    "code": "43-4031",
+    "title": "Court, Municipal, and License Clerks",
+    "totalEmployment": 170010,
+    "p10": 34860,
+    "p25": 39730,
+    "p50": 47700,
+    "p75": 59590,
+    "p90": 72370
+  },
+  {
+    "code": "43-4041",
+    "title": "Credit Authorizers, Checkers, and Clerks",
+    "totalEmployment": 11960,
+    "p10": 34590,
+    "p25": 40850,
+    "p50": 49130,
+    "p75": 59530,
+    "p90": 71730
+  },
+  {
+    "code": "43-4051",
+    "title": "Customer Service Representatives",
+    "totalEmployment": 2725930,
+    "p10": 30690,
+    "p25": 35970,
+    "p50": 42830,
+    "p75": 50140,
+    "p90": 62730
+  },
+  {
+    "code": "43-4061",
+    "title": "Eligibility Interviewers, Government Programs",
+    "totalEmployment": 156260,
+    "p10": 37690,
+    "p25": 43850,
+    "p50": 51500,
+    "p75": 61680,
+    "p90": 72280
+  },
+  {
+    "code": "43-4071",
+    "title": "File Clerks",
+    "totalEmployment": 78980,
+    "p10": 29620,
+    "p25": 35120,
+    "p50": 41270,
+    "p75": 50020,
+    "p90": 61080
+  },
+  {
+    "code": "43-4081",
+    "title": "Hotel, Motel, and Resort Desk Clerks",
+    "totalEmployment": 261430,
+    "p10": 26600,
+    "p25": 29210,
+    "p50": 34270,
+    "p75": 37430,
+    "p90": 44720
+  },
+  {
+    "code": "43-4111",
+    "title": "Interviewers, Except Eligibility and Loan",
+    "totalEmployment": 157310,
+    "p10": 31980,
+    "p25": 37380,
+    "p50": 43830,
+    "p75": 50440,
+    "p90": 60960
+  },
+  {
+    "code": "43-4121",
+    "title": "Library Assistants, Clerical",
+    "totalEmployment": 80070,
+    "p10": 25090,
+    "p25": 30190,
+    "p50": 36010,
+    "p75": 44200,
+    "p90": 52790
+  },
+  {
+    "code": "43-4131",
+    "title": "Loan Interviewers and Clerks",
+    "totalEmployment": 173100,
+    "p10": 36360,
+    "p25": 42720,
+    "p50": 48950,
+    "p75": 59520,
+    "p90": 65910
+  },
+  {
+    "code": "43-4141",
+    "title": "New Accounts Clerks",
+    "totalEmployment": 38030,
+    "p10": 36980,
+    "p25": 40050,
+    "p50": 46610,
+    "p75": 51510,
+    "p90": 60110
+  },
+  {
+    "code": "43-4151",
+    "title": "Order Clerks",
+    "totalEmployment": 83420,
+    "p10": 33530,
+    "p25": 38110,
+    "p50": 44660,
+    "p75": 51890,
+    "p90": 61680
+  },
+  {
+    "code": "43-4161",
+    "title": "Human Resources Assistants, Except Payroll and Timekeeping",
+    "totalEmployment": 92580,
+    "p10": 36090,
+    "p25": 42360,
+    "p50": 49440,
+    "p75": 58560,
+    "p90": 67140
+  },
+  {
+    "code": "43-4171",
+    "title": "Receptionists and Information Clerks",
+    "totalEmployment": 964530,
+    "p10": 28280,
+    "p25": 32660,
+    "p50": 37230,
+    "p75": 44070,
+    "p90": 48870
+  },
+  {
+    "code": "43-4181",
+    "title": "Reservation and Transportation Ticket Agents and Travel Clerks",
+    "totalEmployment": 127440,
+    "p10": 34550,
+    "p25": 37200,
+    "p50": 41460,
+    "p75": 54930,
+    "p90": 75050
+  },
+  {
+    "code": "43-4199",
+    "title": "Information and Record Clerks, All Other",
+    "totalEmployment": 143910,
+    "p10": 34170,
+    "p25": 39610,
+    "p50": 48360,
+    "p75": 58680,
+    "p90": 68850
+  },
+  {
+    "code": "43-5011",
+    "title": "Cargo and Freight Agents",
+    "totalEmployment": 97800,
+    "p10": 37240,
+    "p25": 43490,
+    "p50": 49900,
+    "p75": 62230,
+    "p90": 76350
+  },
+  {
+    "code": "43-5021",
+    "title": "Couriers and Messengers",
+    "totalEmployment": 71920,
+    "p10": 29880,
+    "p25": 35130,
+    "p50": 38340,
+    "p75": 44630,
+    "p90": 50590
+  },
+  {
+    "code": "43-5031",
+    "title": "Public Safety Telecommunicators",
+    "totalEmployment": 101140,
+    "p10": 35640,
+    "p25": 42140,
+    "p50": 50730,
+    "p75": 62840,
+    "p90": 78110
+  },
+  {
+    "code": "43-5032",
+    "title": "Dispatchers, Except Police, Fire, and Ambulance",
+    "totalEmployment": 211000,
+    "p10": 34600,
+    "p25": 40240,
+    "p50": 48880,
+    "p75": 61520,
+    "p90": 76130
+  },
+  {
+    "code": "43-5041",
+    "title": "Meter Readers, Utilities",
+    "totalEmployment": 19620,
+    "p10": 33980,
+    "p25": 39620,
+    "p50": 49180,
+    "p75": 68030,
+    "p90": 86480
+  },
+  {
+    "code": "43-5051",
+    "title": "Postal Service Clerks",
+    "totalEmployment": 78060,
+    "p10": 42600,
+    "p25": 55410,
+    "p50": 61630,
+    "p75": 74050,
+    "p90": 74050
+  },
+  {
+    "code": "43-5052",
+    "title": "Postal Service Mail Carriers",
+    "totalEmployment": 336040,
+    "p10": 42390,
+    "p25": 46030,
+    "p50": 57490,
+    "p75": 75300,
+    "p90": 76880
+  },
+  {
+    "code": "43-5053",
+    "title": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+    "totalEmployment": 111930,
+    "p10": 42600,
+    "p25": 47380,
+    "p50": 56530,
+    "p75": 72970,
+    "p90": 74050
+  },
+  {
+    "code": "43-5061",
+    "title": "Production, Planning, and Expediting Clerks",
+    "totalEmployment": 385000,
+    "p10": 38570,
+    "p25": 46600,
+    "p50": 57770,
+    "p75": 71480,
+    "p90": 84810
+  },
+  {
+    "code": "43-5071",
+    "title": "Shipping, Receiving, and Inventory Clerks",
+    "totalEmployment": 857630,
+    "p10": 32900,
+    "p25": 37040,
+    "p50": 43190,
+    "p75": 49390,
+    "p90": 60300
+  },
+  {
+    "code": "43-5111",
+    "title": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+    "totalEmployment": 49720,
+    "p10": 34580,
+    "p25": 38650,
+    "p50": 45650,
+    "p75": 53060,
+    "p90": 60120
+  },
+  {
+    "code": "43-6011",
+    "title": "Executive Secretaries and Executive Administrative Assistants",
+    "totalEmployment": 472770,
+    "p10": 48300,
+    "p25": 60000,
+    "p50": 74260,
+    "p75": 90440,
+    "p90": 107710
+  },
+  {
+    "code": "43-6012",
+    "title": "Legal Secretaries and Administrative Assistants",
+    "totalEmployment": 154540,
+    "p10": 35530,
+    "p25": 42720,
+    "p50": 54140,
+    "p75": 72090,
+    "p90": 87660
+  },
+  {
+    "code": "43-6013",
+    "title": "Medical Secretaries and Administrative Assistants",
+    "totalEmployment": 830760,
+    "p10": 35050,
+    "p25": 37880,
+    "p50": 44640,
+    "p75": 49720,
+    "p90": 60050
+  },
+  {
+    "code": "43-6014",
+    "title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+    "totalEmployment": 1737820,
+    "p10": 31600,
+    "p25": 37770,
+    "p50": 46290,
+    "p75": 55650,
+    "p90": 64150
+  },
+  {
+    "code": "43-9021",
+    "title": "Data Entry Keyers",
+    "totalEmployment": 135280,
+    "p10": 30100,
+    "p25": 34900,
+    "p50": 39850,
+    "p75": 47260,
+    "p90": 56930
+  },
+  {
+    "code": "43-9022",
+    "title": "Word Processors and Typists",
+    "totalEmployment": 36030,
+    "p10": 35300,
+    "p25": 39740,
+    "p50": 47850,
+    "p75": 56000,
+    "p90": 64370
+  },
+  {
+    "code": "43-9031",
+    "title": "Desktop Publishers",
+    "totalEmployment": 4000,
+    "p10": 34650,
+    "p25": 42680,
+    "p50": 53620,
+    "p75": 71990,
+    "p90": 92880
+  },
+  {
+    "code": "43-9041",
+    "title": "Insurance Claims and Policy Processing Clerks",
+    "totalEmployment": 229070,
+    "p10": 36900,
+    "p25": 41600,
+    "p50": 48450,
+    "p75": 59500,
+    "p90": 73100
+  },
+  {
+    "code": "43-9051",
+    "title": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+    "totalEmployment": 62730,
+    "p10": 29460,
+    "p25": 34440,
+    "p50": 38150,
+    "p75": 44940,
+    "p90": 52150
+  },
+  {
+    "code": "43-9061",
+    "title": "Office Clerks, General",
+    "totalEmployment": 2510550,
+    "p10": 29120,
+    "p25": 35350,
+    "p50": 43630,
+    "p75": 52560,
+    "p90": 63840
+  },
+  {
+    "code": "43-9071",
+    "title": "Office Machine Operators, Except Computer",
+    "totalEmployment": 24740,
+    "p10": 29850,
+    "p25": 34420,
+    "p50": 39020,
+    "p75": 46680,
+    "p90": 56340
+  },
+  {
+    "code": "43-9081",
+    "title": "Proofreaders and Copy Markers",
+    "totalEmployment": 5160,
+    "p10": 33530,
+    "p25": 38590,
+    "p50": 49210,
+    "p75": 62380,
+    "p90": 78040
+  },
+  {
+    "code": "43-9111",
+    "title": "Statistical Assistants",
+    "totalEmployment": 5900,
+    "p10": 38050,
+    "p25": 45970,
+    "p50": 51440,
+    "p75": 63620,
+    "p90": 79410
+  },
+  {
+    "code": "43-9199",
+    "title": "Office and Administrative Support Workers, All Other",
+    "totalEmployment": 195890,
+    "p10": 30480,
+    "p25": 35390,
+    "p50": 46040,
+    "p75": 57500,
+    "p90": 71840
+  },
+  {
+    "code": "45-1011",
+    "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+    "totalEmployment": 29530,
+    "p10": 39610,
+    "p25": 47660,
+    "p50": 59330,
+    "p75": 76640,
+    "p90": 90840
+  },
+  {
+    "code": "45-2011",
+    "title": "Agricultural Inspectors",
+    "totalEmployment": 12090,
+    "p10": 37440,
+    "p25": 42740,
+    "p50": 50990,
+    "p75": 64960,
+    "p90": 80240
+  },
+  {
+    "code": "45-2021",
+    "title": "Animal Breeders",
+    "totalEmployment": 1730,
+    "p10": 37130,
+    "p25": 43310,
+    "p50": 52000,
+    "p75": 59630,
+    "p90": 89970
+  },
+  {
+    "code": "45-2041",
+    "title": "Graders and Sorters, Agricultural Products",
+    "totalEmployment": 26870,
+    "p10": 30490,
+    "p25": 33550,
+    "p50": 35430,
+    "p75": 38010,
+    "p90": 43280
+  },
+  {
+    "code": "45-2091",
+    "title": "Agricultural Equipment Operators",
+    "totalEmployment": 30940,
+    "p10": 31240,
+    "p25": 36640,
+    "p50": 42580,
+    "p75": 48690,
+    "p90": 57790
+  },
+  {
+    "code": "45-2092",
+    "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+    "totalEmployment": 261690,
+    "p10": 32260,
+    "p25": 34280,
+    "p50": 35690,
+    "p75": 38950,
+    "p90": 46370
+  },
+  {
+    "code": "45-2093",
+    "title": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+    "totalEmployment": 35420,
+    "p10": 27110,
+    "p25": 31220,
+    "p50": 36150,
+    "p75": 44280,
+    "p90": 51840
+  },
+  {
+    "code": "45-2099",
+    "title": "Agricultural Workers, All Other",
+    "totalEmployment": 4980,
+    "p10": 27860,
+    "p25": 33870,
+    "p50": 40390,
+    "p75": 52730,
+    "p90": 76730
+  },
+  {
+    "code": "45-4011",
+    "title": "Forest and Conservation Workers",
+    "totalEmployment": 5630,
+    "p10": 33050,
+    "p25": 36400,
+    "p50": 43680,
+    "p75": 45200,
+    "p90": 54190
+  },
+  {
+    "code": "45-4021",
+    "title": "Fallers",
+    "totalEmployment": 4110,
+    "p10": 35620,
+    "p25": 43670,
+    "p50": 53900,
+    "p75": 65040,
+    "p90": 84510
+  },
+  {
+    "code": "45-4022",
+    "title": "Logging Equipment Operators",
+    "totalEmployment": 22520,
+    "p10": 35050,
+    "p25": 43750,
+    "p50": 49210,
+    "p75": 60640,
+    "p90": 72280
+  },
+  {
+    "code": "45-4023",
+    "title": "Log Graders and Scalers",
+    "totalEmployment": 3310,
+    "p10": 35050,
+    "p25": 38390,
+    "p50": 46710,
+    "p75": 56200,
+    "p90": 63370
+  },
+  {
+    "code": "45-4029",
+    "title": "Logging Workers, All Other",
+    "totalEmployment": 2160,
+    "p10": 37260,
+    "p25": 42010,
+    "p50": 52000,
+    "p75": 62000,
+    "p90": 72070
+  },
+  {
+    "code": "47-1011",
+    "title": "First-Line Supervisors of Construction Trades and Extraction Workers",
+    "totalEmployment": 806080,
+    "p10": 51290,
+    "p25": 62400,
+    "p50": 78690,
+    "p75": 100200,
+    "p90": 126690
+  },
+  {
+    "code": "47-2011",
+    "title": "Boilermakers",
+    "totalEmployment": 10170,
+    "p10": 48390,
+    "p25": 62230,
+    "p50": 73340,
+    "p75": 93520,
+    "p90": 107600
+  },
+  {
+    "code": "47-2021",
+    "title": "Brickmasons and Blockmasons",
+    "totalEmployment": 53520,
+    "p10": 41330,
+    "p25": 49430,
+    "p50": 60800,
+    "p75": 77290,
+    "p90": 95560
+  },
+  {
+    "code": "47-2022",
+    "title": "Stonemasons",
+    "totalEmployment": 8750,
+    "p10": 37420,
+    "p25": 44820,
+    "p50": 51990,
+    "p75": 64120,
+    "p90": 83200
+  },
+  {
+    "code": "47-2031",
+    "title": "Carpenters",
+    "totalEmployment": 697740,
+    "p10": 38760,
+    "p25": 47550,
+    "p50": 59310,
+    "p75": 75620,
+    "p90": 98370
+  },
+  {
+    "code": "47-2041",
+    "title": "Carpet Installers",
+    "totalEmployment": 14980,
+    "p10": 32830,
+    "p25": 39140,
+    "p50": 49850,
+    "p75": 65530,
+    "p90": 83200
+  },
+  {
+    "code": "47-2042",
+    "title": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+    "totalEmployment": 24850,
+    "p10": 37190,
+    "p25": 44760,
+    "p50": 54340,
+    "p75": 72390,
+    "p90": 97180
+  },
+  {
+    "code": "47-2043",
+    "title": "Floor Sanders and Finishers",
+    "totalEmployment": 4140,
+    "p10": 35790,
+    "p25": 41320,
+    "p50": 49150,
+    "p75": 58230,
+    "p90": 66510
+  },
+  {
+    "code": "47-2044",
+    "title": "Tile and Stone Setters",
+    "totalEmployment": 38740,
+    "p10": 36140,
+    "p25": 44540,
+    "p50": 52240,
+    "p75": 64980,
+    "p90": 82960
+  },
+  {
+    "code": "47-2051",
+    "title": "Cement Masons and Concrete Finishers",
+    "totalEmployment": 205230,
+    "p10": 38290,
+    "p25": 46020,
+    "p50": 54660,
+    "p75": 65840,
+    "p90": 87620
+  },
+  {
+    "code": "47-2053",
+    "title": "Terrazzo Workers and Finishers",
+    "totalEmployment": 1450,
+    "p10": 39360,
+    "p25": 46940,
+    "p50": 57260,
+    "p75": 73490,
+    "p90": 104510
+  },
+  {
+    "code": "47-2061",
+    "title": "Construction Laborers",
+    "totalEmployment": 1057660,
+    "p10": 34200,
+    "p25": 38100,
+    "p50": 46730,
+    "p75": 58910,
+    "p90": 77530
+  },
+  {
+    "code": "47-2071",
+    "title": "Paving, Surfacing, and Tamping Equipment Operators",
+    "totalEmployment": 45680,
+    "p10": 38030,
+    "p25": 44740,
+    "p50": 51650,
+    "p75": 66060,
+    "p90": 90110
+  },
+  {
+    "code": "47-2072",
+    "title": "Pile Driver Operators",
+    "totalEmployment": 3040,
+    "p10": 46690,
+    "p25": 54750,
+    "p50": 70510,
+    "p75": 103960,
+    "p90": 121990
+  },
+  {
+    "code": "47-2073",
+    "title": "Operating Engineers and Other Construction Equipment Operators",
+    "totalEmployment": 469270,
+    "p10": 40080,
+    "p25": 47780,
+    "p50": 58710,
+    "p75": 75750,
+    "p90": 100690
+  },
+  {
+    "code": "47-2081",
+    "title": "Drywall and Ceiling Tile Installers",
+    "totalEmployment": 82900,
+    "p10": 37810,
+    "p25": 46880,
+    "p50": 58140,
+    "p75": 72660,
+    "p90": 101380
+  },
+  {
+    "code": "47-2082",
+    "title": "Tapers",
+    "totalEmployment": 12500,
+    "p10": 43450,
+    "p25": 50780,
+    "p50": 64700,
+    "p75": 82990,
+    "p90": 106160
+  },
+  {
+    "code": "47-2111",
+    "title": "Electricians",
+    "totalEmployment": 742580,
+    "p10": 39430,
+    "p25": 48820,
+    "p50": 62350,
+    "p75": 81730,
+    "p90": 106030
+  },
+  {
+    "code": "47-2121",
+    "title": "Glaziers",
+    "totalEmployment": 57000,
+    "p10": 37710,
+    "p25": 45530,
+    "p50": 55440,
+    "p75": 68300,
+    "p90": 98780
+  },
+  {
+    "code": "47-2131",
+    "title": "Insulation Workers, Floor, Ceiling, and Wall",
+    "totalEmployment": 38610,
+    "p10": 35950,
+    "p25": 40270,
+    "p50": 48680,
+    "p75": 60420,
+    "p90": 77160
+  },
+  {
+    "code": "47-2132",
+    "title": "Insulation Workers, Mechanical",
+    "totalEmployment": 25640,
+    "p10": 39450,
+    "p25": 47480,
+    "p50": 57250,
+    "p75": 75300,
+    "p90": 94110
+  },
+  {
+    "code": "47-2141",
+    "title": "Painters, Construction and Maintenance",
+    "totalEmployment": 224180,
+    "p10": 36680,
+    "p25": 42510,
+    "p50": 48660,
+    "p75": 60270,
+    "p90": 76550
+  },
+  {
+    "code": "47-2142",
+    "title": "Paperhangers",
+    "totalEmployment": 1520,
+    "p10": 35020,
+    "p25": 40930,
+    "p50": 48260,
+    "p75": 58470,
+    "p90": 69470
+  },
+  {
+    "code": "47-2151",
+    "title": "Pipelayers",
+    "totalEmployment": 33580,
+    "p10": 36840,
+    "p25": 42320,
+    "p50": 48710,
+    "p75": 60980,
+    "p90": 80710
+  },
+  {
+    "code": "47-2152",
+    "title": "Plumbers, Pipefitters, and Steamfitters",
+    "totalEmployment": 455940,
+    "p10": 40670,
+    "p25": 48860,
+    "p50": 62970,
+    "p75": 81900,
+    "p90": 105150
+  },
+  {
+    "code": "47-2161",
+    "title": "Plasterers and Stucco Masons",
+    "totalEmployment": 20880,
+    "p10": 38610,
+    "p25": 46990,
+    "p50": 56020,
+    "p75": 72210,
+    "p90": 92930
+  },
+  {
+    "code": "47-2171",
+    "title": "Reinforcing Iron and Rebar Workers",
+    "totalEmployment": 14140,
+    "p10": 39470,
+    "p25": 47300,
+    "p50": 59280,
+    "p75": 74190,
+    "p90": 95530
+  },
+  {
+    "code": "47-2181",
+    "title": "Roofers",
+    "totalEmployment": 136740,
+    "p10": 37060,
+    "p25": 45300,
+    "p50": 50970,
+    "p75": 64010,
+    "p90": 80780
+  },
+  {
+    "code": "47-2211",
+    "title": "Sheet Metal Workers",
+    "totalEmployment": 117470,
+    "p10": 38030,
+    "p25": 47290,
+    "p50": 60850,
+    "p75": 79620,
+    "p90": 102680
+  },
+  {
+    "code": "47-2221",
+    "title": "Structural Iron and Steel Workers",
+    "totalEmployment": 64720,
+    "p10": 42000,
+    "p25": 49090,
+    "p50": 62700,
+    "p75": 82780,
+    "p90": 107520
+  },
+  {
+    "code": "47-2231",
+    "title": "Solar Photovoltaic Installers",
+    "totalEmployment": 28280,
+    "p10": 39070,
+    "p25": 46040,
+    "p50": 51860,
+    "p75": 63020,
+    "p90": 80150
+  },
+  {
+    "code": "47-3011",
+    "title": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+    "totalEmployment": 15660,
+    "p10": 35570,
+    "p25": 38600,
+    "p50": 46480,
+    "p75": 58080,
+    "p90": 68330
+  },
+  {
+    "code": "47-3012",
+    "title": "Helpers--Carpenters",
+    "totalEmployment": 24610,
+    "p10": 31540,
+    "p25": 35870,
+    "p50": 41600,
+    "p75": 46780,
+    "p90": 52380
+  },
+  {
+    "code": "47-3013",
+    "title": "Helpers--Electricians",
+    "totalEmployment": 64440,
+    "p10": 31200,
+    "p25": 36400,
+    "p50": 39890,
+    "p75": 47520,
+    "p90": 56770
+  },
+  {
+    "code": "47-3014",
+    "title": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+    "totalEmployment": 7220,
+    "p10": 31360,
+    "p25": 35230,
+    "p50": 38140,
+    "p75": 45290,
+    "p90": 51720
+  },
+  {
+    "code": "47-3015",
+    "title": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+    "totalEmployment": 43640,
+    "p10": 31050,
+    "p25": 35750,
+    "p50": 39270,
+    "p75": 46550,
+    "p90": 54860
+  },
+  {
+    "code": "47-3016",
+    "title": "Helpers--Roofers",
+    "totalEmployment": 5170,
+    "p10": 27780,
+    "p25": 34800,
+    "p50": 40590,
+    "p75": 47570,
+    "p90": 55310
+  },
+  {
+    "code": "47-3019",
+    "title": "Helpers, Construction Trades, All Other",
+    "totalEmployment": 25510,
+    "p10": 31200,
+    "p25": 36400,
+    "p50": 40760,
+    "p75": 48500,
+    "p90": 59280
+  },
+  {
+    "code": "47-4011",
+    "title": "Construction and Building Inspectors",
+    "totalEmployment": 137210,
+    "p10": 46560,
+    "p25": 57300,
+    "p50": 72120,
+    "p75": 92330,
+    "p90": 112320
+  },
+  {
+    "code": "47-4021",
+    "title": "Elevator and Escalator Installers and Repairers",
+    "totalEmployment": 23340,
+    "p10": 54720,
+    "p25": 76700,
+    "p50": 106580,
+    "p75": 131740,
+    "p90": 149250
+  },
+  {
+    "code": "47-4031",
+    "title": "Fence Erectors",
+    "totalEmployment": 22640,
+    "p10": 35090,
+    "p25": 39040,
+    "p50": 46940,
+    "p75": 57070,
+    "p90": 74660
+  },
+  {
+    "code": "47-4041",
+    "title": "Hazardous Materials Removal Workers",
+    "totalEmployment": 50570,
+    "p10": 37330,
+    "p25": 42710,
+    "p50": 48490,
+    "p75": 62150,
+    "p90": 82480
+  },
+  {
+    "code": "47-4051",
+    "title": "Highway Maintenance Workers",
+    "totalEmployment": 151750,
+    "p10": 35030,
+    "p25": 41540,
+    "p50": 49070,
+    "p75": 59600,
+    "p90": 69210
+  },
+  {
+    "code": "47-4061",
+    "title": "Rail-Track Laying and Maintenance Equipment Operators",
+    "totalEmployment": 16480,
+    "p10": 45720,
+    "p25": 51630,
+    "p50": 67370,
+    "p75": 79330,
+    "p90": 84840
+  },
+  {
+    "code": "47-4071",
+    "title": "Septic Tank Servicers and Sewer Pipe Cleaners",
+    "totalEmployment": 29050,
+    "p10": 36500,
+    "p25": 42700,
+    "p50": 49140,
+    "p75": 60320,
+    "p90": 73670
+  },
+  {
+    "code": "47-4090",
+    "title": "Miscellaneous Construction and Related Workers",
+    "totalEmployment": 33530,
+    "p10": 35160,
+    "p25": 39990,
+    "p50": 48120,
+    "p75": 60960,
+    "p90": 77540
+  },
+  {
+    "code": "47-5011",
+    "title": "Derrick Operators, Oil and Gas",
+    "totalEmployment": 11040,
+    "p10": 42930,
+    "p25": 49440,
+    "p50": 62740,
+    "p75": 72820,
+    "p90": 84620
+  },
+  {
+    "code": "47-5012",
+    "title": "Rotary Drill Operators, Oil and Gas",
+    "totalEmployment": 13090,
+    "p10": 42750,
+    "p25": 52600,
+    "p50": 65010,
+    "p75": 81550,
+    "p90": 98510
+  },
+  {
+    "code": "47-5013",
+    "title": "Service Unit Operators, Oil and Gas",
+    "totalEmployment": 44120,
+    "p10": 40010,
+    "p25": 47330,
+    "p50": 57980,
+    "p75": 70510,
+    "p90": 93820
+  },
+  {
+    "code": "47-5022",
+    "title": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+    "totalEmployment": 34210,
+    "p10": 39650,
+    "p25": 46290,
+    "p50": 52550,
+    "p75": 63630,
+    "p90": 80970
+  },
+  {
+    "code": "47-5023",
+    "title": "Earth Drillers, Except Oil and Gas",
+    "totalEmployment": 17410,
+    "p10": 44450,
+    "p25": 49720,
+    "p50": 59600,
+    "p75": 73530,
+    "p90": 87760
+  },
+  {
+    "code": "47-5032",
+    "title": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+    "totalEmployment": 5680,
+    "p10": 45160,
+    "p25": 49860,
+    "p50": 59110,
+    "p75": 80050,
+    "p90": 104210
+  },
+  {
+    "code": "47-5041",
+    "title": "Continuous Mining Machine Operators",
+    "totalEmployment": 14340,
+    "p10": 41450,
+    "p25": 50850,
+    "p50": 63380,
+    "p75": 76850,
+    "p90": 84420
+  },
+  {
+    "code": "47-5043",
+    "title": "Roof Bolters, Mining",
+    "totalEmployment": 2230,
+    "p10": 50880,
+    "p25": 67110,
+    "p50": 76640,
+    "p75": 80230,
+    "p90": 87420
+  },
+  {
+    "code": "47-5044",
+    "title": "Loading and Moving Machine Operators, Underground Mining",
+    "totalEmployment": 6130,
+    "p10": 48310,
+    "p25": 59130,
+    "p50": 68860,
+    "p75": 76820,
+    "p90": 82900
+  },
+  {
+    "code": "47-5049",
+    "title": "Underground Mining Machine Operators, All Other",
+    "totalEmployment": 3480,
+    "p10": 46930,
+    "p25": 50660,
+    "p50": 67220,
+    "p75": 80440,
+    "p90": 82750
+  },
+  {
+    "code": "47-5051",
+    "title": "Rock Splitters, Quarry",
+    "totalEmployment": 3080,
+    "p10": 37240,
+    "p25": 39990,
+    "p50": 47460,
+    "p75": 58290,
+    "p90": 68380
+  },
+  {
+    "code": "47-5071",
+    "title": "Roustabouts, Oil and Gas",
+    "totalEmployment": 45330,
+    "p10": 35650,
+    "p25": 38330,
+    "p50": 47510,
+    "p75": 57170,
+    "p90": 64010
+  },
+  {
+    "code": "47-5081",
+    "title": "Helpers--Extraction Workers",
+    "totalEmployment": 6720,
+    "p10": 35770,
+    "p25": 39980,
+    "p50": 48400,
+    "p75": 57560,
+    "p90": 68240
+  },
+  {
+    "code": "47-5099",
+    "title": "Extraction Workers, All Other",
+    "totalEmployment": 6070,
+    "p10": 35720,
+    "p25": 39120,
+    "p50": 50110,
+    "p75": 65350,
+    "p90": 80780
+  },
+  {
+    "code": "49-1011",
+    "title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+    "totalEmployment": 600680,
+    "p10": 48460,
+    "p25": 61240,
+    "p50": 78300,
+    "p75": 99630,
+    "p90": 124280
+  },
+  {
+    "code": "49-2011",
+    "title": "Computer, Automated Teller, and Office Machine Repairers",
+    "totalEmployment": 73010,
+    "p10": 35120,
+    "p25": 38290,
+    "p50": 46860,
+    "p75": 59420,
+    "p90": 69560
+  },
+  {
+    "code": "49-2021",
+    "title": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+    "totalEmployment": 11400,
+    "p10": 42360,
+    "p25": 50610,
+    "p50": 64190,
+    "p75": 84770,
+    "p90": 102550
+  },
+  {
+    "code": "49-2022",
+    "title": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+    "totalEmployment": 153890,
+    "p10": 42440,
+    "p25": 50580,
+    "p50": 62630,
+    "p75": 80040,
+    "p90": 94970
+  },
+  {
+    "code": "49-2091",
+    "title": "Avionics Technicians",
+    "totalEmployment": 20900,
+    "p10": 49770,
+    "p25": 65170,
+    "p50": 81390,
+    "p75": 98990,
+    "p90": 113580
+  },
+  {
+    "code": "49-2092",
+    "title": "Electric Motor, Power Tool, and Related Repairers",
+    "totalEmployment": 16570,
+    "p10": 36310,
+    "p25": 44480,
+    "p50": 53990,
+    "p75": 66180,
+    "p90": 79230
+  },
+  {
+    "code": "49-2093",
+    "title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+    "totalEmployment": 7310,
+    "p10": 49490,
+    "p25": 65750,
+    "p50": 82730,
+    "p75": 95730,
+    "p90": 106110
+  },
+  {
+    "code": "49-2094",
+    "title": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+    "totalEmployment": 59990,
+    "p10": 44980,
+    "p25": 56750,
+    "p50": 71300,
+    "p75": 85160,
+    "p90": 103060
+  },
+  {
+    "code": "49-2095",
+    "title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+    "totalEmployment": 23040,
+    "p10": 60820,
+    "p25": 79930,
+    "p50": 100940,
+    "p75": 114740,
+    "p90": 127970
+  },
+  {
+    "code": "49-2096",
+    "title": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+    "totalEmployment": 10140,
+    "p10": 31680,
+    "p25": 39970,
+    "p50": 47940,
+    "p75": 58900,
+    "p90": 70480
+  },
+  {
+    "code": "49-2097",
+    "title": "Audiovisual Equipment Installers and Repairers",
+    "totalEmployment": 22170,
+    "p10": 36310,
+    "p25": 43330,
+    "p50": 50620,
+    "p75": 63250,
+    "p90": 82150
+  },
+  {
+    "code": "49-2098",
+    "title": "Security and Fire Alarm Systems Installers",
+    "totalEmployment": 81510,
+    "p10": 38410,
+    "p25": 47330,
+    "p50": 59300,
+    "p75": 71340,
+    "p90": 81980
+  },
+  {
+    "code": "49-3011",
+    "title": "Aircraft Mechanics and Service Technicians",
+    "totalEmployment": 136390,
+    "p10": 47790,
+    "p25": 61920,
+    "p50": 78680,
+    "p75": 95050,
+    "p90": 120080
+  },
+  {
+    "code": "49-3021",
+    "title": "Automotive Body and Related Repairers",
+    "totalEmployment": 155220,
+    "p10": 36390,
+    "p25": 45000,
+    "p50": 51680,
+    "p75": 64780,
+    "p90": 87040
+  },
+  {
+    "code": "49-3022",
+    "title": "Automotive Glass Installers and Repairers",
+    "totalEmployment": 18940,
+    "p10": 35080,
+    "p25": 39990,
+    "p50": 47260,
+    "p75": 58160,
+    "p90": 67480
+  },
+  {
+    "code": "49-3023",
+    "title": "Automotive Service Technicians and Mechanics",
+    "totalEmployment": 688840,
+    "p10": 33660,
+    "p25": 38140,
+    "p50": 49670,
+    "p75": 65660,
+    "p90": 80850
+  },
+  {
+    "code": "49-3031",
+    "title": "Bus and Truck Mechanics and Diesel Engine Specialists",
+    "totalEmployment": 287230,
+    "p10": 41670,
+    "p25": 49240,
+    "p50": 60640,
+    "p75": 73690,
+    "p90": 85980
+  },
+  {
+    "code": "49-3041",
+    "title": "Farm Equipment Mechanics and Service Technicians",
+    "totalEmployment": 36880,
+    "p10": 36920,
+    "p25": 45660,
+    "p50": 52080,
+    "p75": 63070,
+    "p90": 76860
+  },
+  {
+    "code": "49-3042",
+    "title": "Mobile Heavy Equipment Mechanics, Except Engines",
+    "totalEmployment": 180270,
+    "p10": 45450,
+    "p25": 53500,
+    "p50": 63980,
+    "p75": 78090,
+    "p90": 92360
+  },
+  {
+    "code": "49-3043",
+    "title": "Rail Car Repairers",
+    "totalEmployment": 18300,
+    "p10": 45670,
+    "p25": 51640,
+    "p50": 65680,
+    "p75": 80150,
+    "p90": 92000
+  },
+  {
+    "code": "49-3051",
+    "title": "Motorboat Mechanics and Service Technicians",
+    "totalEmployment": 24250,
+    "p10": 35950,
+    "p25": 45070,
+    "p50": 54950,
+    "p75": 65120,
+    "p90": 78820
+  },
+  {
+    "code": "49-3052",
+    "title": "Motorcycle Mechanics",
+    "totalEmployment": 14010,
+    "p10": 31770,
+    "p25": 38270,
+    "p50": 47200,
+    "p75": 58880,
+    "p90": 70210
+  },
+  {
+    "code": "49-3053",
+    "title": "Outdoor Power Equipment and Other Small Engine Mechanics",
+    "totalEmployment": 34240,
+    "p10": 33600,
+    "p25": 38260,
+    "p50": 46560,
+    "p75": 56080,
+    "p90": 64540
+  },
+  {
+    "code": "49-3091",
+    "title": "Bicycle Repairers",
+    "totalEmployment": 12590,
+    "p10": 30640,
+    "p25": 35880,
+    "p50": 40360,
+    "p75": 47560,
+    "p90": 52130
+  },
+  {
+    "code": "49-3092",
+    "title": "Recreational Vehicle Service Technicians",
+    "totalEmployment": 18710,
+    "p10": 35480,
+    "p25": 43370,
+    "p50": 50540,
+    "p75": 63300,
+    "p90": 76650
+  },
+  {
+    "code": "49-3093",
+    "title": "Tire Repairers and Changers",
+    "totalEmployment": 106620,
+    "p10": 29880,
+    "p25": 33990,
+    "p50": 37120,
+    "p75": 43810,
+    "p90": 48900
+  },
+  {
+    "code": "49-9011",
+    "title": "Mechanical Door Repairers",
+    "totalEmployment": 27970,
+    "p10": 37160,
+    "p25": 44720,
+    "p50": 51050,
+    "p75": 61350,
+    "p90": 73160
+  },
+  {
+    "code": "49-9012",
+    "title": "Control and Valve Installers and Repairers, Except Mechanical Door",
+    "totalEmployment": 46920,
+    "p10": 43840,
+    "p25": 53060,
+    "p50": 74690,
+    "p75": 97400,
+    "p90": 109050
+  },
+  {
+    "code": "49-9021",
+    "title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+    "totalEmployment": 396870,
+    "p10": 39130,
+    "p25": 47850,
+    "p50": 59810,
+    "p75": 74820,
+    "p90": 91020
+  },
+  {
+    "code": "49-9031",
+    "title": "Home Appliance Repairers",
+    "totalEmployment": 31940,
+    "p10": 33280,
+    "p25": 40280,
+    "p50": 49410,
+    "p75": 61750,
+    "p90": 77800
+  },
+  {
+    "code": "49-9041",
+    "title": "Industrial Machinery Mechanics",
+    "totalEmployment": 421940,
+    "p10": 45090,
+    "p25": 52710,
+    "p50": 63760,
+    "p75": 78070,
+    "p90": 92730
+  },
+  {
+    "code": "49-9043",
+    "title": "Maintenance Workers, Machinery",
+    "totalEmployment": 56540,
+    "p10": 40080,
+    "p25": 48600,
+    "p50": 60500,
+    "p75": 72260,
+    "p90": 83560
+  },
+  {
+    "code": "49-9044",
+    "title": "Millwrights",
+    "totalEmployment": 40660,
+    "p10": 45100,
+    "p25": 55420,
+    "p50": 65170,
+    "p75": 80580,
+    "p90": 93740
+  },
+  {
+    "code": "49-9045",
+    "title": "Refractory Materials Repairers, Except Brickmasons",
+    "totalEmployment": 1100,
+    "p10": 37050,
+    "p25": 48380,
+    "p50": 58540,
+    "p75": 73940,
+    "p90": 81440
+  },
+  {
+    "code": "49-9051",
+    "title": "Electrical Power-Line Installers and Repairers",
+    "totalEmployment": 123680,
+    "p10": 50020,
+    "p25": 65740,
+    "p50": 92560,
+    "p75": 107940,
+    "p90": 126610
+  },
+  {
+    "code": "49-9052",
+    "title": "Telecommunications Line Installers and Repairers",
+    "totalEmployment": 98360,
+    "p10": 42940,
+    "p25": 50620,
+    "p50": 70500,
+    "p75": 95520,
+    "p90": 104840
+  },
+  {
+    "code": "49-9061",
+    "title": "Camera and Photographic Equipment Repairers",
+    "totalEmployment": 2010,
+    "p10": 36020,
+    "p25": 42590,
+    "p50": 49300,
+    "p75": 62400,
+    "p90": 76550
+  },
+  {
+    "code": "49-9062",
+    "title": "Medical Equipment Repairers",
+    "totalEmployment": 60830,
+    "p10": 39060,
+    "p25": 48100,
+    "p50": 62630,
+    "p75": 79440,
+    "p90": 99290
+  },
+  {
+    "code": "49-9063",
+    "title": "Musical Instrument Repairers and Tuners",
+    "totalEmployment": 5730,
+    "p10": 30130,
+    "p25": 35820,
+    "p50": 45320,
+    "p75": 56960,
+    "p90": 73430
+  },
+  {
+    "code": "49-9064",
+    "title": "Watch and Clock Repairers",
+    "totalEmployment": 1300,
+    "p10": 39920,
+    "p25": 46530,
+    "p50": 60690,
+    "p75": 77340,
+    "p90": 92570
+  },
+  {
+    "code": "49-9069",
+    "title": "Precision Instrument and Equipment Repairers, All Other",
+    "totalEmployment": 9680,
+    "p10": 44530,
+    "p25": 52090,
+    "p50": 67080,
+    "p75": 82030,
+    "p90": 100730
+  },
+  {
+    "code": "49-9071",
+    "title": "Maintenance and Repair Workers, General",
+    "totalEmployment": 1531700,
+    "p10": 33860,
+    "p25": 39050,
+    "p50": 48620,
+    "p75": 61710,
+    "p90": 76110
+  },
+  {
+    "code": "49-9081",
+    "title": "Wind Turbine Service Technicians",
+    "totalEmployment": 11220,
+    "p10": 49110,
+    "p25": 58910,
+    "p50": 62580,
+    "p75": 75640,
+    "p90": 88090
+  },
+  {
+    "code": "49-9091",
+    "title": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+    "totalEmployment": 28260,
+    "p10": 31420,
+    "p25": 38580,
+    "p50": 47350,
+    "p75": 56290,
+    "p90": 64720
+  },
+  {
+    "code": "49-9092",
+    "title": "Commercial Divers",
+    "totalEmployment": 3430,
+    "p10": 39130,
+    "p25": 49370,
+    "p50": 61130,
+    "p75": 93840,
+    "p90": 152580
+  },
+  {
+    "code": "49-9094",
+    "title": "Locksmiths and Safe Repairers",
+    "totalEmployment": 15550,
+    "p10": 34750,
+    "p25": 40650,
+    "p50": 50490,
+    "p75": 64330,
+    "p90": 79340
+  },
+  {
+    "code": "49-9095",
+    "title": "Manufactured Building and Mobile Home Installers",
+    "totalEmployment": 2610,
+    "p10": 30280,
+    "p25": 35290,
+    "p50": 41080,
+    "p75": 48410,
+    "p90": 57190
+  },
+  {
+    "code": "49-9096",
+    "title": "Riggers",
+    "totalEmployment": 24190,
+    "p10": 38930,
+    "p25": 47940,
+    "p50": 62060,
+    "p75": 79340,
+    "p90": 100480
+  },
+  {
+    "code": "49-9097",
+    "title": "Signal and Track Switch Repairers",
+    "totalEmployment": 8210,
+    "p10": 57410,
+    "p25": 75680,
+    "p50": 83600,
+    "p75": 95620,
+    "p90": 104860
+  },
+  {
+    "code": "49-9098",
+    "title": "Helpers--Installation, Maintenance, and Repair Workers",
+    "totalEmployment": 97540,
+    "p10": 28770,
+    "p25": 33760,
+    "p50": 38860,
+    "p75": 46600,
+    "p90": 54650
+  },
+  {
+    "code": "49-9099",
+    "title": "Installation, Maintenance, and Repair Workers, All Other",
+    "totalEmployment": 183690,
+    "p10": 35270,
+    "p25": 40700,
+    "p50": 48640,
+    "p75": 61090,
+    "p90": 77150
+  },
+  {
+    "code": "51-1011",
+    "title": "First-Line Supervisors of Production and Operating Workers",
+    "totalEmployment": 685140,
+    "p10": 45790,
+    "p25": 56330,
+    "p50": 71190,
+    "p75": 86770,
+    "p90": 106960
+  },
+  {
+    "code": "51-2011",
+    "title": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+    "totalEmployment": 32890,
+    "p10": 46040,
+    "p25": 53180,
+    "p50": 61680,
+    "p75": 75240,
+    "p90": 94950
+  },
+  {
+    "code": "51-2021",
+    "title": "Coil Winders, Tapers, and Finishers",
+    "totalEmployment": 12170,
+    "p10": 35180,
+    "p25": 39380,
+    "p50": 47260,
+    "p75": 57800,
+    "p90": 62790
+  },
+  {
+    "code": "51-2028",
+    "title": "Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",
+    "totalEmployment": 261140,
+    "p10": 34110,
+    "p25": 37450,
+    "p50": 44040,
+    "p75": 49830,
+    "p90": 61080
+  },
+  {
+    "code": "51-2031",
+    "title": "Engine and Other Machine Assemblers",
+    "totalEmployment": 38420,
+    "p10": 37950,
+    "p25": 42790,
+    "p50": 52540,
+    "p75": 70050,
+    "p90": 74300
+  },
+  {
+    "code": "51-2041",
+    "title": "Structural Metal Fabricators and Fitters",
+    "totalEmployment": 53380,
+    "p10": 37370,
+    "p25": 44290,
+    "p50": 49900,
+    "p75": 59810,
+    "p90": 70510
+  },
+  {
+    "code": "51-2051",
+    "title": "Fiberglass Laminators and Fabricators",
+    "totalEmployment": 18520,
+    "p10": 35950,
+    "p25": 39230,
+    "p50": 45760,
+    "p75": 51530,
+    "p90": 61370
+  },
+  {
+    "code": "51-2061",
+    "title": "Timing Device Assemblers and Adjusters",
+    "totalEmployment": 230,
+    "p10": 26240,
+    "p25": 27850,
+    "p50": 40790,
+    "p75": 58440,
+    "p90": 65580
+  },
+  {
+    "code": "51-2090",
+    "title": "Miscellaneous Assemblers and Fabricators",
+    "totalEmployment": 1457800,
+    "p10": 31650,
+    "p25": 36660,
+    "p50": 42210,
+    "p75": 49410,
+    "p90": 62030
+  },
+  {
+    "code": "51-3011",
+    "title": "Bakers",
+    "totalEmployment": 231890,
+    "p10": 27560,
+    "p25": 31470,
+    "p50": 36650,
+    "p75": 42570,
+    "p90": 48260
+  },
+  {
+    "code": "51-3021",
+    "title": "Butchers and Meat Cutters",
+    "totalEmployment": 140040,
+    "p10": 28850,
+    "p25": 34460,
+    "p50": 38960,
+    "p75": 47200,
+    "p90": 57130
+  },
+  {
+    "code": "51-3022",
+    "title": "Meat, Poultry, and Fish Cutters and Trimmers",
+    "totalEmployment": 141090,
+    "p10": 29200,
+    "p25": 34050,
+    "p50": 37700,
+    "p75": 43450,
+    "p90": 48680
+  },
+  {
+    "code": "51-3023",
+    "title": "Slaughterers and Meat Packers",
+    "totalEmployment": 67500,
+    "p10": 31470,
+    "p25": 35940,
+    "p50": 39790,
+    "p75": 45930,
+    "p90": 49460
+  },
+  {
+    "code": "51-3091",
+    "title": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+    "totalEmployment": 19500,
+    "p10": 32390,
+    "p25": 36610,
+    "p50": 42730,
+    "p75": 48680,
+    "p90": 60070
+  },
+  {
+    "code": "51-3092",
+    "title": "Food Batchmakers",
+    "totalEmployment": 171660,
+    "p10": 30850,
+    "p25": 35340,
+    "p50": 40790,
+    "p75": 49010,
+    "p90": 57800
+  },
+  {
+    "code": "51-3093",
+    "title": "Food Cooking Machine Operators and Tenders",
+    "totalEmployment": 27660,
+    "p10": 30540,
+    "p25": 35310,
+    "p50": 40550,
+    "p75": 47420,
+    "p90": 54170
+  },
+  {
+    "code": "51-3099",
+    "title": "Food Processing Workers, All Other",
+    "totalEmployment": 57920,
+    "p10": 30290,
+    "p25": 35360,
+    "p50": 38420,
+    "p75": 43020,
+    "p90": 47470
+  },
+  {
+    "code": "51-4021",
+    "title": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 65700,
+    "p10": 35390,
+    "p25": 39370,
+    "p50": 46980,
+    "p75": 54360,
+    "p90": 62470
+  },
+  {
+    "code": "51-4022",
+    "title": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 8760,
+    "p10": 35150,
+    "p25": 41350,
+    "p50": 49240,
+    "p75": 59270,
+    "p90": 69540
+  },
+  {
+    "code": "51-4023",
+    "title": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 22350,
+    "p10": 37090,
+    "p25": 41600,
+    "p50": 48630,
+    "p75": 57730,
+    "p90": 67500
+  },
+  {
+    "code": "51-4031",
+    "title": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 174430,
+    "p10": 35000,
+    "p25": 38400,
+    "p50": 45590,
+    "p75": 52150,
+    "p90": 62650
+  },
+  {
+    "code": "51-4032",
+    "title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 5310,
+    "p10": 35360,
+    "p25": 41100,
+    "p50": 46630,
+    "p75": 56820,
+    "p90": 65200
+  },
+  {
+    "code": "51-4033",
+    "title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 70110,
+    "p10": 34980,
+    "p25": 38420,
+    "p50": 45190,
+    "p75": 51380,
+    "p90": 61550
+  },
+  {
+    "code": "51-4034",
+    "title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 18970,
+    "p10": 36200,
+    "p25": 41180,
+    "p50": 48620,
+    "p75": 58100,
+    "p90": 65450
+  },
+  {
+    "code": "51-4035",
+    "title": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 13810,
+    "p10": 36810,
+    "p25": 41650,
+    "p50": 48310,
+    "p75": 61290,
+    "p90": 75000
+  },
+  {
+    "code": "51-4041",
+    "title": "Machinists",
+    "totalEmployment": 298790,
+    "p10": 38100,
+    "p25": 46250,
+    "p50": 56150,
+    "p75": 64910,
+    "p90": 78760
+  },
+  {
+    "code": "51-4051",
+    "title": "Metal-Refining Furnace Operators and Tenders",
+    "totalEmployment": 20330,
+    "p10": 38760,
+    "p25": 46550,
+    "p50": 55770,
+    "p75": 65070,
+    "p90": 80280
+  },
+  {
+    "code": "51-4052",
+    "title": "Pourers and Casters, Metal",
+    "totalEmployment": 5830,
+    "p10": 37250,
+    "p25": 41410,
+    "p50": 48940,
+    "p75": 59850,
+    "p90": 68030
+  },
+  {
+    "code": "51-4061",
+    "title": "Model Makers, Metal and Plastic",
+    "totalEmployment": 3230,
+    "p10": 38430,
+    "p25": 48860,
+    "p50": 62700,
+    "p75": 79470,
+    "p90": 95780
+  },
+  {
+    "code": "51-4062",
+    "title": "Patternmakers, Metal and Plastic",
+    "totalEmployment": 1570,
+    "p10": 39150,
+    "p25": 47520,
+    "p50": 54540,
+    "p75": 66590,
+    "p90": 79690
+  },
+  {
+    "code": "51-4071",
+    "title": "Foundry Mold and Coremakers",
+    "totalEmployment": 12720,
+    "p10": 36220,
+    "p25": 39370,
+    "p50": 45700,
+    "p75": 51360,
+    "p90": 61390
+  },
+  {
+    "code": "51-4072",
+    "title": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 154820,
+    "p10": 31990,
+    "p25": 36290,
+    "p50": 41230,
+    "p75": 49100,
+    "p90": 60110
+  },
+  {
+    "code": "51-4081",
+    "title": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 129850,
+    "p10": 34130,
+    "p25": 38320,
+    "p50": 46060,
+    "p75": 56220,
+    "p90": 72850
+  },
+  {
+    "code": "51-4111",
+    "title": "Tool and Die Makers",
+    "totalEmployment": 55130,
+    "p10": 44200,
+    "p25": 51200,
+    "p50": 63180,
+    "p75": 77430,
+    "p90": 87660
+  },
+  {
+    "code": "51-4121",
+    "title": "Welders, Cutters, Solderers, and Brazers",
+    "totalEmployment": 424040,
+    "p10": 38130,
+    "p25": 45580,
+    "p50": 51000,
+    "p75": 61610,
+    "p90": 75850
+  },
+  {
+    "code": "51-4122",
+    "title": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+    "totalEmployment": 36290,
+    "p10": 35780,
+    "p25": 39480,
+    "p50": 47060,
+    "p75": 55870,
+    "p90": 66190
+  },
+  {
+    "code": "51-4191",
+    "title": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 14590,
+    "p10": 35260,
+    "p25": 39900,
+    "p50": 47450,
+    "p75": 56330,
+    "p90": 64290
+  },
+  {
+    "code": "51-4192",
+    "title": "Layout Workers, Metal and Plastic",
+    "totalEmployment": 5610,
+    "p10": 40430,
+    "p25": 51810,
+    "p50": 61870,
+    "p75": 76980,
+    "p90": 93230
+  },
+  {
+    "code": "51-4193",
+    "title": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "totalEmployment": 31510,
+    "p10": 31940,
+    "p25": 36620,
+    "p50": 41600,
+    "p75": 48990,
+    "p90": 58320
+  },
+  {
+    "code": "51-4194",
+    "title": "Tool Grinders, Filers, and Sharpeners",
+    "totalEmployment": 5730,
+    "p10": 33770,
+    "p25": 39520,
+    "p50": 48970,
+    "p75": 60210,
+    "p90": 74120
+  },
+  {
+    "code": "51-4199",
+    "title": "Metal Workers and Plastic Workers, All Other",
+    "totalEmployment": 20270,
+    "p10": 33850,
+    "p25": 36890,
+    "p50": 42750,
+    "p75": 49930,
+    "p90": 62800
+  },
+  {
+    "code": "51-5111",
+    "title": "Prepress Technicians and Workers",
+    "totalEmployment": 23070,
+    "p10": 34270,
+    "p25": 39000,
+    "p50": 47300,
+    "p75": 57530,
+    "p90": 65530
+  },
+  {
+    "code": "51-5112",
+    "title": "Printing Press Operators",
+    "totalEmployment": 145110,
+    "p10": 31450,
+    "p25": 36970,
+    "p50": 45160,
+    "p75": 54340,
+    "p90": 63060
+  },
+  {
+    "code": "51-5113",
+    "title": "Print Binding and Finishing Workers",
+    "totalEmployment": 36470,
+    "p10": 31110,
+    "p25": 36070,
+    "p50": 39820,
+    "p75": 48240,
+    "p90": 57980
+  },
+  {
+    "code": "51-6011",
+    "title": "Laundry and Dry-Cleaning Workers",
+    "totalEmployment": 195360,
+    "p10": 26270,
+    "p25": 29530,
+    "p50": 33800,
+    "p75": 36760,
+    "p90": 42370
+  },
+  {
+    "code": "51-6021",
+    "title": "Pressers, Textile, Garment, and Related Materials",
+    "totalEmployment": 26830,
+    "p10": 24960,
+    "p25": 29060,
+    "p50": 33880,
+    "p75": 36830,
+    "p90": 41410
+  },
+  {
+    "code": "51-6031",
+    "title": "Sewing Machine Operators",
+    "totalEmployment": 109590,
+    "p10": 26860,
+    "p25": 31200,
+    "p50": 36000,
+    "p75": 40810,
+    "p90": 47060
+  },
+  {
+    "code": "51-6041",
+    "title": "Shoe and Leather Workers and Repairers",
+    "totalEmployment": 7640,
+    "p10": 25170,
+    "p25": 29400,
+    "p50": 35950,
+    "p75": 41400,
+    "p90": 48090
+  },
+  {
+    "code": "51-6042",
+    "title": "Shoe Machine Operators and Tenders",
+    "totalEmployment": 3270,
+    "p10": 24160,
+    "p25": 30450,
+    "p50": 38160,
+    "p75": 43390,
+    "p90": 47860
+  },
+  {
+    "code": "51-6051",
+    "title": "Sewers, Hand",
+    "totalEmployment": 2240,
+    "p10": 25530,
+    "p25": 29210,
+    "p50": 33760,
+    "p75": 38180,
+    "p90": 46320
+  },
+  {
+    "code": "51-6052",
+    "title": "Tailors, Dressmakers, and Custom Sewers",
+    "totalEmployment": 16290,
+    "p10": 27110,
+    "p25": 33480,
+    "p50": 40860,
+    "p75": 49780,
+    "p90": 62490
+  },
+  {
+    "code": "51-6061",
+    "title": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+    "totalEmployment": 5820,
+    "p10": 28990,
+    "p25": 32350,
+    "p50": 37320,
+    "p75": 43230,
+    "p90": 47660
+  },
+  {
+    "code": "51-6062",
+    "title": "Textile Cutting Machine Setters, Operators, and Tenders",
+    "totalEmployment": 8960,
+    "p10": 27230,
+    "p25": 32380,
+    "p50": 37940,
+    "p75": 43710,
+    "p90": 49080
+  },
+  {
+    "code": "51-6063",
+    "title": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+    "totalEmployment": 14530,
+    "p10": 29640,
+    "p25": 34530,
+    "p50": 38260,
+    "p75": 44180,
+    "p90": 48070
+  },
+  {
+    "code": "51-6064",
+    "title": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+    "totalEmployment": 20600,
+    "p10": 30380,
+    "p25": 35270,
+    "p50": 37660,
+    "p75": 40970,
+    "p90": 46940
+  },
+  {
+    "code": "51-6091",
+    "title": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+    "totalEmployment": 14900,
+    "p10": 35590,
+    "p25": 38990,
+    "p50": 44980,
+    "p75": 54690,
+    "p90": 63650
+  },
+  {
+    "code": "51-6092",
+    "title": "Fabric and Apparel Patternmakers",
+    "totalEmployment": 2860,
+    "p10": 34590,
+    "p25": 44110,
+    "p50": 67670,
+    "p75": 91080,
+    "p90": 112540
+  },
+  {
+    "code": "51-6093",
+    "title": "Upholsterers",
+    "totalEmployment": 20990,
+    "p10": 32190,
+    "p25": 37200,
+    "p50": 46190,
+    "p75": 51740,
+    "p90": 63600
+  },
+  {
+    "code": "51-6099",
+    "title": "Textile, Apparel, and Furnishings Workers, All Other",
+    "totalEmployment": 14450,
+    "p10": 30290,
+    "p25": 32850,
+    "p50": 37010,
+    "p75": 44810,
+    "p90": 53710
+  },
+  {
+    "code": "51-7011",
+    "title": "Cabinetmakers and Bench Carpenters",
+    "totalEmployment": 79540,
+    "p10": 34700,
+    "p25": 38240,
+    "p50": 46020,
+    "p75": 54010,
+    "p90": 63220
+  },
+  {
+    "code": "51-7021",
+    "title": "Furniture Finishers",
+    "totalEmployment": 14230,
+    "p10": 31200,
+    "p25": 36770,
+    "p50": 42530,
+    "p75": 49020,
+    "p90": 59820
+  },
+  {
+    "code": "51-7031",
+    "title": "Model Makers, Wood",
+    "totalEmployment": 360,
+    "p10": 24710,
+    "p25": 40420,
+    "p50": 51850,
+    "p75": 80380,
+    "p90": 95850
+  },
+  {
+    "code": "51-7032",
+    "title": "Patternmakers, Wood",
+    "totalEmployment": 180,
+    "p10": 40730,
+    "p25": 45450,
+    "p50": 52520,
+    "p75": 77410,
+    "p90": 83330
+  },
+  {
+    "code": "51-7041",
+    "title": "Sawing Machine Setters, Operators, and Tenders, Wood",
+    "totalEmployment": 43140,
+    "p10": 29670,
+    "p25": 35550,
+    "p50": 39950,
+    "p75": 47770,
+    "p90": 56560
+  },
+  {
+    "code": "51-7042",
+    "title": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+    "totalEmployment": 63350,
+    "p10": 30920,
+    "p25": 36260,
+    "p50": 40440,
+    "p75": 47650,
+    "p90": 54340
+  },
+  {
+    "code": "51-7099",
+    "title": "Woodworkers, All Other",
+    "totalEmployment": 6590,
+    "p10": 30470,
+    "p25": 35890,
+    "p50": 41220,
+    "p75": 48820,
+    "p90": 60870
+  },
+  {
+    "code": "51-8011",
+    "title": "Nuclear Power Reactor Operators",
+    "totalEmployment": 5720,
+    "p10": 99300,
+    "p25": 107170,
+    "p50": 122610,
+    "p75": 131520,
+    "p90": 152690
+  },
+  {
+    "code": "51-8012",
+    "title": "Power Distributors and Dispatchers",
+    "totalEmployment": 9180,
+    "p10": 70760,
+    "p25": 91670,
+    "p50": 107240,
+    "p75": 128690,
+    "p90": 144900
+  },
+  {
+    "code": "51-8013",
+    "title": "Power Plant Operators",
+    "totalEmployment": 30720,
+    "p10": 59930,
+    "p25": 77400,
+    "p50": 99670,
+    "p75": 111980,
+    "p90": 128760
+  },
+  {
+    "code": "51-8021",
+    "title": "Stationary Engineers and Boiler Operators",
+    "totalEmployment": 30780,
+    "p10": 47310,
+    "p25": 60110,
+    "p50": 75190,
+    "p75": 96420,
+    "p90": 121200
+  },
+  {
+    "code": "51-8031",
+    "title": "Water and Wastewater Treatment Plant and System Operators",
+    "totalEmployment": 126750,
+    "p10": 37870,
+    "p25": 47020,
+    "p50": 58260,
+    "p75": 71280,
+    "p90": 86160
+  },
+  {
+    "code": "51-8091",
+    "title": "Chemical Plant and System Operators",
+    "totalEmployment": 17840,
+    "p10": 48000,
+    "p25": 57080,
+    "p50": 73540,
+    "p75": 98050,
+    "p90": 107790
+  },
+  {
+    "code": "51-8092",
+    "title": "Gas Plant Operators",
+    "totalEmployment": 15910,
+    "p10": 59040,
+    "p25": 73150,
+    "p50": 83400,
+    "p75": 100000,
+    "p90": 109350
+  },
+  {
+    "code": "51-8093",
+    "title": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+    "totalEmployment": 34860,
+    "p10": 59790,
+    "p25": 77970,
+    "p50": 97540,
+    "p75": 104660,
+    "p90": 112920
+  },
+  {
+    "code": "51-8099",
+    "title": "Plant and System Operators, All Other",
+    "totalEmployment": 15950,
+    "p10": 40250,
+    "p25": 47860,
+    "p50": 61710,
+    "p75": 76910,
+    "p90": 92750
+  },
+  {
+    "code": "51-9011",
+    "title": "Chemical Equipment Operators and Tenders",
+    "totalEmployment": 127410,
+    "p10": 37270,
+    "p25": 45660,
+    "p50": 57090,
+    "p75": 71400,
+    "p90": 88460
+  },
+  {
+    "code": "51-9012",
+    "title": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+    "totalEmployment": 54200,
+    "p10": 35810,
+    "p25": 41830,
+    "p50": 49500,
+    "p75": 61350,
+    "p90": 75860
+  },
+  {
+    "code": "51-9021",
+    "title": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+    "totalEmployment": 28550,
+    "p10": 35380,
+    "p25": 38990,
+    "p50": 46890,
+    "p75": 58440,
+    "p90": 65980
+  },
+  {
+    "code": "51-9022",
+    "title": "Grinding and Polishing Workers, Hand",
+    "totalEmployment": 11850,
+    "p10": 32120,
+    "p25": 36660,
+    "p50": 41690,
+    "p75": 48410,
+    "p90": 57250
+  },
+  {
+    "code": "51-9023",
+    "title": "Mixing and Blending Machine Setters, Operators, and Tenders",
+    "totalEmployment": 100840,
+    "p10": 35000,
+    "p25": 39800,
+    "p50": 47680,
+    "p75": 57940,
+    "p90": 67570
+  },
+  {
+    "code": "51-9031",
+    "title": "Cutters and Trimmers, Hand",
+    "totalEmployment": 7070,
+    "p10": 29910,
+    "p25": 33860,
+    "p50": 38800,
+    "p75": 48790,
+    "p90": 57820
+  },
+  {
+    "code": "51-9032",
+    "title": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+    "totalEmployment": 47540,
+    "p10": 34890,
+    "p25": 38540,
+    "p50": 45700,
+    "p75": 52000,
+    "p90": 60430
+  },
+  {
+    "code": "51-9041",
+    "title": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+    "totalEmployment": 57310,
+    "p10": 34790,
+    "p25": 38410,
+    "p50": 45130,
+    "p75": 51970,
+    "p90": 64660
+  },
+  {
+    "code": "51-9051",
+    "title": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+    "totalEmployment": 16160,
+    "p10": 35010,
+    "p25": 39250,
+    "p50": 47010,
+    "p75": 57840,
+    "p90": 66190
+  },
+  {
+    "code": "51-9061",
+    "title": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+    "totalEmployment": 591180,
+    "p10": 34590,
+    "p25": 38740,
+    "p50": 47460,
+    "p75": 59970,
+    "p90": 75510
+  },
+  {
+    "code": "51-9071",
+    "title": "Jewelers and Precious Stone and Metal Workers",
+    "totalEmployment": 23420,
+    "p10": 33890,
+    "p25": 38030,
+    "p50": 49140,
+    "p75": 63210,
+    "p90": 81610
+  },
+  {
+    "code": "51-9081",
+    "title": "Dental Laboratory Technicians",
+    "totalEmployment": 33920,
+    "p10": 36100,
+    "p25": 39250,
+    "p50": 48310,
+    "p75": 62320,
+    "p90": 78680
+  },
+  {
+    "code": "51-9082",
+    "title": "Medical Appliance Technicians",
+    "totalEmployment": 11490,
+    "p10": 36560,
+    "p25": 40300,
+    "p50": 47060,
+    "p75": 58710,
+    "p90": 74570
+  },
+  {
+    "code": "51-9083",
+    "title": "Ophthalmic Laboratory Technicians",
+    "totalEmployment": 18740,
+    "p10": 31250,
+    "p25": 35580,
+    "p50": 38420,
+    "p75": 45410,
+    "p90": 55480
+  },
+  {
+    "code": "51-9111",
+    "title": "Packaging and Filling Machine Operators and Tenders",
+    "totalEmployment": 383860,
+    "p10": 31890,
+    "p25": 36250,
+    "p50": 40900,
+    "p75": 48440,
+    "p90": 58910
+  },
+  {
+    "code": "51-9123",
+    "title": "Painting, Coating, and Decorating Workers",
+    "totalEmployment": 8470,
+    "p10": 28490,
+    "p25": 34540,
+    "p50": 40860,
+    "p75": 50700,
+    "p90": 62770
+  },
+  {
+    "code": "51-9124",
+    "title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+    "totalEmployment": 159500,
+    "p10": 35480,
+    "p25": 39470,
+    "p50": 47590,
+    "p75": 58740,
+    "p90": 72800
+  },
+  {
+    "code": "51-9141",
+    "title": "Semiconductor Processing Technicians",
+    "totalEmployment": 32150,
+    "p10": 35980,
+    "p25": 45320,
+    "p50": 51180,
+    "p75": 74640,
+    "p90": 87190
+  },
+  {
+    "code": "51-9151",
+    "title": "Photographic Process Workers and Processing Machine Operators",
+    "totalEmployment": 5550,
+    "p10": 30840,
+    "p25": 34460,
+    "p50": 40100,
+    "p75": 51590,
+    "p90": 69290
+  },
+  {
+    "code": "51-9161",
+    "title": "Computer Numerically Controlled Tool Operators",
+    "totalEmployment": 176950,
+    "p10": 37160,
+    "p25": 42710,
+    "p50": 49970,
+    "p75": 60980,
+    "p90": 71160
+  },
+  {
+    "code": "51-9162",
+    "title": "Computer Numerically Controlled Tool Programmers",
+    "totalEmployment": 28230,
+    "p10": 45760,
+    "p25": 55960,
+    "p50": 65670,
+    "p75": 80300,
+    "p90": 97930
+  },
+  {
+    "code": "51-9191",
+    "title": "Adhesive Bonding Machine Operators and Tenders",
+    "totalEmployment": 12170,
+    "p10": 31290,
+    "p25": 36420,
+    "p50": 45210,
+    "p75": 52060,
+    "p90": 60420
+  },
+  {
+    "code": "51-9192",
+    "title": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+    "totalEmployment": 13890,
+    "p10": 32770,
+    "p25": 37140,
+    "p50": 41460,
+    "p75": 48280,
+    "p90": 56590
+  },
+  {
+    "code": "51-9193",
+    "title": "Cooling and Freezing Equipment Operators and Tenders",
+    "totalEmployment": 6590,
+    "p10": 33710,
+    "p25": 36150,
+    "p50": 40160,
+    "p75": 49150,
+    "p90": 62760
+  },
+  {
+    "code": "51-9194",
+    "title": "Etchers and Engravers",
+    "totalEmployment": 8390,
+    "p10": 29530,
+    "p25": 35650,
+    "p50": 40450,
+    "p75": 48510,
+    "p90": 60430
+  },
+  {
+    "code": "51-9195",
+    "title": "Molders, Shapers, and Casters, Except Metal and Plastic",
+    "totalEmployment": 34750,
+    "p10": 34950,
+    "p25": 38500,
+    "p50": 45690,
+    "p75": 51340,
+    "p90": 61050
+  },
+  {
+    "code": "51-9196",
+    "title": "Paper Goods Machine Setters, Operators, and Tenders",
+    "totalEmployment": 96950,
+    "p10": 36610,
+    "p25": 43520,
+    "p50": 49390,
+    "p75": 59220,
+    "p90": 68640
+  },
+  {
+    "code": "51-9197",
+    "title": "Tire Builders",
+    "totalEmployment": 20970,
+    "p10": 39990,
+    "p25": 48740,
+    "p50": 55580,
+    "p75": 65410,
+    "p90": 70250
+  },
+  {
+    "code": "51-9198",
+    "title": "Helpers--Production Workers",
+    "totalEmployment": 167490,
+    "p10": 30060,
+    "p25": 34390,
+    "p50": 38220,
+    "p75": 44980,
+    "p90": 52120
+  },
+  {
+    "code": "51-9199",
+    "title": "Production Workers, All Other",
+    "totalEmployment": 277060,
+    "p10": 30370,
+    "p25": 35080,
+    "p50": 38820,
+    "p75": 47550,
+    "p90": 59600
+  },
+  {
+    "code": "53-1041",
+    "title": "Aircraft Cargo Handling Supervisors",
+    "totalEmployment": 10160,
+    "p10": 38010,
+    "p25": 49020,
+    "p50": 63940,
+    "p75": 79600,
+    "p90": 96300
+  },
+  {
+    "code": "53-1047",
+    "title": "First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",
+    "totalEmployment": 605510,
+    "p10": 41290,
+    "p25": 48750,
+    "p50": 61890,
+    "p75": 77520,
+    "p90": 94830
+  },
+  {
+    "code": "53-2011",
+    "title": "Airline Pilots, Copilots, and Flight Engineers",
+    "totalEmployment": 99300,
+    "p10": 98560,
+    "p25": 154360,
+    "p50": 226600,
+    "p75": null,
+    "p90": null
+  },
+  {
+    "code": "53-2012",
+    "title": "Commercial Pilots",
+    "totalEmployment": 51830,
+    "p10": 59330,
+    "p25": 81660,
+    "p50": 122670,
+    "p75": 175050,
+    "p90": null
+  },
+  {
+    "code": "53-2021",
+    "title": "Air Traffic Controllers",
+    "totalEmployment": 22400,
+    "p10": 76090,
+    "p25": 101150,
+    "p50": 144580,
+    "p75": 186510,
+    "p90": 210410
+  },
+  {
+    "code": "53-2022",
+    "title": "Airfield Operations Specialists",
+    "totalEmployment": 16640,
+    "p10": 35200,
+    "p25": 41220,
+    "p50": 56750,
+    "p75": 78320,
+    "p90": 111030
+  },
+  {
+    "code": "53-2031",
+    "title": "Flight Attendants",
+    "totalEmployment": 130110,
+    "p10": 34030,
+    "p25": 52280,
+    "p50": 67130,
+    "p75": 98160,
+    "p90": 138040
+  },
+  {
+    "code": "53-3011",
+    "title": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+    "totalEmployment": 12080,
+    "p10": 25460,
+    "p25": 29580,
+    "p50": 34330,
+    "p75": 38000,
+    "p90": 46630
+  },
+  {
+    "code": "53-3031",
+    "title": "Driver/Sales Workers",
+    "totalEmployment": 417420,
+    "p10": 21760,
+    "p25": 29120,
+    "p50": 37130,
+    "p75": 47590,
+    "p90": 59730
+  },
+  {
+    "code": "53-3032",
+    "title": "Heavy and Tractor-Trailer Truck Drivers",
+    "totalEmployment": 2070480,
+    "p10": 38640,
+    "p25": 47230,
+    "p50": 57440,
+    "p75": 65520,
+    "p90": 78800
+  },
+  {
+    "code": "53-3033",
+    "title": "Light Truck Drivers",
+    "totalEmployment": 994410,
+    "p10": 29580,
+    "p25": 36670,
+    "p50": 44140,
+    "p75": 52460,
+    "p90": 79630
+  },
+  {
+    "code": "53-3051",
+    "title": "Bus Drivers, School",
+    "totalEmployment": 387920,
+    "p10": 27680,
+    "p25": 37490,
+    "p50": 47040,
+    "p75": 56140,
+    "p90": 63810
+  },
+  {
+    "code": "53-3052",
+    "title": "Bus Drivers, Transit and Intercity",
+    "totalEmployment": 148980,
+    "p10": 38250,
+    "p25": 46050,
+    "p50": 57440,
+    "p75": 69090,
+    "p90": 82640
+  },
+  {
+    "code": "53-3053",
+    "title": "Shuttle Drivers and Chauffeurs",
+    "totalEmployment": 229630,
+    "p10": 27490,
+    "p25": 31460,
+    "p50": 36670,
+    "p75": 44510,
+    "p90": 52910
+  },
+  {
+    "code": "53-3054",
+    "title": "Taxi Drivers",
+    "totalEmployment": 17510,
+    "p10": 27280,
+    "p25": 31320,
+    "p50": 36220,
+    "p75": 40630,
+    "p90": 61920
+  },
+  {
+    "code": "53-3099",
+    "title": "Motor Vehicle Operators, All Other",
+    "totalEmployment": 50330,
+    "p10": 25690,
+    "p25": 30250,
+    "p50": 36260,
+    "p75": 47130,
+    "p90": 64940
+  },
+  {
+    "code": "53-4011",
+    "title": "Locomotive Engineers",
+    "totalEmployment": 31990,
+    "p10": 60980,
+    "p25": 73410,
+    "p50": 77400,
+    "p75": 84230,
+    "p90": 100690
+  },
+  {
+    "code": "53-4013",
+    "title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+    "totalEmployment": 3300,
+    "p10": 44510,
+    "p25": 51770,
+    "p50": 58030,
+    "p75": 65530,
+    "p90": 79070
+  },
+  {
+    "code": "53-4022",
+    "title": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+    "totalEmployment": 12460,
+    "p10": 43750,
+    "p25": 51730,
+    "p50": 65480,
+    "p75": 70130,
+    "p90": 80840
+  },
+  {
+    "code": "53-4031",
+    "title": "Railroad Conductors and Yardmasters",
+    "totalEmployment": 42710,
+    "p10": 53490,
+    "p25": 63480,
+    "p50": 74080,
+    "p75": 82060,
+    "p90": 103350
+  },
+  {
+    "code": "53-4041",
+    "title": "Subway and Streetcar Operators",
+    "totalEmployment": 9200,
+    "p10": 52260,
+    "p25": 59500,
+    "p50": 84830,
+    "p75": 87940,
+    "p90": 87940
+  },
+  {
+    "code": "53-4099",
+    "title": "Rail Transportation Workers, All Other",
+    "totalEmployment": 1520,
+    "p10": 34690,
+    "p25": 40460,
+    "p50": 49330,
+    "p75": 64710,
+    "p90": 82620
+  },
+  {
+    "code": "53-5011",
+    "title": "Sailors and Marine Oilers",
+    "totalEmployment": 31360,
+    "p10": 33350,
+    "p25": 38450,
+    "p50": 49610,
+    "p75": 65370,
+    "p90": 81890
+  },
+  {
+    "code": "53-5021",
+    "title": "Captains, Mates, and Pilots of Water Vessels",
+    "totalEmployment": 35390,
+    "p10": 46260,
+    "p25": 60800,
+    "p50": 85540,
+    "p75": 124530,
+    "p90": 164230
+  },
+  {
+    "code": "53-5022",
+    "title": "Motorboat Operators",
+    "totalEmployment": 2380,
+    "p10": 31970,
+    "p25": 39860,
+    "p50": 51880,
+    "p75": 68490,
+    "p90": 82330
+  },
+  {
+    "code": "53-5031",
+    "title": "Ship Engineers",
+    "totalEmployment": 8580,
+    "p10": 56620,
+    "p25": 71720,
+    "p50": 101320,
+    "p75": 130380,
+    "p90": 162370
+  },
+  {
+    "code": "53-6011",
+    "title": "Bridge and Lock Tenders",
+    "totalEmployment": 2720,
+    "p10": 32690,
+    "p25": 43700,
+    "p50": 58490,
+    "p75": 69530,
+    "p90": 74400
+  },
+  {
+    "code": "53-6021",
+    "title": "Parking Attendants",
+    "totalEmployment": 134650,
+    "p10": 24960,
+    "p25": 29590,
+    "p50": 34600,
+    "p75": 37230,
+    "p90": 43840
+  },
+  {
+    "code": "53-6031",
+    "title": "Automotive and Watercraft Service Attendants",
+    "totalEmployment": 98270,
+    "p10": 27870,
+    "p25": 30600,
+    "p50": 34850,
+    "p75": 38430,
+    "p90": 45240
+  },
+  {
+    "code": "53-6032",
+    "title": "Aircraft Service Attendants",
+    "totalEmployment": 27310,
+    "p10": 34320,
+    "p25": 37320,
+    "p50": 41540,
+    "p75": 47390,
+    "p90": 55950
+  },
+  {
+    "code": "53-6041",
+    "title": "Traffic Technicians",
+    "totalEmployment": 7580,
+    "p10": 38060,
+    "p25": 46690,
+    "p50": 58480,
+    "p75": 74480,
+    "p90": 85810
+  },
+  {
+    "code": "53-6051",
+    "title": "Transportation Inspectors",
+    "totalEmployment": 23320,
+    "p10": 40090,
+    "p25": 58650,
+    "p50": 85750,
+    "p75": 105020,
+    "p90": 137120
+  },
+  {
+    "code": "53-6061",
+    "title": "Passenger Attendants",
+    "totalEmployment": 25340,
+    "p10": 29120,
+    "p25": 32090,
+    "p50": 37560,
+    "p75": 41180,
+    "p90": 49510
+  },
+  {
+    "code": "53-6099",
+    "title": "Transportation Workers, All Other",
+    "totalEmployment": 10960,
+    "p10": 27780,
+    "p25": 32630,
+    "p50": 39630,
+    "p75": 53350,
+    "p90": 65810
+  },
+  {
+    "code": "53-7011",
+    "title": "Conveyor Operators and Tenders",
+    "totalEmployment": 26060,
+    "p10": 34940,
+    "p25": 37500,
+    "p50": 41230,
+    "p75": 48640,
+    "p90": 60390
+  },
+  {
+    "code": "53-7021",
+    "title": "Crane and Tower Operators",
+    "totalEmployment": 42000,
+    "p10": 41670,
+    "p25": 50970,
+    "p50": 66370,
+    "p75": 81630,
+    "p90": 102400
+  },
+  {
+    "code": "53-7031",
+    "title": "Dredge Operators",
+    "totalEmployment": 1030,
+    "p10": 42060,
+    "p25": 46120,
+    "p50": 48430,
+    "p75": 60300,
+    "p90": 75050
+  },
+  {
+    "code": "53-7041",
+    "title": "Hoist and Winch Operators",
+    "totalEmployment": 2480,
+    "p10": 33910,
+    "p25": 39220,
+    "p50": 52310,
+    "p75": 90200,
+    "p90": 116120
+  },
+  {
+    "code": "53-7051",
+    "title": "Industrial Truck and Tractor Operators",
+    "totalEmployment": 805770,
+    "p10": 36500,
+    "p25": 39780,
+    "p50": 46390,
+    "p75": 53680,
+    "p90": 61540
+  },
+  {
+    "code": "53-7061",
+    "title": "Cleaners of Vehicles and Equipment",
+    "totalEmployment": 373960,
+    "p10": 26740,
+    "p25": 29790,
+    "p50": 35270,
+    "p75": 39630,
+    "p90": 47150
+  },
+  {
+    "code": "53-7062",
+    "title": "Laborers and Freight, Stock, and Material Movers, Hand",
+    "totalEmployment": 2982530,
+    "p10": 30810,
+    "p25": 35410,
+    "p50": 38940,
+    "p75": 46370,
+    "p90": 53180
+  },
+  {
+    "code": "53-7063",
+    "title": "Machine Feeders and Offbearers",
+    "totalEmployment": 46690,
+    "p10": 31480,
+    "p25": 36020,
+    "p50": 39700,
+    "p75": 48220,
+    "p90": 57010
+  },
+  {
+    "code": "53-7064",
+    "title": "Packers and Packagers, Hand",
+    "totalEmployment": 601440,
+    "p10": 27050,
+    "p25": 31470,
+    "p50": 35580,
+    "p75": 40960,
+    "p90": 46260
+  },
+  {
+    "code": "53-7065",
+    "title": "Stockers and Order Fillers",
+    "totalEmployment": 2779530,
+    "p10": 29850,
+    "p25": 33710,
+    "p50": 37090,
+    "p75": 43140,
+    "p90": 49200
+  },
+  {
+    "code": "53-7071",
+    "title": "Gas Compressor and Gas Pumping Station Operators",
+    "totalEmployment": 5110,
+    "p10": 43950,
+    "p25": 57520,
+    "p50": 71510,
+    "p75": 88090,
+    "p90": 98350
+  },
+  {
+    "code": "53-7072",
+    "title": "Pump Operators, Except Wellhead Pumpers",
+    "totalEmployment": 12600,
+    "p10": 37850,
+    "p25": 47270,
+    "p50": 60020,
+    "p75": 75160,
+    "p90": 89660
+  },
+  {
+    "code": "53-7073",
+    "title": "Wellhead Pumpers",
+    "totalEmployment": 17350,
+    "p10": 39110,
+    "p25": 54450,
+    "p50": 70010,
+    "p75": 80720,
+    "p90": 97470
+  },
+  {
+    "code": "53-7081",
+    "title": "Refuse and Recyclable Material Collectors",
+    "totalEmployment": 139180,
+    "p10": 31810,
+    "p25": 38330,
+    "p50": 48350,
+    "p75": 61010,
+    "p90": 75200
+  },
+  {
+    "code": "53-7121",
+    "title": "Tank Car, Truck, and Ship Loaders",
+    "totalEmployment": 10920,
+    "p10": 38260,
+    "p25": 47260,
+    "p50": 58070,
+    "p75": 71230,
+    "p90": 88120
+  },
+  {
+    "code": "53-7199",
+    "title": "Material Moving Workers, All Other",
+    "totalEmployment": 25190,
+    "p10": 33280,
+    "p25": 35470,
+    "p50": 41690,
+    "p75": 50850,
+    "p90": 64850
+  }
+]

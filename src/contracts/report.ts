@@ -117,11 +117,11 @@ export const CohortSchema = z.object({
   majorId: z.string(),
   gradYearRange: z.string(),
   sampleSize: z.number(),
-  paths: z.array(PathSchema),
+  paths: z.array(PathSchema).optional(),
   salary: SalaryDistributionSchema,
-  relocation: RelocationSchema,
-  employers: z.array(EmployerSchema),
-  titles: z.array(TitleSchema),
+  relocation: RelocationSchema.optional(),
+  employers: z.array(EmployerSchema).optional(),
+  titles: z.array(TitleSchema).optional(),
 });
 
 export type Cohort = z.infer<typeof CohortSchema>;

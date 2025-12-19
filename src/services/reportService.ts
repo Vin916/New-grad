@@ -84,14 +84,14 @@ export class ReportService {
       };
     }
 
-    // Find top path (highest percentage)
-    const topPath = cohort.paths.reduce((max, p) =>
-      p.pct > max.pct ? p : max
-    ).category;
+    // Find top path (highest percentage) - use default if no paths data
+    const topPath = cohort.paths && cohort.paths.length > 0
+      ? cohort.paths.reduce((max, p) => p.pct > max.pct ? p : max).category
+      : "Full-time Employment";
 
-    // Find top metro (highest percentage)
+    // Find top metro (highest percentage) - use null if no relocation data
     const topMetro =
-      cohort.relocation.metros.length > 0
+      cohort.relocation && cohort.relocation.metros.length > 0
         ? cohort.relocation.metros.reduce((max, m) =>
             m.pct > max.pct ? m : max
           ).name

@@ -34,9 +34,11 @@ export type ScenarioInput = z.infer<typeof ScenarioInputSchema>;
 // School type for dropdowns
 export const SchoolSchema = z.object({
   id: z.string(),
+  unitid: z.string().optional(),
   name: z.string(),
-  type: z.enum(["PUBLIC", "PRIVATE", "COMMUNITY"]),
+  city: z.string().optional(),
   state: z.string(),
+  type: z.enum(["PUBLIC", "PRIVATE", "FOR_PROFIT", "COMMUNITY"]),
   tier: z.enum(["ELITE", "SELECTIVE", "COMPETITIVE", "ACCESSIBLE"]).optional(),
 });
 
