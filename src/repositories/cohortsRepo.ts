@@ -1,6 +1,7 @@
 import { Cohort, CohortSchema } from "@/contracts/report";
 import cohortsData from "@data/mock/cohorts.json";
 import schoolsData from "@data/mock/schools.json";
+import majorsData from "@data/mock/majors.json";
 
 /**
  * Repository for accessing cohort outcome data.
@@ -9,6 +10,7 @@ import schoolsData from "@data/mock/schools.json";
 export class CohortsRepository {
   private cohorts: Cohort[];
   private schoolIdToUnitid: Map<string, string>;
+  private majorIdToCipCode: Map<string, string>;
 
   constructor() {
     // Validate and parse mock data on initialization
@@ -19,6 +21,14 @@ export class CohortsRepository {
     for (const school of schoolsData as Array<{ id: string; unitid?: string }>) {
       if (school.unitid) {
         this.schoolIdToUnitid.set(school.id, school.unitid);
+      }
+    }
+    
+    // Build major ID to cipCode mapping
+    this.majorIdToCipCode = new Map();
+    for (const major of majorsData as Array<{ id: string; cipCode?: string }>) {
+      if (major.cipCode) {
+        this.majorIdToCipCode.set(major.id, major.cipCode);
       }
     }
   }
@@ -47,10 +57,12 @@ export class CohortsRepository {
   ): Promise<Cohort | null> {
     // Convert school slug ID to unitid for lookup
     const unitid = this.schoolIdToUnitid.get(schoolId) ?? schoolId;
+    // Convert major slug ID to cipCode for lookup
+    const cipCode = this.majorIdToCipCode.get(majorId) ?? majorId;
     
-    // First try exact match with unitid and majorId (cipCode)
+    // First try exact match with unitid and cipCode
     const exactMatch = this.cohorts.find(
-      (c) => c.schoolId === unitid && c.majorId === majorId
+      (c) => c.schoolId === unitid && c.majorId === cipCode
     );
     if (exactMatch) return exactMatch;
 
@@ -62,7 +74,7 @@ export class CohortsRepository {
 
     // Try major-only match (that major at any school)
     const majorMatch = this.cohorts.find(
-      (c) => c.majorId === majorId
+      (c) => c.majorId === cipCode
     );
     if (majorMatch) return majorMatch;
 
@@ -82,7 +94,9 @@ export class CohortsRepository {
    * Get cohorts by major
    */
   async getByMajor(majorId: string): Promise<Cohort[]> {
-    return this.cohorts.filter((c) => c.majorId === majorId);
+    // Convert major slug ID to cipCode for lookup
+    const cipCode = this.majorIdToCipCode.get(majorId) ?? majorId;
+    return this.cohorts.filter((c) => c.majorId === cipCode);
   }
 }
 
